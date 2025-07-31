@@ -2,6 +2,14 @@
 
 _Description_: Government initiatives to build open source software skills and knowledge among public sector employees, including training programs, workshops, and educational resources.
 
+
+rememerb to add also the 
+
+[OSS Funding and Support Programs]
+Allocation of public resources to fund the maintenance, development, or security of open source tools.
+
+
+
 ---
 
 ## 🧩 How to contribute

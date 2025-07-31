@@ -69,10 +69,9 @@ nav:
     - Mandatory Contribution Back to OSS: policies/mandatory-contribution-back-oss_en.md
     - Open Standards Requirement: policies/open-standards-requirement_en.md
     - Licensing Frameworks and Guidelines: policies/licensing-frameworks-guidelines_en.md
-    - OSS Funding and Support Programs: policies/oss-funding-support-programs_en.md
     - OSS Training Programs: policies/oss-training-programs_en.md
-    - OSS in Critical Infrastructure: policies/oss-critical-infrastructure_en.md
     - OSS in Strategic Planning Documents: policies/oss-strategic-planning-documents_en.md
+    - Complete Country Overview: policies/complete-country-overview_en.md
   - Contribution: contribution.md
 
 markdown_extensions:

@@ -21,13 +21,11 @@ Organizamos políticas nas seguintes categorias:
 
 ### 💰 Políticas de Aquisição e Econômicas
 - **Priorizar Código Aberto em Aquisições**: Políticas que dão preferência a soluções de código aberto em compras governamentais
-- **Programas de Financiamento e Apoio a OSS**: Programas governamentais que apoiam financeiramente projetos de código aberto
 - **Estruturas e Diretrizes de Licenciamento**: Orientação oficial sobre licenciamento de código aberto para uso governamental
 
 ### 🛡️ Segurança e Padrões
 - **Medidas de Segurança de Código Aberto**: Políticas abordando considerações de segurança na adoção de código aberto
 - **Requisito de Padrões Abertos**: Mandatos para usar padrões abertos em sistemas governamentais
-- **OSS em Infraestrutura Crítica**: Políticas específicas para uso de código aberto em sistemas críticos
 
 ### 📚 Desenvolvimento de Capacidades e Estratégia
 - **Programas de Treinamento em OSS**: Iniciativas governamentais para desenvolver habilidades em código aberto
