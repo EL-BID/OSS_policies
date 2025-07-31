@@ -1,0 +1,53 @@
+name: Policy Suggestion
+description: Suggest a new open source policy or improvement
+labels: [contribution]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Policy Title
+      description: What's the name of the policy or legislation?
+      placeholder: e.g. "Open Source First Procurement Act"
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Policy Category
+      description: Choose where this fits best.
+      options:
+        - Public Release of State-Owned Software
+        - Reuse and Transfer of Government Software
+        - Prioritize Open Source in Procurement
+        - OSS Funding and Support Programs
+        - Licensing Frameworks and Guidelines
+        - Open Source Sharing Platforms
+        - Open Source Security Measures
+        - Open Standards Requirement
+        - OSS in Critical Infrastructure
+        - OSS Training Programs
+        - OSS in Strategic Planning Documents
+        - Mandatory Contribution Back to OSS
+
+  - type: input
+    id: country
+    attributes:
+      label: Country (or Region/Institution)
+      placeholder: e.g. France, Colombia, European Union
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description or Summary
+      description: A short explanation of what the policy does and why it matters.
+
+  - type: input
+    id: link
+    attributes:
+      label: Official Link or Source
+      placeholder: e.g. https://govsite.gov/policy/open-source
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Notes (optional)
+      description: Any other context, related policies, or implementation info?

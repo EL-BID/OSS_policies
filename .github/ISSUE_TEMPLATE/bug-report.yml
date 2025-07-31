@@ -1,0 +1,43 @@
+name: Bug Report
+description: Report a problem with the documentation site
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: What's wrong? What did you expect to happen?
+      placeholder: Describe the issue clearly...
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. See error...
+
+  - type: input
+    id: url
+    attributes:
+      label: Page URL (if applicable)
+      placeholder: https://el-bid.github.io/OSS_policies/...
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser (if applicable)
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Other
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Screenshots, error messages, or other helpful context

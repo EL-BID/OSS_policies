@@ -2,20 +2,20 @@
 
 _Description_: Policies requiring government agencies to publicly release software code developed with public funds, promoting transparency and enabling reuse by other organizations.
 
----
-
-## 🧩 How to contribute
+<!--
+🧩 How to contribute
 
 To add a country to this policy, copy and paste this block below:
 
-```markdown
+
+
 ## 🇨🇴 Colombia
 - 🔗 [Official link](https://example.gov)
 - 📄 Excerpt:
-  > Law ABC requires public agencies to release source code...
-```
+  > Regulation JKL mandates upstream contributions to open source projects...
 
----
+
+-->
 
 ## 🇧🇷 Brazil
 

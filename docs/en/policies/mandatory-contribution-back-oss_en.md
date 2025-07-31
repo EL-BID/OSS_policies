@@ -2,20 +2,20 @@
 
 _Description_: Policies requiring government agencies to contribute improvements, bug fixes, or modifications back to the open source projects they use, ensuring reciprocal community benefit.
 
----
-
-## 🧩 How to contribute
+<!--
+🧩 How to contribute
 
 To add a country to this policy, copy and paste this block below:
 
-```markdown
+
+
 ## 🇨🇴 Colombia
 - 🔗 [Official link](https://example.gov)
 - 📄 Excerpt:
   > Regulation JKL mandates upstream contributions to open source projects...
-```
 
----
+
+-->
 
 ## 🇫🇷 France
 

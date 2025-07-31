@@ -49,12 +49,14 @@ plugins:
           nav_translations:
             Home: Inicio
             Policies: Políticas
+            Contribution: Contribución
         - locale: pt
           name: Português
           build: true
           nav_translations:
             Home: Início
             Policies: Políticas
+            Contribution: Contribuição
 
 nav:
   - Home: index.md
@@ -71,6 +73,7 @@ nav:
     - OSS Training Programs: policies/oss-training-programs_en.md
     - OSS in Critical Infrastructure: policies/oss-critical-infrastructure_en.md
     - OSS in Strategic Planning Documents: policies/oss-strategic-planning-documents_en.md
+  - Contribution: contribution.md
 
 markdown_extensions:
   - admonition

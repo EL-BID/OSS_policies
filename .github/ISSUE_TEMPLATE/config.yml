@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://EL-BID.github.io/OSS_policies
+    about: Visit our documentation site
+  - name: 🤝 Contributing Guidelines
+    url: https://github.com/EL-BID/OSS_policies/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute to this project
