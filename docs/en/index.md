@@ -91,6 +91,7 @@ If you know of a policy we should include or you'd like us to review something:
 - Use our [Policy Suggestion Issue Template](https://github.com/EL-BID/OSS_policies/issues/new?assignees=&labels=contribution&template=policy-suggestion.yml&title=Suggestion%3A+%5BPolicy+Name%5D)
 
 You can let us know:
+
 - The name and purpose of the policy
 - Which category it belongs to
 - Whether it's new or related to an existing entry
