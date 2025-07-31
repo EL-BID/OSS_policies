@@ -16,9 +16,10 @@ This project aims to **collect, organize, and document public policies** related
 ## 🧭 Structure
 
 Policies are categorized by **policy type**, not by country. Each linked page includes:
+
 - A short explanation of the policy type
-- Key features or innovations
-- A link to the official government source (when available)
+- A link to the official government source
+- Policy Excerpt
 
 
 ## 📂 Policy Categories
