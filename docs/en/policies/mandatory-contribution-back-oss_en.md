@@ -1,30 +1,98 @@
 # Mandatory Contribution Back to Open-Source Projects
 
-_Description_: Policies requiring government agencies to contribute improvements, bug fixes, or modifications back to the open source projects they use, ensuring reciprocal community benefit.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
-<!--
-🧩 How to contribute
+### 🇧🇷 Brazil
 
-To add a country to this policy, copy and paste this block below:
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
+### 🇨🇦 Canada
 
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > Regulation JKL mandates upstream contributions to open source projects...
+### 🇪🇨 Ecuador
 
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
--->
+### 🇬🇧 England
 
-## 🇫🇷 France
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Socle interministériel de logiciels libres (SILL)](https://sill.etalab.gouv.fr/)
-- 📄 Excerpt:
-  > "Public administrations are encouraged to contribute to the improvement of free software referenced in the SILL and to share their developments."
+### 🇪🇪 Estonia
 
-## 🇩🇪 Germany
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Open Source Software Strategy](https://www.cio.bund.de/Web/DE/Architekturen-und-Standards/Open-Source/open-source-node.html)
-- 📄 Excerpt:
-  > "Federal agencies should contribute back to open source projects when they make modifications or improvements to existing software solutions."
+### 🇫🇷 France
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

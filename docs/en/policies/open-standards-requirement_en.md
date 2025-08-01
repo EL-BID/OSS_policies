@@ -1,36 +1,98 @@
 # Open Standards Requirement
 
-_Description_: Policies mandating the use of open standards in government systems to ensure interoperability, vendor independence, and long-term accessibility of public data and services.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
----
+### 🇧🇷 Brazil
 
-## 🧩 How to contribute
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-To add a country to this policy, copy and paste this block below:
+### 🇨🇦 Canada
 
-```markdown
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > Standard MNO requires all government systems to use open formats...
-```
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
----
+### 🇪🇨 Ecuador
 
-## 🇳🇱 Netherlands
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Dutch Open Standards List](https://www.forumstandaardisatie.nl/open-standaarden)
-- 📄 Excerpt:
-  > "Government organizations must use open standards for data exchange and document formats to ensure long-term accessibility and interoperability."
+### 🇬🇧 England
 
-## 🇧🇷 Brazil
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [e-PING - Electronic Government Interoperability Standards](https://www.gov.br/governodigital/pt-br/governanca-de-dados/eping)
-- 📄 Excerpt:
-  > "The e-PING architecture defines mandatory open standards for interoperability in electronic government systems."
+### 🇪🇪 Estonia
 
-## 🇬🇧 United Kingdom
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles)
-- 📄 Excerpt:
-  > "Government will use open standards, which are royalty-free, to avoid lock-in and ensure interoperability."
+### 🇫🇷 France
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

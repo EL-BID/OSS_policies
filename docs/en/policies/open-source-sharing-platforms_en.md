@@ -1,36 +1,98 @@
 # Open Source Sharing Platforms
 
-_Description_: Government-established platforms and repositories for sharing open source code, fostering collaboration between agencies, and enabling public access to government-developed software.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
----
+### 🇧🇷 Brazil
 
-## 🧩 How to contribute
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-To add a country to this policy, copy and paste this block below:
+### 🇨🇦 Canada
 
-```markdown
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > Platform GHI serves as the central repository for government code...
-```
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
----
+### 🇪🇨 Ecuador
 
-## 🇫🇷 France
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [code.gouv.fr](https://code.gouv.fr/)
-- 📄 Excerpt:
-  > "code.gouv.fr is the platform for sharing and collaborating on public source code, bringing together the codes published by public organizations."
+### 🇬🇧 England
 
-## 🇬🇧 United Kingdom
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [GOV.UK GitHub Organization](https://github.com/alphagov)
-- 📄 Excerpt:
-  > "Government Digital Service maintains organizational GitHub repositories to share code and promote collaboration across government departments."
+### 🇪🇪 Estonia
 
-## 🇮🇹 Italy
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Developers Italia](https://developers.italia.it/)
-- 📄 Excerpt:
-  > "Developers Italia is the reference point for the Italian Public Administration's open source software development community."
+### 🇫🇷 France
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

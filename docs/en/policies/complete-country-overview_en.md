@@ -1,31 +1,98 @@
 # Complete Country Overview
 
-_Description_: Comprehensive overview of open source policies by country, providing a consolidated view of each nation's approach to open source software governance.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
----
+### 🇧🇷 Brazil
 
-<!--
-🧩 How to contribute
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-To add a country overview to this page, copy and paste this block below:
+### 🇨🇦 Canada
 
-```markdown
-## 🇨🇴 Colombia
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-### Overview
-Brief description of the country's overall approach to open source software.
+### 🇪🇨 Ecuador
 
-### Key Policies
-- Policy 1: Brief description
-- Policy 2: Brief description
-- Policy 3: Brief description
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-### Links
-- [Official Digital Strategy](https://example.gov)
-- [Open Source Guidelines](https://example.gov)
-```
--->
+### 🇬🇧 England
 
----
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-*This page is currently under development. Country overviews will be added soon.*
+### 🇪🇪 Estonia
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇫🇷 France
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

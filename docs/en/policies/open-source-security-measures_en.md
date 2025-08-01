@@ -1,30 +1,98 @@
 # Open Source Security Measures
 
-_Description_: Policies and guidelines addressing security considerations, vulnerability management, and risk assessment specific to open source software adoption in government environments.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
----
+### 🇧🇷 Brazil
 
-## 🧩 How to contribute
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-To add a country to this policy, copy and paste this block below:
+### 🇨🇦 Canada
 
-```markdown
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > Security framework DEF outlines open source risk management...
-```
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
----
+### 🇪🇨 Ecuador
 
-## 🇺🇸 United States
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [NIST Cybersecurity Framework - Open Source Security](https://www.nist.gov/cyberframework)
-- 📄 Excerpt:
-  > "Organizations should implement supply chain risk management practices for open source components, including regular vulnerability scanning and dependency tracking."
+### 🇬🇧 England
 
-## 🇨🇦 Canada
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Direction on Open Source Software](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/)
-- 📄 Excerpt:
-  > "Departments must assess and mitigate security risks associated with open source software through established security assessment processes."
+### 🇪🇪 Estonia
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇫🇷 France
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

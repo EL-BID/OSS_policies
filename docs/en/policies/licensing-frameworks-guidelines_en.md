@@ -1,37 +1,98 @@
 # Licensing Frameworks and Guidelines
 
-_Description_: Official government guidance on selecting, implementing, and managing open source licenses for government-developed software and contributed code.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
----
+### 🇧🇷 Brazil
 
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🧩 How to contribute
+### 🇨🇦 Canada
 
-To add a country to this policy, copy and paste this block below:
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-```markdown
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > Licensing guide PQR establishes approved open source licenses...
-```
+### 🇪🇨 Ecuador
 
----
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇨🇦 Canada
+### 🇬🇧 England
 
-- 🔗 [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)
-- 📄 Excerpt:
-  > "Government of Canada recommends using MIT, Apache 2.0, or other OSI-approved licenses for releasing government-developed source code."
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇺🇸 United States
+### 🇪🇪 Estonia
 
-- 🔗 [Federal Source Code Policy - Licensing](https://sourcecode.cio.gov/)
-- 📄 Excerpt:
-  > "Agencies should use licenses approved by the Open Source Initiative (OSI) when releasing custom-developed code as Open Source Software."
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇬🇧 United Kingdom
+### 🇫🇷 France
 
-- 🔗 [GDS Open Source Licensing Guidance](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
-- 📄 Excerpt:
-  > "Government Digital Service recommends using the MIT license for most government code releases to maximize reusability and minimize legal barriers."
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

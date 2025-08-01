@@ -1,36 +1,98 @@
-# OSS in Strategic Planning Documents
+# OSS in strategic planning documents
 
-_Description_: Integration of open source software considerations into national digital strategies, digital transformation plans, and long-term technology roadmaps.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
----
+### 🇧🇷 Brazil
 
-## 🧩 How to contribute
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-To add a country to this policy, copy and paste this block below:
+### 🇨🇦 Canada
 
-```markdown
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > National digital strategy incorporates open source principles...
-```
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
----
+### 🇪🇨 Ecuador
 
-## 🇪🇸 Spain
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Digital Spain 2025 Strategy](https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/ficheros/200903_spain_digital_2025_eng.pdf)
-- 📄 Excerpt:
-  > "The Digital Spain 2025 strategy promotes the use of open source technologies as a means to achieve digital sovereignty and reduce technological dependence."
+### 🇬🇧 England
 
-## 🇫🇷 France
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [France 2030 Investment Plan](https://www.gouvernement.fr/france-2030)
-- 📄 Excerpt:
-  > "The France 2030 plan includes strategic investments in open source technologies and digital sovereignty initiatives."
+### 🇪🇪 Estonia
 
-## 🇧🇷 Brazil
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-- 🔗 [Brazilian Digital Transformation Strategy](https://www.gov.br/governodigital/pt-br/estrategia-de-governanca-digital/estrategia-de-transformacao-digital)
-- 📄 Excerpt:
-  > "Brazil's digital transformation strategy prioritizes open source solutions to promote innovation, reduce costs, and ensure technological independence."
+### 🇫🇷 France
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇩🇪 Germany
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇮🇹 Italy
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)

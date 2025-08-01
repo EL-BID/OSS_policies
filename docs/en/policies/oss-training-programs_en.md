@@ -1,44 +1,98 @@
 # OSS Training Programs
 
-_Description_: Government initiatives to build open source software skills and knowledge among public sector employees, including training programs, workshops, and educational resources.
+!!! abstract "About this policy"
+      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+  
+!!! note "What we include"
+      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      
+### 🌍  Policies
 
+### 🇧🇷 Brazil
 
-rememerb to add also the 
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-[OSS Funding and Support Programs]
-Allocation of public resources to fund the maintenance, development, or security of open source tools.
+### 🇨🇦 Canada
 
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
+### 🇪🇨 Ecuador
 
----
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🧩 How to contribute
+### 🇬🇧 England
 
-To add a country to this policy, copy and paste this block below:
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-```markdown
-## 🇨🇴 Colombia
-- 🔗 [Official link](https://example.gov)
-- 📄 Excerpt:
-  > Training initiative VWX provides open source education for civil servants...
-```
+### 🇪🇪 Estonia
 
----
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇮🇹 Italy
+### 🇫🇷 France
 
-- 🔗 [Competence Center for Open Source](https://developers.italia.it/en/reuse)
-- 📄 Excerpt:
-  > "The Italian PA provides training and support to public administrations for the adoption and development of open source software solutions."
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇨🇦 Canada
+### 🇩🇪 Germany
 
-- 🔗 [Digital Academy Open Source Training](https://www.csps-efpc.gc.ca/index-eng.aspx)
-- 📄 Excerpt:
-  > "The Canada School of Public Service offers courses on open source software adoption, development practices, and digital skills for government employees."
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
 
-## 🇬🇧 United Kingdom
+### 🇮🇹 Italy
 
-- 🔗 [GDS Academy Digital Training](https://www.gov.uk/government/organisations/government-digital-service/about/recruitment)
-- 📄 Excerpt:
-  > "Government Digital Service provides training programs on modern software development practices, including open source methodologies and tools."
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇰🇷 South Korea
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇸 Spain
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇨🇭 Switzerland
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇸 United States
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇺🇾 Uruguay
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+### 🇪🇺 European Commission
+
+* 🔗 [Name of the law or policy](#)
+* 📄 Overview:
+  > Summary or excerpt from the law or official source.
+
+## 🤝 How to contribute
+  
+!!! tip "Want to add a policy?"
+      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)
