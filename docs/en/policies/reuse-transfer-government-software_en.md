@@ -94,7 +94,7 @@
 >Obligated subjects, prior to the acquisition of software, must verify the non-existence of solutions that meet the requirements of the software to be contracted in the Public Software Portal of Uruguay.
 
 
-### 🇪🇺 European Union
+### 🇪🇺 European Commission
 
 * 🔗 [EU eGovernment Action Plan 2016–2020](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX:52016DC0179)
 * 📄 Overview:
