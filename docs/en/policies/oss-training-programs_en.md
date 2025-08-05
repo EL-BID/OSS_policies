@@ -32,9 +32,9 @@
 
 ### 🇪🇨 Ecuador
 
-* 🔗 [Decreto Ejecutivo N° 1014](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
+* 🔗 [Executive Decree No. 1014](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
 * 📄 Overview:
->Article 3 states that before installing Free Software on their equipment, Central Public Administration entities must verify the existence of technical capacity to support such software.
+  > Article 3 of the Decree No. 1014 requires that public entities ensure the existence of sufficient technical capacity before implementing open-source software. This implies a governmental responsibility to support OSS adoption through adequate training, staffing, or service arrangements to maintain system sustainability and performance.
 
 ### 🇬🇧 England
 

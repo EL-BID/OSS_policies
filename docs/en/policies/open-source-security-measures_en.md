@@ -21,14 +21,11 @@
 
 
 ### 🇪🇨 Ecuador
-* 🔗 [Decreto Ejecutivo N° 1014 – Article 4](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
-* 📄 Overview:
-> The use of proprietary (non-free) software is allowed only when:
->
-> 1. There is no Free Software solution that meets the required needs
-> 2. The national security is at risk
-> 3. The IT project is at a point of no return
 
+* 🔗 [Executive Decree No. 1014](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
+* 📄 Overview:
+  > Executive Decree No. 1014 requires Ecuador’s central government entities to ensure technical capacity before deploying open-source software, as stated in Article 3. This provision aims to safeguard the secure and effective implementation of OSS by mandating adequate support infrastructure, indirectly addressing OSS security through operational readiness and oversight by the Subsecretariat of Informatics.
+  
 ### 🇬🇧 England
 * 🔗 [Government Action Plan (2010) – Action 4](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
 * 📄 Overview:

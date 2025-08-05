@@ -27,16 +27,13 @@
 
 ### 🇪🇨 Ecuador
 
-* 🔗 [CÓDIGO ORGÁNICO DE LA ECONOMÍA SOCIAL DE LOS CONOCIMIENTOS, CREATIVIDAD E INNOVACIÓN](https://www.gobiernoelectronico.gob.ec/wp-content/uploads/2018/10/Codigo-Organico-de-la-Economia-Social-de-los-Conocimientos-Creatividad-e-Innovacion.pdf)
+* 🔗 [Strategy for the Implementation of Free Software in the Central Public Administration](https://cti.gobiernoelectronico.gob.ec/ayuda/manual/decreto_1014.pdf)
 * 📄 Overview:
-  > CÓDIGO ORGÁNICO DE LA ECONOMÍA SOCIAL DE LOS CONOCIMIENTOS, CREATIVIDAD E INNOVACIÓN - 2016 - Article 147 – Access to Source Code. Public sector contracting entities must make the source code of software that is contracted or developed publicly available through the Information System for Science, Technology, Innovation, and Ancestral Knowledge.
+  > This strategy, based on Presidential Decree No. 1014, mandates the use and public release of state-owned software across Ecuador’s central government. Chapter 3.3.4 and Article 1 require that software developed with public funds be made openly available for reuse, unless restricted by national security or technical limitations. The Subsecretariat of Informatics oversees compliance and promotes reuse through public repositories.
 
-* 🔗 [ESTRATEGIA PARA LA IMPLANTACIÓN DE SOFTWARE LIBRE EN LA ADMINISTRACIÓN PÚBLICA CENTRAL](https://cti.gobiernoelectronico.gob.ec/ayuda/manual/decreto_1014.pdf)
+* 🔗 [Organic Code of the Social Economy of Knowledge, Creativity, and Innovation](https://www.gobiernoelectronico.gob.ec/wp-content/uploads/2018/10/Codigo-Organico-de-la-Economia-Social-de-los-Conocimientos-Creatividad-e-Innovacion.pdf)
 * 📄 Overview:
-  >ESTRATEGIA PARA LA IMPLANTACIÓN DE SOFTWARE LIBRE
- EN LA ADMINISTRACIÓN PÚBLICA CENTRAL -Page 5, Section 3.3.2
- Minimize the purchase of proprietary licenses. Prioritize the contracting of software services over the acquisition of proprietary licenses (products). This type of license will be purchased only in fully justified exceptional cases, and these exceptions will be for a specific time.
-
+  > Article 147 of this code mandates that public sector entities must make the source code of software they develop or contract for publicly available through the national Information System for Science, Technology, Innovation, and Ancestral Knowledge. This requirement may be waived, and the source code kept confidential, for reasons of national security, if the software pertains to strategic sectors, or if the relevant e-government regulatory body determines that it contains critical components.
 
 ### 🇬🇧 England
 

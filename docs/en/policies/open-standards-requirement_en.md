@@ -22,9 +22,10 @@
 
 ### 🇪🇨 Ecuador
 
-* 🔗 [Decreto Ejecutivo N° 1014 – Preamble](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
+* 🔗 [Executive Decree No. 1014](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
 * 📄 Overview:
-> In section g) of paragraph 6 of the Ibero-American Charter of Electronic Government, approved at the IX Ibero-American Conference of Ministers of Public Administration and State Reform, the use of open standards and free software is recommended as information technology tools.
+  > Executive Decree No. 1014 promotes the use of open standards in Ecuador’s Central Public Administration as part of its broader mandate to adopt free and open-source software. The decree references the Ibero-American Charter on Electronic Government, which encourages open standards to ensure interoperability. This framing supports a policy environment where government systems are expected to prioritize openness and compatibility.
+
 
 ### 🇬🇧 United Kingdom
 

@@ -22,21 +22,13 @@
 
 ### 🇪🇨 Ecuador
 
-* 🔗 [Decreto Ejecutivo N° 1014 (2020)](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
+* 🔗 [Organic Code of the Social Economy of Knowledge, Creativity, and Innovation](https://www.gobiernoelectronico.gob.ec/wp-content/uploads/2018/10/Codigo-Organico-de-la-Economia-Social-de-los-Conocimientos-Creatividad-e-Innovacion.pdf)
 * 📄 Overview:
-  >Decreto 1014 , Article 1. 
- Establish as public policy for the entities of the Central Public Administration the use of free software in their systems and IT equipment.
+  > According to Article 148, public entities must follow a strict order of preference when procuring software. This hierarchy prioritizes open-source software, particularly solutions that include significant locally-added value through development or implementation services. If a public body cannot acquire software that meets this top criterion, it is required to formally justify the acquisition of any other type of technology before the national e-government regulatory authority, which will evaluate the decision based on factors such as sustainability, security, and cost.
 
-* 🔗 [Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación – Article 148 (2016)](https://www.gobiernoelectronico.gob.ec/wp-content/uploads/2018/10/Codigo-Organico-de-la-Economia-Social-de-los-Conocimientos-Creatividad-e-Innovacion.pdf)
+* 🔗 [Executive Decree No. 1014](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
 * 📄 Overview:
-  >For public procurement related to software, public sector contracting entities must follow the following order of priority:
-  >
-  > 1. Open-source software... with a significant component of Ecuadorian added value;
-  > 2. Software... with a majority component of Ecuadorian added value;
-  > 3. Open-source software without a majority component of Ecuadorian added value;
-  > 4. International software through national providers;
-  > 5. International software through foreign providers.
-
+  > Executive Decree No. 1014 establishes that entities within Ecuador’s Central Public Administration must prioritize free and open-source software in procurement processes. As outlined in Article 1 and Article 5, open-source solutions should be favored over proprietary alternatives, with exceptions only when no suitable OSS exists or when national security is at risk. The decree also sets a preference hierarchy that prioritizes national and regional OSS solutions to ensure technological sovereignty.
 
 
 ### 🇬🇧 United Kingdom

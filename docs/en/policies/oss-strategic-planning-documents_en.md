@@ -18,9 +18,9 @@
 
 ### 🇪🇨 Ecuador
 
-* 🔗 [Decreto Ejecutivo 1425](https://www.telecomunicaciones.gob.ec/wp-content/uploads/2020/03/Decreto-Ejecutivo-No.-1425-Adquisicion-de-Software.pdf)  
+* 🔗 [Executive Decree No. 1425 – Regulation for Software Procurement by Public Sector Entities](https://www.telecomunicaciones.gob.ec/wp-content/uploads/2020/03/Decreto-Ejecutivo-No.-1425-Adquisicion-de-Software.pdf)
 * 📄 Overview:
-  >In any case, starting from the delivery of non-free technology software by the provider, the acquiring institution must submit for approval to the Ministry of Telecommunications and Information Society, within a period of up to one hundred and eighty (180) days, the feasibility plan for migration to free digital technologies."
+  > Executive Decree No. 1425 incorporates open-source software into Ecuador’s strategic digital planning by establishing a structured procurement framework that prioritizes open-source solutions. Article 10 mandates that public institutions prepare and submit migration feasibility plans to free digital technologies when acquiring proprietary software, positioning OSS adoption as a long-term strategic objective. This requirement embeds OSS considerations into institutional planning and aligns public procurement with national digital sovereignty goals.
 
 
 ### 🇬🇧 England
