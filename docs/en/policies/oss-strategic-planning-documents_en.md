@@ -1,19 +1,20 @@
 # OSS in strategic planning documents
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      High-level government strategies and digital agendas often embed open-source principles to guide public sector modernization, digital sovereignty, and innovation. These policies signal long-term commitment to OSS by including it in official planning and governance frameworks.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section highlights national digital strategies, multi-year plans, executive decrees, and other strategic documents where open-source software is recognized as a key component of public digital transformation—either through explicit targets, mandates, or programmatic commitments.
       
 ### 🌍  Policies
 
 
 ### 🇧🇷 Brazil
 
-* 🔗 [Decree No. 10.332/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10332.htm)  
+* 🔗 [ Decree Nº 10.332/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10332.htm)
 * 📄 Overview:
-  > Establishes the Digital Government Strategy (2020–2022) including biometric services, digital ID, secure signature mechanisms, and promotion of open and interoperable systems.DECREE No. 10,332, 2020 establishes the Digital Government Strategy for the period from 2020 to 2022, within the scope of the bodies and entities of the federal public administration, including direct, autarchic, and foundational administration, and provides other provisions. The strategy aimed to enable two million biometric validations per month for federal public services by the end of 2020, while also making digital identity broadly accessible, with a target of issuing forty million digital IDs by 2022. To support this expansion, the government committed to reducing the cost of digital certificates to no more than R$50.00 per user annually. In parallel, new digital signature mechanisms were to be made available, with an emphasis on promoting the use of highly secure digital signatures. The plan also included the establishment of criteria for adopting attribute certificates to streamline the qualification of individuals and entities. Finally, the government sought to promote the widespread use of systems and applications for verifying signature policies, ensuring they are built on open and interoperable code to foster transparency and accessibility.
+  > Decree Nº 10.332/2020, which established Brazil's Digital Government Strategy (2020–2022), references open-source software in its strategic planning by promoting the use of systems and applications built on open and interoperable code. This appears in Initiative 12.7, under Objective 12, which aims to enhance the adoption of digital signatures and identity solutions. The inclusion of open-source principles within this strategic initiative signals the government's intent to increase transparency, accessibility, and trust in its digital infrastructure.
+
 
 ### 🇪🇨 Ecuador
 

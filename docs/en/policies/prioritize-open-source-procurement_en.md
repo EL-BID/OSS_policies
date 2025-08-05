@@ -1,20 +1,18 @@
 # Prioritize Open Source in Procurement
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      Procurement policies that prioritize or favor open-source software help governments avoid vendor lock-in, reduce long-term costs, and strengthen digital sovereignty. These rules ensure public money supports reusable and adaptable digital infrastructure.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section highlights official laws, frameworks, and procurement guidelines that give preference to OSS in public tenders or acquisitions by establishing it as the default option, requiring justification when choosing proprietary software, or including OSS among prioritized alternatives during comparative evaluations.
       
 ### 🌍  Policies
 
 ### 🇧🇷 Brazil
 
-* 🔗 [Law Nº 14.063 from 2020 – Article 16](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm)
+* 🔗 [Law Nº 14.063/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm)
 * 📄 Overview:
-  > The information and communication systems developed exclusively by agencies and entities of the direct administration, autonomous agencies, and foundations of the constitutionally autonomous branches and bodies of the federative entities shall be governed by an open-source license, allowing their unrestricted use, copying, modification, and distribution by all agencies and entities covered by this article.
-  >
-  > The rule also applies retroactively to systems already in operation when the law took effect. However, exceptions include systems with restricted source code under the Access to Information Law (Law No. 12.527/2011), stored data, third-party components, and pre-existing contracts with conflicting intellectual property terms.
+  > Article 16 of Law Nº 14.063/2020 requires public entities to release software they develop under open-source licenses, allowing reuse and modification. This applies retroactively, with exceptions for legal, security, or contractual restrictions.
 
 ### 🇨🇦 Canada
 

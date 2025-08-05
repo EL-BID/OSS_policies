@@ -1,10 +1,10 @@
 # Reuse and Transfer of Government Software
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
-  
+    Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency. These frameworks aim to avoid duplication, foster collaboration, and make better use of public investments in software.
+
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+    This section highlights official policies, strategies, or legal frameworks that promote or require the reuse and internal transfer of software within the public sector, including mandates to check for existing solutions before building or procuring new software.
       
 ### 🌍  Policies
 

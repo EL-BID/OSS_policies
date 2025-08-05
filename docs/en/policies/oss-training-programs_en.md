@@ -1,19 +1,18 @@
 # OSS Training Programs
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      Training programs and educational initiatives are essential to building long-term capacity for adopting, maintaining, and contributing to open-source software in the public sector. These policies foster internal knowledge, reduce vendor dependence, and enable sustainable OSS ecosystems.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section highlights official training programs, funding schemes, public sector workshops, online courses, and related efforts that promote the development of OSS skills among civil servants, developers, and government partners. We also include government-backed guides and support materials that serve an educational purpose—even if not formal training curricula.
       
 ### 🌍  Policies
 
 ### 🇧🇷 Brazil
 
-* 🔗 [Law No. 14.129/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm)
+* 🔗 [Law Nº 14.129/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm)
 * 📄 Overview:
->Under Brazil’s Law No. 14.129/2021, public entities are empowered to establish innovation laboratories where government and society can co-create solutions for better public management. These labs serve as experimental grounds for testing new tools, methods, and technologies designed to enhance public services, data processing, and civic engagement. A key principle guiding these labs is the promotion and use of open and free technologies, reinforcing transparency, accessibility, and collective innovation in the digital transformation of public administration.
-
+  > Law Nº 14.129/2021 encourages the creation of innovation laboratories as collaborative spaces between government and society to develop and test new public service solutions. Defined in Article 4, item VIII, these labs promote the use of open and free technologies but do not explicitly establish training or capacity-building programs for OSS adoption or sustainability. While supportive of OSS principles, the law stops short of mandating or funding OSS-specific training efforts.
 
 
 ### 🇨🇦 Canada

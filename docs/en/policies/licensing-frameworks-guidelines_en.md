@@ -1,10 +1,11 @@
 # Licensing Frameworks and Guidelines
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      These policies provide legal and procedural guidance to ensure that software developed, acquired, or reused by government entities adheres to clear and approved open-source licensing practices. They help standardize how public institutions manage intellectual property, clarify reuse rights, and reduce legal uncertainties across jurisdictions.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section includes official frameworks, licensing guides, decrees, and strategic recommendations that define which licenses can be used by public sector entities, how to select them, and under what conditions software must be made available under open-source terms.
+
       
 ### 🌍  Policies
 

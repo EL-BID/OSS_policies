@@ -1,10 +1,10 @@
 # Open Source Sharing Platforms
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      These policies promote the establishment of centralized platforms where government institutions can publish, access, and collaborate on open-source software. Such platforms aim to improve discoverability, foster reuse across agencies, and support transparency in public digital development.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section includes national code repositories, official sharing portals, or platform strategies specifically designed for hosting, curating, or managing open-source software produced by or for the public sector.
       
 ### 🌍  Policies
 

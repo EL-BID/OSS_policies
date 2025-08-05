@@ -17,11 +17,18 @@ By organizing these policies according to   their purpose and focus, this resour
 
 ## 🧭 Structure
 
-Policies are categorized both by **policy** type and **country**. Each linked page includes: 
+The open-source policies featured in this site are organized in two complementary ways:
 
-- A short explanation of the policy type 
-- A link to the official government source 
-- Policy overview 
+**By Policy Category:**  
+  Policies are grouped by type (e.g., public release of software, reuse, licensing, training) to showcase thematic approaches and implementation patterns. Each category page includes:
+  
+  - A short explanation of the policy type  
+  - A list of official documents or strategies  
+  - Links to the original sources  
+  - Policy overviews  
+
+**By Country:**  
+  For users interested in national approaches, the [country view](policies/complete-country-overview_en.md) presents all documented policies grouped by jurisdiction. This view helps highlight how different countries address multiple aspects of open-source governance in a single place.
 
 
 ## 📂 Policy Categories

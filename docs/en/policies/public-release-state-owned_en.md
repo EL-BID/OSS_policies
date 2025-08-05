@@ -1,19 +1,19 @@
 # Public Release of State-Owned Software
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
-  
+    Policies that require or strongly encourage governments to release software developed with public resources under open licenses. These measures aim to maximize the public value of digital assets by enabling transparency, reuse, and collaborative improvement.
+
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+    This section highlights laws, regulations, or strategies that mandate the public release of source code created by government agencies, unless limited by confidentiality, national security, or contractual constraints.
+
       
 ### 🌍  Policies
 
 ### 🇧🇷 Brazil
 
-* 🔗 [Law Nº 14.063](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm)
+* 🔗 [Law Nº 14.063/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm)
 * 📄 Overview:
-  > The information and communication systems developed exclusively by agencies and entities of the direct administration, autonomous agencies, and foundations of the constitutionally autonomous branches and bodies of the federative entities shall be governed by an open-source license, allowing their unrestricted use, copying, modification, and distribution by all agencies and entities covered by this article.
- The rule also applies retroactively to systems already in operation when the law took effect. However, exceptions include systems with restricted source code under the Access to Information Law (Law No. 12.527/2011), stored data, third-party components, and pre-existing contracts with conflicting intellectual property terms.
+  > Article 16 of Law Nº 14.063/2020 requires public entities to release software they develop under open-source licenses, allowing reuse and modification. This applies retroactively, with exceptions for legal, security, or contractual restrictions.
 
 ### 🇨🇦 Canada
 
@@ -31,7 +31,7 @@
 * 📄 Overview:
   > CÓDIGO ORGÁNICO DE LA ECONOMÍA SOCIAL DE LOS CONOCIMIENTOS, CREATIVIDAD E INNOVACIÓN - 2016 - Article 147 – Access to Source Code. Public sector contracting entities must make the source code of software that is contracted or developed publicly available through the Information System for Science, Technology, Innovation, and Ancestral Knowledge.
 
-* 🔗 [ESTRATEGIA PARA LA IMPLANTACIÓN DE SOFTWARE LIBRE](https://cti.gobiernoelectronico.gob.ec/ayuda/manual/decreto_1014.pdf)
+* 🔗 [ESTRATEGIA PARA LA IMPLANTACIÓN DE SOFTWARE LIBRE EN LA ADMINISTRACIÓN PÚBLICA CENTRAL](https://cti.gobiernoelectronico.gob.ec/ayuda/manual/decreto_1014.pdf)
 * 📄 Overview:
   >ESTRATEGIA PARA LA IMPLANTACIÓN DE SOFTWARE LIBRE
  EN LA ADMINISTRACIÓN PÚBLICA CENTRAL -Page 5, Section 3.3.2
@@ -52,18 +52,18 @@
   > The State Property Amendment Act, accepted on May 12, 2021, introduces significant updates to the State Assets Act, particularly concerning the treatment and dissemination of state-owned software. It expands the definition of movable property to include rights with proprietary value, excluding state software made freely available to the public. The Act restructures existing sections into a new Chapter 3, Division 1, and introduces Division 2, which specifically governs the provision and internal use of state software. Under the new provisions, state software—defined as computer programs with proprietary rights held wholly or partly by the state—can be made available to the public free of charge and for an unlimited duration, provided it does not pose risks to cybersecurity, public order, or national security. The decision to release such software lies with the state asset manager and must include a description and usage terms, along with a publicly accessible link to the source code. If the state only partially owns the software, it may only release the portion it owns. Additionally, the Act mandates that state software not released to the public must be shared freely among state asset managers upon request, barring security concerns, and formal agreements must outline the terms of such internal use. Finally, the amendment clarifies that these new provisions supersede certain earlier rules regarding the transfer of property and public software access.
 
 
-* 🔗 [Amendments to the Estonian State Property Act](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/OSS%20Country%20Intelligence%20Report%20Estonia%202025.pdf)
+* 🔗 [Amendments to the Estonian State Property Act](https://www.riigiteataja.ee/akt/122052021002)
 * 📄 Overview:
   > Amendments to the Estonian State Property Act, 2021
  20: Aligning with the Digital Agenda 2030, the amendment lays out the rules for open source software development by the public sector. It specifies what information is required by the developing authorities when making software publicly available, including a description and the conditions of its use. The amendment also specifies that when only parts of the software are owned by the Estonian government, these still fall under the open source requirement. This amendment builds on the previous legislative framework, including the Interoperability Framework of the State Information System (2011) which favoured open source alternatives for the public sector but did not mandate it.
 
 ### 🇫🇷 France
 
-* 🔗 [Loi pour une République Numérique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
+* 🔗 [LOI n° 2016-1321 du 7 octobre 2016 pour une République numérique (1)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
 * 📄 Overview:
   > France’s Law for a Digital Republic (Loi pour une République Numérique), enacted in 2016, establishes that software developed by public administrations constitutes administrative documents and must be made publicly available upon request. This includes source code, unless its disclosure would harm national security or other protected interests. The law effectively supports the open-sourcing of state-owned software by recognizing code as public information, promoting transparency, reuse, and citizen oversight. It has laid the foundation for several high-profile open-source releases by the French government on platforms like code.gouv.fr.
 
-* 🔗 [Circulaire du Premier ministre](https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer/#:~:text=Le%2027%20avril%202021%2C%20le,algorithmes%20et%20des%20codes%20sources)
+* 🔗 [Circulaire n°6264/SG du 27 avril 2021 relative à la politique publique de la donnée, des algorithmes et des codes sources](https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer/#:~:text=Le%2027%20avril%202021%2C%20le,algorithmes%20et%20des%20codes%20sources)
 * 📄 Overview:
   > Circulaire du Premier ministre (27 avril 2021, n°6264/SG): Introduced a refreshed public policy on data, algorithms and source code. The circulaire mandates that new software developed by the State be published under an open license (e.g. on code.gouv.fr) and shared broadly.
 
@@ -75,7 +75,7 @@
   > Federal IT Architecture Guidelines (version 6.2.1)
  When procuring software, the 'Public Money, Public Code' principle should be implemented. This means that software financed with public funds is generally published as open-source software, provided that no security concerns or third-party rights prevent this. Legal certainty for the publication of software by the administration under free licenses is being improved. Exceptions must be justified.
 
-* 🔗 [Online Access Act Amendment](https://dserver.bundestag.de/btd/20/104/2010417.pdf#:~:text=dass%20die%20Verwendung%20von%20Open,auch%20als%20Referenzimplementierung%20ver%C3%B6ffentlicht%20werden)
+* 🔗 [Draft of a bill amending the Online Access Act and further provisions on the digitalization of administration (OZG Amendment Act – OZGÄndG)](https://dserver.bundestag.de/btd/20/104/2010417.pdf#:~:text=dass%20die%20Verwendung%20von%20Open,auch%20als%20Referenzimplementierung%20ver%C3%B6ffentlicht%20werden)
 * 📄 Overview:
   >Online Access Act Amendment (2024) Zu Buchstabe d (§ 4 Onlinezugangsgesetz) 
  Amends the e-government law (OZG) to require that newly developed or adapted government software must be licensed and published as open source unless security or licensing issues prevent it.
@@ -89,36 +89,35 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [Software Promotion Act](https://law.go.kr/LSW/lsInfoP.do?lsId=000751&ancYnChk=0#0000)
+* 🔗 [Software Promotion Act [Enforced April 23, 2025] [Act No. 20476, October 22, 2024, Partially Amended]](https://law.go.kr/LSW/lsInfoP.do?lsId=000751&ancYnChk=0#0000)
 * 📄 Overview:
   >Software Promotion Act (2020) 
  The law amendment requires that all government-funded software R&D projects use open development methods and publish source code. In particular, it mandates the distribution of R&D outcomes as open-source software.
 
 ### 🇪🇸 Spain
 
-* 🔗 [Spain’s Royal Decree 4/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+* 🔗 [Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
   >Spain’s Royal Decree 4/2010
  Regulates the National Interoperability Framework, establishes clear licensing conditions for software and digital assets developed by or for public administrations. Article 16 mandates that such resources be made available for reuse by other administrations and the public, with default licensing being free of charge and without requiring formal agreements. It aims to ensure public benefit, prevent third-party appropriation, and limit liability for the original provider. Open-source licenses must guarantee execution for any purpose, access to source code, the ability to modify, and the right to redistribute under the same terms. Public contracts must secure full intellectual property rights for the administration and ensure any new development—especially if based on open-source components—can also be declared open source and reused.
 
-* 🔗 [Law 40/2015, Royal Decree 4/2010, Law 37/2007](https://administracionelectronica.gob.es/pae_Home/dam/jcr:d277818a-3f2d-408f-87e3-85a925863088/2022-ENI_ReutilizacionActivos.pdf)
+* 🔗 [Reutilización de activos. Guía de publicación y licenciamiento de activos 1 REUTILIZACIÓN DE ACTIVOS Guía de publicación y licenciamiento de activos](https://administracionelectronica.gob.es/pae_Home/dam/jcr:d277818a-3f2d-408f-87e3-85a925863088/2022-ENI_ReutilizacionActivos.pdf)
 * 📄 Overview:
   >Law 40/2015, Royal Decree 4/2010, Law 37/2007
  The European Union has consistently promoted reuse as a core principle of digital government, linking it to innovation, interoperability, and efficiency. Key initiatives like the eGovernment Action Plans (2011–2015 and 2016–2020) and the Digital Decade 2030 Goals emphasize the importance of sharing solutions across public administrations. The European Interoperability Strategy (EIS) and the New European Interoperability Framework (NewEIF) further institutionalize reuse, encouraging public bodies to share software, data models, services, and specifications. These recommendations are backed by Directive (EU) 2019/1024 on the reuse of public sector information. In Spain, this vision is reflected in national laws and regulations, including Law 40/2015, Royal Decree 4/2010, Law 37/2007, and its implementing decrees. To support implementation, Spain has published specific guides and technical standards, such as the NTI-RISP and its application guide, reinforcing reuse as a legal and operational priority in digital administration.
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Federal Act on the Use of Electronic Means to Carry Out Official Tasks](https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html)
+* 🔗 [Federal Act on the Use of Electronic Means for the Performance of Official Tasks (EMBAG)](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_17)
 * 📄 Overview:
-  >Federal Act on the Use of Electronic Means to Carry Out Official Tasks (EMOTA)
- Following the introduction of the Federal Act on the Use of Electronic Means to Carry Out Official Tasks (EMOTA), the Federal Administration is now disclosing the source code of its software as open source. Article 9 EMOTA states that anyone should be able to use, improve and distribute the relevant software free of charge. The Federal Chancellery's Digital Transformation and ICT Steering Sector has created a set of tools to assist federal authorities and interested third parties. Each federal authority is responsible for its implementation of the open source requirement, i.e. publishing the source code.
+  >Art. 9 Open Source Software The federal authorities subject to this law shall disclose the source code of software they develop or commission to fulfill their duties, unless the rights of third parties or security-related reasons would preclude or restrict this.
 
 * 🔗 [Em002 Strategic Guidelines for Open Source Software in the Federal Administration ](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
 * 📄 Overview:
   >Em002 Strategic Guidelines for Open Source Software in the Federal Administration 
  When developing software, open source release is generally mandatory, subject to the exceptions set out in Art. 9 EMOTA (third‑party rights and security‑relevant reasons). These exceptions are addressed in Em002‑2 Instructions for Publishing OSS
 
-* 🔗 [Em002-2 Instructions for Publishing OSS](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
+* 🔗 [Em002-2 Instructions for Publishing Open Source Software](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
 * 📄 Overview:
   >Em002-2 Instructions for Publishing OSS
  Focuses on operationalizing the publication and use of open-source software (OSS) within public administration. It mandates the implementation of the Instructions for Publishing OSS, including practical tools like checklists, licensing guidance, and templates such as the Contributor License Agreement (CLA). These resources are designed to support administrative units throughout the software lifecycle—especially when modifying or releasing OSS—by ensuring legal compliance and transparency. The measure also addresses the reuse of legacy code under Article 9 of EMOTA, promoting pragmatic approaches for integration. To streamline adoption, the Confederation’s project management methodology (HERMES) is being updated to embed these tools, allowing public bodies to apply OSS practices through established workflows.

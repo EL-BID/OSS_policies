@@ -1,24 +1,18 @@
 # Open Standards Requirement
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      These policies require government institutions to adopt open technical standards to ensure interoperability, vendor neutrality, and long-term accessibility.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section includes laws, strategies, and implementation frameworks that mandate or promote the use of open, non-proprietary, and interoperable standards in government software, data exchange, and digital services. 
       
 ### 🌍  Policies
 
 ### 🇧🇷 Brazil
 
-* 🔗 [Law Nº 14.129, 2021 – Articles 38–41](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm)
+* 🔗 [Law Nº 14.129/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm)
 * 📄 Overview:
->Law Nº 14.129, 2021 - SECTION II - On Data Interoperability Among Public Entities
- Article 38 mentions that public entities managing digital services and databases must ensure their systems support data interoperability, optimize infrastructure reuse, and comply with personal data protection laws, especially the General Data Protection Law (LGPD), while considering legal, security, and cost-benefit constraints. 
- >
- >Article 39 states an interoperability mechanism must be established to enhance public policy management, improve the accuracy and security of citizen registries, enable unified digital identification using the CPF number, and facilitate secure data sharing among government entities. All personal data processed through this mechanism must comply with the General Data Protection Law (LGPD).
- >
- > Art. 40 Public entities must make their reference records and interoperability mechanisms publicly accessible. Individuals and legal entities have the right to verify and monitor their personal data within these records. New databases can only be created if existing reference records are insufficient.
- Art. 41. The bodies and entities referred to in Article 2 of this Law shall bear the costs of adapting their systems and databases for the implementation of interoperability.
+  > Law Nº 14.129/2021 mandates the use of open and non-proprietary formats in government digital services, reinforcing open standards as a legal requirement. Article 3, item XXV, and the definitions in Article 4 emphasize that government systems must adopt open, documented, and patent-free technologies to ensure interoperability and accessibility. These provisions support the broader goal of efficient and transparent digital governance.
 
 ### 🇨🇦 Canada
 

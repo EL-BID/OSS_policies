@@ -1,10 +1,10 @@
 # Open Source Security Measures
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      These policies aim to ensure that open-source software used or produced by the public sector meets robust security standards. They establish requirements and guidelines for vulnerability management, secure development practices, and supply chain integrity, recognizing the strategic importance of OSS in national cybersecurity frameworks.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section includes laws, strategies, and operational guidelines that address the security of OSS in government systems. These may include mandatory vulnerability disclosure rules, security-by-design requirements, guidance on using or contributing to secure OSS, and protocols for secure software development lifecycles and supply chain assurance.
       
 ### 🌍  Policies
 

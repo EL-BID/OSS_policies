@@ -1,10 +1,10 @@
 # Mandatory Contribution Back to Open-Source Projects
 
 !!! abstract "About this policy"
-      Policies that promote the sharing and reuse of software solutions across government entities to reduce costs and improve efficiency.
+      These policies encourage or require public sector institutions to give back to the open-source projects they use. By contributing bug fixes, improvements, or new features upstream, governments help strengthen the sustainability, security, and resilience of the broader open-source ecosystem—while also avoiding fragmentation and duplication of effort.
   
 !!! note "What we include"
-      This section highlights official policies, strategies, or legal frameworks that require (or strongly encourage) public sector entities to publish software under open licenses—unless specific exceptions apply (e.g., security or third-party rights).
+      This section includes strategies, legal mandates, and operational guidelines that require or strongly encourage public entities to contribute their modifications to the original open-source projects they use, rather than maintaining isolated or private forks. This includes rules on upstream collaboration, transparency, and alignment with project governance.
       
 ### 🌍  Policies
 
