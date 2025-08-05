@@ -21,9 +21,13 @@
 
 ### 🇬🇧 England
 
-* 🔗 [Service Manual – Licensing your code](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable#:~:text=You%20should%20make%20your%20code,such%20as%20a%20development%20agency)
+* 🔗 [Service Manual: Making Source Code Open and Reusable)](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusabley)
 * 📄 Overview:
-> You should publish your code under an Open Source Initiative compatible licence. For example, GDS uses the MIT licence.
+  > The Service Manual provides clear licensing guidance, advising UK government teams to release code under an Open Source Initiative (OSI)-approved license, such as MIT. The "Licensing your code" section emphasizes legal clarity around reuse, default Crown Copyright, and the need for open licensing when publishing government-developed software, ensuring compliance and encouraging responsible sharing of public code.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The playbook provides clear guidance on software licensing by establishing a framework for intellectual property (IP) and the use of open source licenses. The section on "Open software" in Chapter 8 specifies that government-developed code should be published using an Open Source Initiative (OSI) approved license. Furthermore, the chapter's detailed discussion on IP ownership presents various models for consideration, guiding agencies on how to manage IP rights to maximize long-term value and enable the publication of government-funded work as open source material.
 
 ### 🇪🇪 Estonia
 

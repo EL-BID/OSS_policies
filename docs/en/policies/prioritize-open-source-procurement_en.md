@@ -33,13 +33,10 @@
 
 ### 🇬🇧 United Kingdom
 
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan (2010)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
 * 📄 Overview:
-  > **Action 5 (Supplier Challenge):**
-  >Suppliers putting forward non‐open source products will be asked to provide evidence that they have carefully considered open source alternatives... If they are unable... their bid will be deemed non‐compliant with government policy and... automatically delisted from the procurement.
-  >
-  > **Action 9 (Re-use):**
-  >Government purchasers will use a standard clause... to make clear that solutions are purchased on the basis that they may be re‑used elsewhere in the public sector.
+  > The UK Government mandates that procurement processes actively consider open-source solutions on equal footing with proprietary alternatives. As detailed in the policy section and reinforced in Action 5, vendors must demonstrate that open-source options were fairly evaluated; failure to do so renders bids non-compliant. Where costs are similar, open-source is preferred for its added flexibility.
+
 
 ### 🇪🇪 Estonia
 

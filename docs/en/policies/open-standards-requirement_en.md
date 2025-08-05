@@ -29,9 +29,13 @@
 
 ### 🇬🇧 United Kingdom
 
-* 🔗 [Government Action Plan (2010) – Action 8](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
 * 📄 Overview:
-> The Government will specify requirements by reference to open standards and require compliance with open standards in solutions where feasible. It supports ISO formats like HTML, Open Document, PDF, and Office Open XML. Government information should be available in open formats and this must be standard for government websites.
+  > The Action Plan mandates the use of open standards in government procurement and system development to ensure interoperability and long-term accessibility. As detailed in Action 8 and Policy Section (7), the government commits to specifying open standards in requirements and promoting formats like HTML, Open Document Format, and open versions of previously proprietary standards. Compliance with these standards is required, particularly for websites and public information systems.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > A central requirement of the playbook is the adoption of open standards to ensure system interoperability and vendor neutrality. The key policy on "Open and interoperable data and software," detailed in Chapter 8, mandates that software be designed for platform-agnostic access and that data be shared using consistent methods, primarily through APIs that conform to Central Digital and Data Office (CDDO) standards. This commitment is further supported by the Technology Code of Practice (TCoP), referenced in Chapter 3, which guides the creation of interoperable, standards-based services to avoid lock-in.
 
 ### 🇪🇪 Estonia
 

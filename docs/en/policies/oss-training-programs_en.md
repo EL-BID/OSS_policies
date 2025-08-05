@@ -38,9 +38,9 @@
 
 ### 🇬🇧 England
 
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
 * 📄 Overview:
->The CIO Council and the OGC, working with industry and drawing on best practice from other countries, will institute a programme of education and capability‑building for the Government IT and Procurement professions on the skills needed to evaluate and make the best use of open source solutions.
+  > As outlined in Action 2, the UK government committed to strengthening internal capacity for OSS adoption by launching a training and education program for IT and procurement professionals. Coordinated by the CIO Council and OGC, this initiative aimed to improve understanding of open source licensing, support models, and cost structures, thereby enabling more informed decisions and encouraging the sustainable use of OSS in public services.
 
 ### 🇫🇷 France
 

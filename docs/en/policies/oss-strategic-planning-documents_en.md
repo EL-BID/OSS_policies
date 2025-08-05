@@ -25,9 +25,11 @@
 
 ### 🇬🇧 England
 
-* 🔗 [Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook#:~:text=Software%20should%20be%20open,TCoP)  
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
 * 📄 Overview:
-  > Software should be open‑source and designed to allow access in a platform‑agnostic way"
+  > The Digital, Data and Technology Playbook embeds open-source software into the UK government’s strategic digital planning by recommending the use of open and interoperable code across DDaT (Digital, Data and Technology) projects. Chapter 8 explicitly encourages software to be open source and platform-agnostic to enhance interoperability, innovation, and sustainability. As a guiding framework for all central government departments, the Playbook positions OSS as a foundational element in delivering modern, secure, and user-centered public services.
+
 
 ### 🇪🇪 Estonia
 

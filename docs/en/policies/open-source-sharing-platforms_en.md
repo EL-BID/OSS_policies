@@ -18,9 +18,10 @@
 
 ### 🇬🇧 England
 
-* 🔗 [Service Manual – Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable#:~:text=You%20should%20make%20your%20code,such%20as%20a%20development%20agency)
+* 🔗 [Service Manual: Making Source Code Open and Reusable)](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
 * 📄 Overview:
-> You should make your code publicly available in an open internet source code repository. For example, GDS’ code is on GitHub.
+  > This guidance from the UK Government Digital Service mandates the use of public repositories, such as GitHub, to share government-developed source code. It encourages departments to publish code from the start of a project and maintain it openly, outlining practices for licensing, version control, and secure publishing. The document serves as a foundational framework for enabling reuse and collaboration through open source sharing platforms across government services.
+
 
 
 

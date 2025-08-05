@@ -37,10 +37,13 @@
 
 ### 🇬🇧 England
 
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf#:~:text=else%C2%A0in%C2%A0the%C2%A0public%C2%A0sector%C2%A0and%C2%A0the%C2%A0ability%C2%A0to%C2%A0release%C2%A0the%C2%A0code%C2%A0on%20an%C2%A0open%C2%ADsource%C2%A0basis,on%C2%A0an%C2%A0open%C2%A0source%C2%A0basis)
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
 * 📄 Overview:
-  >Open Source, Open Standards and Re‑Use: Government Action Plan (Cabinet Office, 2010) - Action 9 (Open source techniques and re-use)
- Where appropriate, general purpose software developed by or for government will be released on an open source basis.
+  > The UK Government’s 2010 action plan commits to releasing general-purpose software developed by or for the government under open source licenses when appropriate. As outlined in Action 9, it ensures that publicly funded code is reusable across the public sector and may be published, integrating this into procurement practices and standard contracts unless legal or security constraints apply.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The playbook establishes a key policy that software and code developed by the government should be open source by default. This approach is intended to increase transparency, allow for the reuse of software components, and reduce the overall cost of digital services. As detailed in the "Open and interoperable data and software" policy within Chapter 8, new government software is expected to be developed openly and published under a license approved by the Open Source Initiative.
 
 ### 🇪🇪 Estonia
 
