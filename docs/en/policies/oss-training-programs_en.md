@@ -17,17 +17,18 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [TBS CIO Digital Strategy](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
+* 🔗 [Guide for Using Open Source Software](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html)
 * 📄 Overview:
->The CIO of Canada plays a key role in shaping the country’s digital and service strategy. This includes setting an enterprise-wide direction and fostering innovation through practices such as agile development and the use of open-source and open-standard technologies.
+> The Guide for Using Open Source Software serves as a detailed capacity-building tool to help Canadian government departments evaluate, adopt, and manage OSS. It outlines best practices and key decision points such as assessing licensing terms, community support, and modification impacts, while also promoting responsible use, security, and contribution. The guide functions as an internal learning resource that supports OSS sustainability and aligns with Canada’s broader digital standards, including the principles of working in the open and selecting open solutions by default.
 
-* 🔗 [Guide for Using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html)
+* 🔗 [Open First Whitepaper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html)
 * 📄 Overview:
->The Digital Government Innovation program includes open source software training programs such as: Actively and Fairly Consider OSS, Evaluate Support Options, Use OSS With or Without Modifications, and register it to Open Resource Exchange. Also includes principles like "Open by Default" and "Use of Open Standards and Solutions".
+> The Open First Whitepaper highlights the importance of training and capacity building for successful OSS adoption in government. It emphasizes the need to allocate resources for user training, especially when transitioning from proprietary desktop software to open-source alternatives. Lessons learned include piloting OSS migrations, offering parallel access to legacy tools, and securing leadership support. The document also outlines support models—internal, interdepartmental, community-based, and vendor-supported—that help build the in-house expertise needed to sustain OSS use and reduce dependency on proprietary solutions.
 
-* 🔗 [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html)
+* 🔗 [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
 * 📄 Overview:
->The Open First Whitepaper presents a strategic framework for openness in Canada's digital ecosystem, highlighting benefits such as security, transparency, innovation, and economic development through open standards and open source adoption.
+> The Policy on Service and Digital outlines the Government of Canada's commitment to building internal capacity for digital transformation, including through the adoption of open-source technologies. While it does not establish a formal OSS training program, it supports empowering staff to deliver better services and encourages the use of open standards and open solutions as part of the Digital Standards.
+
 
 ### 🇪🇨 Ecuador
 

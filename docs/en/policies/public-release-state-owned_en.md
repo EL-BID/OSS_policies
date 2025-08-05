@@ -17,13 +17,13 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)
-* 📄 Overview:
-  > The Guide for Publishing Open Source Code encourages departments to release source code as open source whenever legally possible, whether developed in-house, acquired as OSS, or through contracts with proper licensing. The process includes securing approvals, ensuring rights to the code, assessing security, choosing a license and repository, adding documentation, and considering legacy systems. The overall goal is to promote transparency by working in the open.
+* 🔗 [Government of Canada Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html)  
+* 📄 Overview:  
+> The Enterprise Architecture Framework promotes the public release of state-owned software by directing departments to prioritize open source solutions and contribute improvements back to the community. Under “Application Architecture,” it encourages reuse over custom builds, mandates registration of open source tools in the Open Resource Exchange, and calls for customizations, especially for SaaS to be developed as open source modules, supporting interoperability and open collaboration unless restricted by legal or security concerns.
 
-* 🔗 [Government of Canada Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html)
-* 📄 Overview:
-  > To support the Government of Canada’s Enterprise Ecosystem Target Architecture, application architecture must shift away from monolithic legacy systems toward modular, service-oriented designs built on reusable components. Interoperability is central to this transformation, requiring broader stakeholder coordination. Departments are encouraged to prioritize open source solutions hosted in the public cloud, selecting reusable tools over custom development, contributing improvements back to the community, and registering software in the Open Resource Exchange. When using Software as a Service (SaaS), solutions should be purpose-fit, extendable, and configured with any necessary customizations developed as open source modules. Systems should be designed for interoperability, building as loosely coupled services, exposing APIs (including for legacy systems), and ensuring those APIs are discoverable by relevant stakeholders.
+* 🔗 [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)  
+* 📄 Overview:  
+> The Guide for Publishing Open Source Code encourages departments to release source code as open source whenever legally possible, whether developed in-house, acquired as OSS, or through contracts with proper licensing. The process includes securing approvals, ensuring rights to the code, assessing security, choosing a license and repository, adding documentation, and considering legacy systems. The overall goal is to promote transparency by working in the open.
 
 ### 🇪🇨 Ecuador
 

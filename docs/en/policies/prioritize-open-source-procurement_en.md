@@ -16,11 +16,9 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Directive on Management of Information Technology](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
-* 📄 Overview:
-  > "Under the Directive on Management of Information Technology, the Government of Canada (GC) mandates that digital initiatives undergo enterprise architecture assessments to ensure alignment with GC’s digital direction. These assessments, conducted by departmental and enterprise-level Architecture Review Boards, are grounded in the Digital Standards and include a clear preference for OSS where feasible.
- While OSS is encouraged, its acquisition must still comply with applicable procurement laws. If the software is freely available, and the business requirement justifies its use over proprietary alternatives, it may be acquired without a formal tender. However, departments must consult legal services to ensure compliance and properly define contract terms when OSS is acquired through procurement.
- Choosing OSS does not override existing procurement policies. If a contract includes terms that diverge from standard GC policy, the Contracting Authority must seek appropriate exemptions from the Treasury Board or other relevant authorities. This ensures that open source adoption remains both legally sound and strategically aligned with Canada’s broader digital transformation goals."
+* 🔗 [Acquiring Open Source Software Guidance](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/acquiring-open-source-software.html)  
+* 📄 Overview:  
+> The Acquiring Open Source Software guidance establishes a preference for OSS in procurement, as outlined in Appendix C of the Directive on Management of IT. Departments are encouraged to select OSS where feasible, provided business needs justify its use. If OSS is freely available and meets requirements, it may be acquired without a formal tender. However, procurement must remain compliant with existing legal frameworks, and any non-standard contract terms require prior authorization.
 
 ### 🇪🇨 Ecuador
 

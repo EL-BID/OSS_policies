@@ -16,9 +16,9 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Directive on Service and Digital – Open Standards](https://code.open.canada.ca/en/open-standards.html)
+* 🔗 [Open Standards section – Open Resource Exchange](https://code.open.canada.ca/en/open-standards.html)
 * 📄 Overview:
-> Use open standards where possible. The government provides guidelines, forms and a catalog to help departments adopt open standards in digital services and infrastructure.
+> The Open Standards section of the Open Resource Exchange supports the Government of Canada’s mandate to use open standards where possible, as outlined in the Directive on Service and Digital. It provides a centralized catalog of open standards including formats, protocols, and APIs that ensure interoperability across government systems. Public administrations are encouraged to adopt, search, and contribute to this shared repository to support digital openness, technical compatibility, and long-term sustainability.
 
 ### 🇪🇨 Ecuador
 

@@ -10,9 +10,9 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Open Resource Exchange](https://code.open.canada.ca/en/open-source-softwares.html)
-* 📄 Overview:
-> Repository for Canadian public administrations at the federal, provincial, municipal and aboriginal level, focused on creating greater transparency and accountability, increase citizen engagement and drive innovation and economic opportunities through open standards, open source software, open data, open information, open dialogue and open Government.
+* 🔗 [Open Resource Exchange](https://code.open.canada.ca/en/index.html)  
+* 📄 Overview:  
+> The Open Resource Exchange is the Government of Canada's official platform for sharing and collaborating on open-source software developed by public administrations at all levels: federal, provincial, municipal, and Indigenous. It facilitates the discovery, reuse, and co-development of open-source solutions by offering centralized access to code repositories, standards, and design assets. As part of the Municipal Innovation Pilot Project, the platform aims to enhance transparency, promote interoperability, and support the collective development of digital public goods across Canada.
 
 
 

@@ -11,13 +11,13 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Open Source Software Submission Form – SPDX reference](https://code.open.canada.ca/en/open-source-software-form.html)
-* 📄 Overview:
-> Canada allows for SPDX License List, which is a list of commonly found licenses and exceptions used in free and open or collaborative software, data, hardware, or documentation. The SPDX License List includes a standardized short identifier, the full name, the license text, and a canonical permanent URL for each license and exception.
-
 * 🔗 [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)
 * 📄 Overview:
-> Canada’s guide to open source provides information on different licence types and their best use cases, including MIT, Apache, GPL and AGPL.
+> The Guide for Publishing Open Source Code outlines licensing best practices for government OSS projects, recommending permissive (MIT, Apache 2.0) or reciprocal (GPL, LGPL, AGPL) licenses based on project needs. It advises selecting licenses aligned with community norms and ensuring compatibility with third-party components to enable compliant and effective open-source release.
+
+* 🔗 [Open Source Software Form](https://code.open.canada.ca/en/open-source-software-form.html)
+* 📄 Overview:
+> The Open Source Software Form provides guidance for Canadian public administrations to register OSS projects along with their licensing information using standardized SPDX identifiers. By requiring submission of license details including short identifiers, URLs, and license levels, this process promotes consistency and legal clarity in how open-source software is shared and reused across jurisdictions. The use of SPDX ensures alignment with internationally recognized licensing practices for software, data, and related assets.
 
 ### 🇬🇧 England
 

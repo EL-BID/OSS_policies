@@ -10,9 +10,9 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Government of Canada Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html)
-* 📄 Overview:
->Departments are encouraged to prioritize open source solutions hosted in the public cloud, selecting reusable tools over custom development, contributing improvements back to the community, and registering software in the Open Resource Exchange. When using Software as a Service (SaaS), solutions should be purpose-fit, extendable, and configured with any necessary customizations developed as open source modules. Systems should be designed for interoperability, building as loosely coupled services, exposing APIs (including for legacy systems), and ensuring those APIs are discoverable by relevant stakeholders.
+* 🔗 [Government of Canada Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html)  
+* 📄 Overview:  
+> The Enterprise Architecture Framework promotes software reuse and transfer across government by requiring departments to prioritize reusable open source solutions over custom development. Under “Application Architecture” and “Business Architecture,” it encourages contributions back to OSS communities, modular system design, and the registration of reusable components in the Open Resource Exchange to facilitate adoption across departments.
 
 ### 🇬🇧 United Kingdom
 

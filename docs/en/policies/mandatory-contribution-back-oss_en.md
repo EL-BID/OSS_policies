@@ -10,25 +10,13 @@
 
 ### 🇨🇦 Canada
 
-* 🔗 [Guide for contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html)
+* 🔗 [Guide for Contributing to Open Source Software](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html)
 * 📄 Overview:
-> When departments use or modify open source software, they are encouraged to contribute improvements back to the original projects. This process begins by verifying the software’s license and understanding the project’s contribution policies. Departments must also ensure they have the necessary internal approvals before contributing. Contributions can be made directly by government staff or through professional services. Even if the upstream project does not accept the contribution, departments are expected to publish their changes to ensure transparency and support reuse.
+> The Guide for Contributing to Open Source Software outlines the Government of Canada's process for contributing improvements back to third-party OSS projects. It recommends that departments publish all modifications whether accepted upstream or not and ensures contributions comply with open-source licenses and community policies. Contributions can be made directly by staff or through contractors, following legal and managerial approvals. This approach supports transparency, aligns with the Digital Standards, and encourages reuse across government and the broader OSS community.
 
 * 🔗 [Government of Canada Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html)
 * 📄 Overview:
-> Application architecture includes the use of open source solutions hosted in the public cloud:
-> (1) select existing solutions that can be reused over custom built;
-> (2) contribute all improvements back to the communities;
-> (3) register open source software to the Open Resource Exchange.
-> The use software as a service (SaaS) hosted in public cloud:
-> (1) choose SaaS that best fit for purpose based on alignment with SaaS capabilities;
-> (2) choose a SaaS solution that is extendable;
-> (3) configure SaaS and if customization is necessary extend as open source modules.
-> Design for Interoperability:
-> (1) design systems as highly modular and loosely coupled services;
-> (2) expose services, including existing ones, through APIs;
-> (3) make the APIs discoverable to the appropriate stakeholders.
-
+> The Enterprise Architecture Framework requires departments to contribute improvements back to open-source communities when using OSS, as stated under “Application Architecture.” This obligation supports reuse, encourages collaboration, and ensures that enhancements developed by government are shared upstream. It also applies to customized SaaS extensions, which must be published as open source modules when feasible.
 
 ### 🇫🇷 France
 
