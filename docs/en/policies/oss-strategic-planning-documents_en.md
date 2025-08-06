@@ -33,10 +33,10 @@
 
 ### 🇪🇪 Estonia
 
-* 🔗 [OSS Country Intelligence Report 2025](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/OSS%20Country%20Intelligence%20Report%20Estonia%202025.pdf)  
+* 🔗 [Estonia’s Digital Agenda 2030](https://www.mkm.ee/sites/default/files/documents/2022-04/Digi%C3%BChiskonna%20arengukava_ENG.pdf) 
 * 📄 Overview:
-  > Estonia’s strategic planning documents firmly embed open-source software as a pillar of digital governance. The Digital Agenda 2030 mandates that publicly funded software be released under open-source licenses, promoting reuse and transparency. This is reinforced by the 2021 amendment to the State Property Act, which legally requires public sector software—even if partially state-owned—to be made open source. The AI Strategy (2022–2024) furthers this by committing to the development of open-source AI components. These build on earlier foundations like the 2011 Interoperability Framework, which requires OSS to be considered in all public sector ICT procurements.
- 
+  > The "Estonia’s Digital Agenda 2030" strategically incorporates open-source software as a pillar of its digital transformation and vision for open innovation. This is most explicitly detailed under Sub-objective I, "Digital government," where a key result is the public release of state-owned software. The agenda specifies that software developed for the digital government using taxpayer funds and public sector intellectual property will be published under an open source license, provided it does not compromise national security. This core policy, located in the section on "Open innovation and development of govtech community," is supported by planned activities such as establishing a central code repository to promote the reuse of digital solutions.
+
 ### 🇫🇷 France
 
 * 🔗 [Circulaire 6264/SG](https://www.legifrance.gouv.fr/circulaire/id/45162#:~:text=Circulaire%20n%C2%B06264%2FSG,algorithmes%20et%20des%20codes%20...)  

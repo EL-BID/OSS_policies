@@ -39,13 +39,13 @@
 
 ### 🇪🇪 Estonia
 
-* 🔗 [Digital Agenda 2030 (2021)](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/OSS%20Country%20Intelligence%20Report%20Estonia%202025.pdf)
+* 🔗 [Estonia’s Digital Agenda 2030](https://www.mkm.ee/sites/default/files/documents/2022-04/Digi%C3%BChiskonna%20arengukava_ENG.pdf)
 * 📄 Overview:
-> The Digital Agenda prioritizes open standards and open-source solutions for the digitalization of government. Software developed with public funds should be published under an open license unless national security is a concern. OSS is key to Estonia’s e-government and AI strategies.
+> Estonia’s Digital Agenda 2030 establishes its open standards policy as a core tenet for all digital development. In the "Principles" section, the agenda outlines a technology-neutral approach that, whenever possible, gives preference to open standards and solutions built upon them. This guiding principle aims to ensure interoperability and openness in government systems. The commitment is reinforced by planned activities elsewhere in the document, such as ensuring the compatibility of the digital government with the European interoperability framework, a goal mentioned in the section on "Future-proof digital government platforms," and promoting cross-border interoperability through international cooperation.
 
-* 🔗 [IT Interoperability Framework (2022 abridged)](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
+* 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
 * 📄 Overview:
-> Emphasizes openness, technology neutrality, and the preferential consideration of open-source software in public sector IT systems. Mandates the use of open standards (like XML, SOAP), and recommends registering public code under open licenses (e.g., EUPL) to support reuse and transparency.
+> The "Interoperability Framework of the State Information System" establishes a mandate for using open standards to ensure technical interoperability and openness across the public sector. This policy is detailed in Chapter 5 ("Open standards") and supported by principles in sections 2.9 ("Openness") and 2.11 ("Technology neutrality"). The framework requires that public sector system interfaces must be created in a technology-neutral manner using prescribed open standards like XML, WSDL, and SOAP. A core component of this policy, outlined in Chapter 5, is the compulsory adherence to an agreed minimum set of open standards for public administration. Furthermore, Requirement 2.33 mandates that any decision to use closed standards or specifications must be explicitly justified, reinforcing the preference for open solutions.
 
 
 ### 🇫🇷 France

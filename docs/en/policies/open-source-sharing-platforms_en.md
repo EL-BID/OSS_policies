@@ -27,9 +27,9 @@
 
 ### 🇪🇪 Estonia
 
-* 🔗 [Koodivaramu – Government code sharing platform](https://koodivaramu.eesti.ee/explore)
+* 🔗 [Koodivaramu Open Source Platform](https://koodivaramu.eesti.ee/explore)
 * 📄 Overview:
-> Estonia’s Koodivaramu is a national platform to explore, share and collaborate on public sector code. Government agencies also publish on [github.com/ria-ee](https://github.com/ria-ee), the Estonian Information System Authority’s GitHub page.
+  > Estonia’s *Koodivaramu* platform serves as a centralized repository for sharing government-developed open-source software. Managed by the Information System Authority (RIA), it facilitates collaboration among public sector institutions by hosting and documenting reusable software components, primarily through GitLab. The platform promotes transparency, reuse, and co-development across agencies, aligning with Estonia’s broader digital governance and interoperability goals.
 
 
 

@@ -31,9 +31,9 @@
 
 ### 🇪🇪 Estonia
 
-* 🔗 [IT Interoperability Framework – Section 2.37](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
+* 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
 * 📄 Overview:
-> When creating free software, public sector institutions use the European Union Public Licence (EUPL) and as a development environment OSOR.eu (Open Source Observatory and Repository, OSOR).
+> The "Interoperability Framework of the State Information System" provides specific guidelines on licensing practices for software developed or procured by the Estonian public sector. The central policy, found in Requirement 2.37 under the principle of "Reusability," directs public institutions to use the European Union Public Licence (EUPL) when creating and releasing free software. This guidance is reinforced in Chapter 6, which recommends that custom software code procured by the government also be registered in a repository under a free software license, again citing the EUPL as the example. The framework further advises that procurement contracts should ensure the resulting software is usable without restriction across other public administration institutions, thereby establishing a clear preference for licenses that permit broad inter-agency sharing and reuse.
 
 ### 🇫🇷 France
 

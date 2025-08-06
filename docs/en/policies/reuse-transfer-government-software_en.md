@@ -26,10 +26,9 @@
 
 ### 🇪🇪 Estonia
 
-* 🔗 [IT Interoperability Framework (2022 abridged)](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
+* 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
 * 📄 Overview:
-> Apart from information, public sector can reuse the experience of creating other institutions' information systems. 
-2.36. When creating their own information systems, public sector institutions, if possible, use solutions made by other institutions and their experience.
+> The "Interoperability Framework of the State Information System" encourages public sector institutions to build upon solutions and experiences from other agencies. To facilitate this, it recommends that when software is commissioned, the resulting code should be procured and registered in a repository, such as the EU's, under a free software license like the European Union Public Licence (EUPL). Furthermore, Requirement 6.5 specifies that software ordered by public institutions should be usable without restriction by other administrations, and it also suggests joint procurement for common needs. The framework even extends the principle of transfer beyond the public sector, allowing contractors to use these solutions in business activities and foreign projects, provided it does not conflict with the interests of the commissioning body.
 
 ### 🇫🇷 France
 

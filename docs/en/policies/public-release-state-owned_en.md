@@ -47,15 +47,14 @@
 
 ### 🇪🇪 Estonia
 
-* 🔗 [The State Property Amendment Act](https://www.riigiteataja.ee/akt/122052021002)
+* 🔗 [Estonia’s Digital Agenda 2030](https://www.mkm.ee/sites/default/files/documents/2022-04/Digi%C3%BChiskonna%20arengukava_ENG.pdf)
 * 📄 Overview:
-  > The State Property Amendment Act, accepted on May 12, 2021, introduces significant updates to the State Assets Act, particularly concerning the treatment and dissemination of state-owned software. It expands the definition of movable property to include rights with proprietary value, excluding state software made freely available to the public. The Act restructures existing sections into a new Chapter 3, Division 1, and introduces Division 2, which specifically governs the provision and internal use of state software. Under the new provisions, state software—defined as computer programs with proprietary rights held wholly or partly by the state—can be made available to the public free of charge and for an unlimited duration, provided it does not pose risks to cybersecurity, public order, or national security. The decision to release such software lies with the state asset manager and must include a description and usage terms, along with a publicly accessible link to the source code. If the state only partially owns the software, it may only release the portion it owns. Additionally, the Act mandates that state software not released to the public must be shared freely among state asset managers upon request, barring security concerns, and formal agreements must outline the terms of such internal use. Finally, the amendment clarifies that these new provisions supersede certain earlier rules regarding the transfer of property and public software access.
+  > Within the "Estonia’s Digital Agenda 2030," the policy for releasing state-owned software is articulated as a key result under Sub-objective I, "Digital government," specifically in the section on "Open innovation and development of govtech community." The agenda mandates that software developed for the government with public funds and containing public sector intellectual property must be published with an open source license. This rule is exempted only when the software is significant for national security. To support this initiative and encourage a robust "govtech" community, the plan also includes activities to adopt and develop tools for reuse and collaboration, such as a code repository and artifactory.
 
 
-* 🔗 [Amendments to the Estonian State Property Act](https://www.riigiteataja.ee/akt/122052021002)
+* 🔗 [State Property Amendment Act](https://www.riigiteataja.ee/akt/122052021002)
 * 📄 Overview:
-  > Amendments to the Estonian State Property Act, 2021
- 20: Aligning with the Digital Agenda 2030, the amendment lays out the rules for open source software development by the public sector. It specifies what information is required by the developing authorities when making software publicly available, including a description and the conditions of its use. The amendment also specifies that when only parts of the software are owned by the Estonian government, these still fall under the open source requirement. This amendment builds on the previous legislative framework, including the Interoperability Framework of the State Information System (2011) which favoured open source alternatives for the public sector but did not mandate it.
+  > The *State Property Amendment Act* establishes that state-owned software in Estonia can be released publicly, free of charge and indefinitely, unless it poses risks to cybersecurity, public order, or national security. As outlined in Chapter III, Division 2, asset managers must publish the source code with usage terms online, and unreleased software must still be shared freely among government entities upon request.
 
 ### 🇫🇷 France
 
