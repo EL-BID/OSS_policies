@@ -62,13 +62,10 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [Digital Strategy Germany](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf?__blob=publicationFile)
+* 🔗 [Digital Strategy](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf)
 * 📄 Overview:
->Promotes OSS through a Sovereign Tech Fund and the creation of the Center for Digital Sovereignty (ZenDiS), which coordinates the development and use of open-source software across federal and state administrations.
-* 📄 Overview:
->The establishment of the Center for Digital Sovereignty of Public Administration (ZenDiS) creats a comprehensive organizational unit to ensure the availability of powerful open-source solutions. It focuses, among other things, to support the further development of the Sovereign Workplace and to establish it more firmly.
-* 📄 Overview:
-  >The Federal Government creates with the Centre for Digital Sovereignty of Administrative Services (ZenDiS) a central body that supports the identification, (further) development and provision of open-source solutions, coordinates corresponding needs of the administration and makes them available for subsequent use. The federal government, in cooperation with the Länder (states), is expanding ZenDiS into a permanent joint institution."
+> Germany's Digital Strategy details two key initiatives to fund and build capacity for open-source software. As outlined in Section 4.2, a Sovereign Tech Fund (STF) will promote the open-source ecosystem and its foundational technologies. Furthermore, Section 4.3 establishes the Center for Digital Sovereignty of Public Administration (ZenDiS), an organizational body created to ensure the availability of powerful OSS solutions, support their development, and establish their use within government.
+
 
 
 

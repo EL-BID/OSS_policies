@@ -46,9 +46,9 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [Online Access Act Amendment (2024)](https://www.digitale-verwaltung.de/Webs/DV/EN/ozg/ozg-node.html)
+* 🔗 [Act to Amend the Online Access Act](https://dserver.bundestag.de/btd/20/104/2010417.pdf)
 * 📄 Overview:
- >Requires that if authorities extend or adapt software already in use, the improved source code must be released under an open-source license and published, barring essential security or legal barriers.
+> This law promotes the reuse and transfer of government software by mandating that modifications be made public. As detailed in the justifications for the amendments to both the Online Access Act (§ 4) and the E-Government Act (§ 16a), if a public authority further develops software already in use, it is required to publish the improved source code under an open-source license. This policy ensures that enhancements to publicly funded software are shared for broader reuse and collaborative development, provided no overriding security or licensing constraints exist.
 
 ### 🇮🇹 Italy
 

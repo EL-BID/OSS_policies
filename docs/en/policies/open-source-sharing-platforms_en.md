@@ -46,9 +46,9 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [Strategy for Strengthening Digital Sovereignty](https://www.cio.bund.de/SharedDocs/downloads/Webs/CIO/DE/digitale-loesungen/strategie-zur-staerkung-der-digitalen-souveraenitaet.pdf?__blob=publicationFile&v=3)
+* 🔗 [Strategy for Strengthening Digital Sovereignty in Public Sector IT (2021)](https://www.cio.bund.de/SharedDocs/downloads/Webs/CIO/DE/digitale-loesungen/strategie-zur-staerkung-der-digitalen-souveraenitaet.pdf)
 * 📄 Overview:
-> To promote the reuse of software developments and to facilitate collaboration, the federal government is building and further developing the 'openCoDE' platform. On this platform, the source code of software developed for the public administration is published. It simplifies cooperation within the administration and with civil society as well as with the economic and scientific sectors, and makes a significant contribution to more digital sovereignty, innovation, and security.
+> The strategy promotes open-source sharing through a central code repository for public administration, supporting code reuse and collaboration. It highlights the openCoDE platform as a tool to develop sovereign digital solutions across government levels in cooperation with OSS communities.
 
 ### 🇮🇹 Italy
 

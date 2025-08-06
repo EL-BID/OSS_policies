@@ -45,11 +45,10 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [Digitalstrategie Deutschland](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf?__blob=publicationFile)  
+
+* 🔗 [Digital Strategy](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf)
 * 📄 Overview:
-  > In order to achieve technological and digital sovereignty, it aims for targeted innovation funding, the expansion of competencies in key technologies such as software development and microchips, (...), the consistent promotion of Open Source approaches and, in addition, the creation of regulatory framework conditions. 
-* 📄 Overview:
-  >With Gaia-X, a cross-sector, usable, European, open, innovative ecosystem for data-driven business models and products is being created. This is based on a data infrastructure that connects cloud and edge offerings via open-source applications and interoperable standards and also networks into the scientific community
+> Germany's Digital Strategy repeatedly identifies open source as a cornerstone of its plan for digital transformation. In the introductory overview (Section 1) and the section on public administration (Section 4.3), the consistent promotion and use of open-source approaches are presented as fundamental to achieving national digital sovereignty. The strategy also grounds major initiatives in open source, such as the Gaia-X data ecosystem described in Section 4.2, which is explicitly based on open-source applications and interoperable standards to foster an open and innovative digital market.
 
 ### 🇮🇹 Italy
 

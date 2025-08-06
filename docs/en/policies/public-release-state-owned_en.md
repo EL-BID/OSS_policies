@@ -70,15 +70,13 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [Federal IT Architecture Guidelines](https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf)
+* 🔗 [Act to Amend the Online Access Act](https://dserver.bundestag.de/btd/20/104/2010417.pdf)
 * 📄 Overview:
-  > Federal IT Architecture Guidelines (version 6.2.1)
- When procuring software, the 'Public Money, Public Code' principle should be implemented. This means that software financed with public funds is generally published as open-source software, provided that no security concerns or third-party rights prevent this. Legal certainty for the publication of software by the administration under free licenses is being improved. Exceptions must be justified.
+> This law amends Germany's Online Access Act (OZG) and E-Government Act (EGovG) to require the public release of state-owned software. The justifications provided for the amendments, specifically concerning § 4 of the OZG and the new § 16a of the EGovG, mandate that when government software is further developed, its source code must be published under a suitable open-source license. Exceptions are permitted for compelling security reasons or if existing licensing terms prohibit the release.
 
-* 🔗 [Draft of a bill amending the Online Access Act and further provisions on the digitalization of administration (OZG Amendment Act – OZGÄndG)](https://dserver.bundestag.de/btd/20/104/2010417.pdf#:~:text=dass%20die%20Verwendung%20von%20Open,auch%20als%20Referenzimplementierung%20ver%C3%B6ffentlicht%20werden)
+* 🔗 [Coalition Agreement 2021–2025](https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf)
 * 📄 Overview:
-  >Online Access Act Amendment (2024) Zu Buchstabe d (§ 4 Onlinezugangsgesetz) 
- Amends the e-government law (OZG) to require that newly developed or adapted government software must be licensed and published as open source unless security or licensing issues prevent it.
+> In the section "Digitaler Staat und digitale Verwaltung" (Digital State and Digital Administration) within Chapter II, the Agreement  establishes a foundational principle for publicly funded software. It stipulates that development contracts for public IT projects will generally be awarded as open source commissions. Following this principle, the resulting software is to be made publicly available. This commitment effectively aligns future federal software development with the "Public Money, Public Code" concept.
 
 ### 🇮🇹 Italy
 

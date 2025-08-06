@@ -48,9 +48,9 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [openCoDE – Licensing Rules (2023)](https://opencode.de/en/about-opencode)
+* 🔗 [openCode Licensing Rules](https://opencode.de/en/about-opencode)
 * 📄 Overview:
-> The openCoDE platform requires that all published projects use licenses meeting the Open Source Initiative’s criteria. Automated checks ensure that any code submitted to openCoDE is under an OSI-approved open-source license.
+> The openCode platform requires all published software to use OSI-approved open-source licenses. Automated checks verify license compliance, ensuring legal clarity and promoting consistent licensing practices across government OSS projects.
 
 ### 🇮🇹 Italy
 

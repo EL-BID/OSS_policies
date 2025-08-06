@@ -53,9 +53,9 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [BSI FLOSS Policy (2020)](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software_node.html#:~:text=The%20role%20of%20the%20Federal,leads%20to%20greater%20manufacturer%20independence)
+* 🔗 [FLOSS (Free/Libre Open Source Software) – BSI](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software_node.html)
 * 📄 Overview:
-> The Federal Office for Information Security (BSI) promotes using free/open-source software (FOSS) to increase software diversity and security. It notes that open source allows code auditing and independent fixes, reducing monocultures.
+> The BSI’s FLOSS policy highlights open source as a key enabler of IT security by allowing independent vulnerability assessments and remediation without reliance on vendors. The policy promotes software diversity to reduce monocultures, supports open standards for interoperability, and demonstrates active government contributions to secure OSS tools like Gpg4win and SINA. These measures form part of a strategic approach to enhance the resilience of federal IT systems.
 
 
 ### 🇰🇷 South Korea

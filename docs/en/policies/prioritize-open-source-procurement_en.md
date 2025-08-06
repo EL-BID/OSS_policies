@@ -64,15 +64,13 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [IT Modernization Act Amendment (2024)](https://media.frag-den-staat.de/files/foi/890020/bmi-open-source-2024_geschwaerzt.pdf)
+* 🔗 [BMI Open Source 2024](https://media.frag-den-staat.de/files/foi/890020/bmi-open-source-2024_geschwaerzt.pdf)
 * 📄 Overview:
-  >Federal authorities should use open standards and... give priority to open‑source software...
-  >
-  > When further developing software, its source code is to be published under an open‑source license as a reference implementation unless security or legal concerns prevent this.
+> The *OZG Amendment Act (OZG-ÄndG)* introduces §16a of the E-Government Act, requiring federal authorities to prioritize open-source software in procurement over proprietary options. It also mandates the use of open standards and open-source components in federal IT systems, reinforcing digital sovereignty and interoperability.
 
-* 🔗 [Digital Strategy Germany](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf?__blob=publicationFile)
+* 🔗 [Digital Strategy](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf)
 * 📄 Overview:
-  >Through the establishment of knowledge, specialists, and capacity, as well as the prioritized use of Open Source Software and the mandatory use of open standards, digital sovereignty on the part of the administration is to be brought into focus"
+> In Section 4.3, "Lernender, digitaler Staat" (Learning, Digital State), Germany's Digital Strategy establishes the prioritized use of open-source software within the government. This approach is presented as a core measure to enhance the digital sovereignty of the public administration and reduce dependencies on specific technology vendors.
 
 ### 🇮🇹 Italy
 

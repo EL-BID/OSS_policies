@@ -61,9 +61,9 @@
 
 ### 🇩🇪 Germany
 
-* 🔗 [Digital Strategy Germany (2022)](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf?__blob=publicationFile)
+* 🔗 [Digital Strategy](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/063-digitalstrategie.pdf)
 * 📄 Overview:
-> The mandatory use of open standards shall bring the digital sovereignty of the administration into sharper focus.
+> Germany's Digital Strategy mandates the use of open standards for government systems, as outlined in Section 4.3, "Lernender, digitaler Staat" (Learning, Digital State). This policy is positioned as a fundamental requirement for enhancing the digital sovereignty of the public administration. The strategy links the mandatory adoption of open standards and interfaces to ensuring interoperability and minimizing dependencies on specific technology providers.
 
 ### 🇮🇹 Italy
 
