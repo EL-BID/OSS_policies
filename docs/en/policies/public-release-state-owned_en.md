@@ -80,10 +80,9 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-reuse/introduction-and-legislative-context.html)
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-  > Article 69, Paragraph 1 Guidelines on the acquisition and reuse of software for public administrations 
- Public administrations that own solutions and computer programs created to the specific specifications of the public client are obliged to make the relevant source code available, complete with documentation and released in a public repository under an open license, so that it can be used free of charge by other public administrations or by legal persons who intend to adapt it to their own needs.
+> Under **Article 69**, Italian public administrations must release their owned software as open source. This policy requires them to publish the full source code and documentation in a public repository under an open license. The mandate covers all new, existing, and modified software, with exceptions for national security and public order.
 
 ### 🇰🇷 South Korea
 

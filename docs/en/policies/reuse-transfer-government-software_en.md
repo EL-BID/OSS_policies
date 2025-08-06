@@ -52,15 +52,15 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Section 3.1: Article 69(1), CAD](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-reuse/introduction-and-legislative-context.html#)
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-> Defines the obligation for public administrations that own software designed to the specifications of the public client, ‘to make the relevant source code available, complete with documentation and released in a public repository under an open licence, free of charge for other public administrations or legal entities that intend to adapt it to their own requirements’.
->The new wording of Article 69(2) and (2a) stresses the aim of encouraging reuse by taking steps to ensure that ‘the awarding administration shall always hold all rights to the programs and services of the information and communication technologies specifically developed for it’, ‘unless this is excessively onerous for proven technical and economic reasons’ and that ‘the source code, the documentation and the relative functional technical description of all the IT solutions are published through one or more platforms identified by AgID with its own guidelines to be adopted pursuant to Article 71’.
+> As mandated by **Article 69** and elaborated in **Chapter 3**, this policy establishes a comprehensive model for the reuse and transfer of government software. Public administrations are obligated to make software they own available to other public bodies and legal entities by publishing the full source code and documentation under an open license. This process is facilitated by the **Developers Italia** platform, which serves as a central search engine for reusable solutions, thereby promoting inter-agency collaboration and preventing redundant software development efforts across the public sector.
 
 
-* 🔗 [Article 70, Digital Administration Code (CAD)](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2013-03-14/_rst/capo6_art70.html#:~:text=1,migliori%20pratiche%20organizzative%20e%20tecnologiche)
+
+* 🔗 [Digital Administration Code](https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2013-03-14/index.html#)
 * 📄 Overview:
->Establishes a national “reuse database” of PA software. AgID (formerly DigitPA) evaluates and publicly catalogs PA‐developed applications suitable for reuse by other administrations, highlighting best practices. Central PAs are required to check this catalog before acquiring new software and explain if they do not adopt reusable solutions.
+> This policy establishes a national framework for the mandatory reuse of government software, governed primarily by **Articles 69 and 70** of the Digital Administration Code. **Article 69** obligates public administrations to make their custom-developed software available for free to other agencies upon request, including the source code and documentation. To facilitate this, **Article 70** institutes a national database, managed by the Agency for Digital Italy (AgID), which catalogs these reusable solutions. Central public administrations are required to consult this catalog and prioritize the adoption of existing software, providing a formal justification if they opt to procure a new solution instead.
 
 
 ### 🇰🇷 South Korea

@@ -52,10 +52,10 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Annex A: Guide to publishing software as open source](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/attachments/annex-A-Guide-to-publishing-software-as-open-source.html)
+
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-> This guide is aimed at administrations that, as owners of software, wish to release it in open source mode. The guide can be used by anyone responsible for carrying out the activities described therein: the internal resources of the administration, the administration’s in-house company, a service provider identified by the administration.
-> The guide has also been produced in order to be annexed to technical specifications in the context of a contract; in this case the Responsible party is required to carry out the activities described in this document as an integral part of the contract, in addition to that specified in the remainder of the specifications.
+> This document establishes a two-tiered system for sharing government-developed open source software. As detailed in **Section 3.4.1**, public administrations must first publish their source code on a public "code hosting tool" that meets specific criteria for collaboration and version control. Subsequently, **Section 3.4.2** mandates that all released software must be registered on the **Developers Italia** platform. This central platform, managed by the Agency for Digital Italy (AgID), functions as the official search engine and catalog, ensuring that all public software is discoverable and accessible for reuse by other administrations.
 
 
 

@@ -67,10 +67,9 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Annex E – Decision-making process and interoperability](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/attachments/annex-E-Summary-table-of-the-elements-required-for-the-decision-making-process.html)
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-> Public administrations must ensure that software they acquire or reuse meets all legal requirements including interoperability, security, and privacy. Open-source and free software must be assessed for these criteria even though ownership is not required. Proprietary software must also comply if used for interoperability (e.g., via APIs).
-
+> This policy promotes the contribution of improvements back to the original open-source projects. As detailed in **Section 3.9.2** and the associated **Annex D**, when a public administration modifies reusable or third-party open source software, it is strongly encouraged to propose these changes, such as bug fixes or new features, to the upstream project. This collaborative approach, also supported by the coordination principles in **Section 3.8.3**, aims to consolidate value into the main codebase. Regardless of whether the upstream contribution is accepted, the administration remains obligated under **Article 69** to release its modified version publicly.
 
 ### 🇰🇷 South Korea
 

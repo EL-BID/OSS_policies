@@ -31,9 +31,9 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Annex D: Guide to reusing OSS – Code modification](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/attachments/annex-D-Guide-to-reusing-open-source-software.html#modification-of-the-source-code)
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-> Italy’s open-source reuse guidelines emphasize responsible collaboration with original project maintainers when public administrations adopt or modify external open-source software. The Responsible party must propose bug fixes and new features through standard open contribution channels (e.g. pull requests, issue trackers) and aim to consolidate changes into the main codebase for broader reuse. Even when contributions are accepted upstream, the public administration must still publish its version—clearly referencing the original source—in its own code repository, in line with Article 69 of the Digital Administration Code (CAD). This ensures transparency, traceability, and reusability across the public sector.
+> Italy’s open-source reuse guidelines emphasize responsible collaboration with original project maintainers when public administrations adopt or modify external open-source software. The Responsible party must propose bug fixes and new features through standard open contribution channels (e.g. pull requests, issue trackers) and aim to consolidate changes into the main codebase for broader reuse. Even when contributions are accepted upstream, the public administration must still publish its version clearly referencing the original source in its own code repository, in line with Article 69 of the Digital Administration Code (CAD). This ensures transparency, traceability, and reusability across the public sector.
 
 ### 🇰🇷 South Korea
 

@@ -74,30 +74,14 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-reuse/introduction-and-legislative-context.html)
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-  >"Article 68, Paragraph 1 
- Public administrations acquire computer programs or parts thereof in compliance with the principles of economy, efficiency, protection of intellectual property investments, principle of neutrality and technological transparency(...) following a comparative assessment of the technical and economic aspects between the following solutions available on the market:
- >
- >a) software developed in-house by the administration; 
- >
- >b) reuse of software or parts thereof developed by other public administrations; 
- >
- >c) free and open-source software; 
- >
- >d) proprietary software for which a user license is acquired; 
- >
- >e) a combination of the previous solutions"
+> Based on **Article 68** and detailed in **Chapter 2**, these guidelines establish a mandatory procurement hierarchy. Public administrations must first evaluate reusable public software and other open source solutions to meet their needs. They are only permitted to consider proprietary or custom-built software after formally documenting and justifying that no suitable open source option exists.
 
-* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-acquisition/comparative-assessment.html)
-* 📄 Overview:
-  >Section 2.3 of the interoperability framework 
- Outlines that public administrations must acquire software based on principles of economy, efficiency, investment protection, reuse, and technological neutrality. This is to be done through a comparative technical and economic assessment of six types of software solutions available on the market: software developed specifically for the public administration (the ""make"" option), reuse of previously developed public sector software, free or open source software, cloud-based software, proprietary software licensed for use, or a combination of these. The ""make"" option involves the public administration commissioning a supplier to develop software—either from scratch or by modifying existing code—based on defined requirements, with the administration potentially handling the analysis and design phases while the supplier executes development and delivery.
 
-* 🔗 [DECRETO 24 December 2019](https://www.normattiva.it/eli/id/2020/02/19/20G00018/ORIGINAL#:~:text=essi%20a%20seguito%20di%20una,source%20o%20gi%C3%A0%20sviluppate%20all%27interno)
+* 🔗 [DPCM 24 December 2019, n.177](https://www.normattiva.it/eli/id/2020/02/19/20G00018/ORIGINAL)
 * 📄 Overview:
-  >DPCM 24 December 2019, n.177 (Procurement Regulation) 
- National regulation implementing public procurement rules. It restates that procurement must compare available solutions by category (PA-developed, PA-reused, open source, cloud, proprietary) and explicitly forbids buying proprietary software if a suitable open‐source or already‐developed solution is available at lower cost
+> The DPCM 24 December 2019, n.177 reinforces the requirement for public administrations to prioritize open-source software in procurement decisions. As stated in Article 22, it mandates that all software acquisitions undergo a comparative technical and economic evaluation, giving precedence to solutions developed for or reused by the public sector, including open-source software. Proprietary software may only be procured when no suitable open-source or existing internal solution is available at a lower cost. This provision aligns with Article 68 of the Digital Administration Code and ensures that open-source options are considered before acquiring new licensed products.
 
 ### 🇰🇷 South Korea
 

@@ -71,13 +71,13 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Triennial ICT Plan 2024–2026](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2024-2026-agg-2025/index.html)
+* 🔗 [Digital Training: AgID Academy](https://poloarchivistico.regione.emilia-romagna.it/notizie/formazione-al-digitale-nasce-agid-academy)
 * 📄 Overview:
->In order to promote innovation and the dissemination of digital skills, the Plan encourages the adoption of open source software and the creation of communities for the development and maintenance of software of strategic interest, also through calls for proposals and specific funding
+> Launched in 2025, AgID Academy is a government-led training program by the Agency for Digital Italy to enhance digital skills in the public sector. While covering broad topics such as cybersecurity, AI, and digital services, it also includes content on open-source technologies, supporting public administration capacity for OSS adoption and use.
 
-* 🔗 [AgID Academy](https://poloarchivistico.regione.emilia-romagna.it/notizie/formazione-al-digitale-nasce-agid-academy#:~:text=Il%206%20maggio%20sono%20state,risorse%20e%20attivit%C3%A0%20di%20formazione)
+* 🔗 [Three-Year Plan for Information Technology in Public Administration 2024-2026](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2024-2026-agg-2025/index.html)
 * 📄 Overview:
-> A government training initiative by the Agency for Digital Italy to build digital skills in PA staff. AgID Academy offers online and in-person courses on various IT topics (digital transformation, security, open-source tools, etc.). While not solely OSS-focused, it explicitly includes open‐source technology in its curriculum to train public employees on using and developing free software. Historically, Team Digitale/AgID has provided webinars and resources on OSS; for example, DevItalia runs community events for PA developers. However, the main formal program is AgID Academy.
+> The plan integrates open-source software training into its broader national strategy for digital skills, detailed in **Chapter 1**. It fosters OSS capacity by promoting the development of "comunità di competenze" (communities of practice) and by setting concrete targets in **Chapter 3 (RA3.2.1)** for public administrations to release and adopt open-source solutions through the **Developers Italia** platform. This approach builds practical skills through active participation in the reuse, development, and maintenance of shared software, directly supporting the plan's guiding principle of "apertura come prima opzione" (openness by default).
 
 ### 🇰🇷 South Korea
 * 🔗 [OSS Activation Support Program (NIPA)](https://www.nipa.kr/home/bsnsAll/8/detail?bsnsDtlsIemNo=58)

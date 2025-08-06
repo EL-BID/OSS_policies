@@ -52,9 +52,9 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Piano Triennale per l’Informatica nella PA 2024–2026](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2024-2026-agg-2025/index.html)  
+* 🔗 [Three-Year Plan for Information Technology in Public Administration 2024-2026](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2024-2026-agg-2025/index.html)
 * 📄 Overview:
-  > The government’s IT strategic plan explicitly includes targets for open‐source adoption. For example, it sets goals that by 2025 at least 125 administrations must be publishing their software as open source and 2,800 entities should be reusing OSS from the Developers Italia catalog. The public administrations will favor the use of open source software and the adoption of open standards, in order to guarantee transparency, interoperability and the possibility of reuse.
+> This strategic plan enshrines open source as a cornerstone of Italy's public sector digital transformation through its guiding principle of **"apertura come prima opzione" (openness as the first option)**. This principle mandates that public administrations prioritize the use of open-source software to prevent vendor lock-in and promote the sharing of technological best practices. The plan operationalizes this strategy in **Chapter 3 (RA3.2.1)** by setting specific, measurable targets for the release and reuse of OSS, aiming for at least 150 administrations to publish their software and 3,000 entities to reuse solutions from the **Developers Italia** catalog by 2026.
 
 
 ### 🇰🇷 South Korea

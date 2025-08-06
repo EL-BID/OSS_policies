@@ -54,9 +54,10 @@
 
 ### 🇮🇹 Italy
 
-* 🔗 [Guide to open licences and selecting a licence](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/software-reuse/open-licences-and-selecting-a-licence.html#choosing-a-licence)
+* 🔗 [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)
 * 📄 Overview:
-> To streamline licence selection, administrations are advised to reuse the original licence when modifying existing open source software to ensure interoperability. For new software, the default recommendation is the EUPL v1.2 licence, chosen for its European-level compatibility and copyleft protections. Exceptions include the AGPL-3.0-or-later for web-based software, the BSD 3-Clause licence for widely used components like libraries and SDKs, and the CC-BY 4.0 licence for technical documentation. These licences are selected to maximize reuse and compatibility. Any deviation from these recommendations must be justified, ensuring that alternative choices do not hinder reuse or increase costs.
+> This policy mandates the use of open standards to ensure interoperability across all software acquired by public administrations. As specified in the assessment criteria outlined in **Section 2.3.2**, all potential software solutions—whether open source or proprietary—must be evaluated on their use of open data formats, open interfaces (including APIs), and established interoperability standards. This requirement is reinforced in **Section 2.6.1**, which stipulates that even proprietary software is only eligible for consideration if it allows for complete data export in a standard, open, and documented format to prevent vendor lock-in.
+
 
 
 
