@@ -50,13 +50,13 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Loi n°2016-1321 – Article 16](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746#:~:text=Les%20administrations%20mentionn%C3%A9es%20au%20premier,compter%20du%201er%20janvier%202018)
+* 🔗 [Law for a Digital Republic](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
 * 📄 Overview:
-> Alongside free software, the Digital Republic law encourages the use of open formats in public administration systems.
+> The 2016 Law for a Digital Republic institutes a strong policy for open standards within the French public sector. Article 3 mandates that any administrative document or data published electronically must be in an open, easily reusable, and machine-readable standard. Reinforcing this principle, Article 16 further encourages administrations to use open formats across the entire lifecycle of their information systems, including development, procurement, and daily operation, to foster interoperability.
 
-* 🔗 [Référentiel général d’interopérabilité (RGI)](https://www.numerique.gouv.fr/offre-accompagnement/reference-interoperabilite-rgi/)
+* 🔗 [General Interoperability Framework (RGI)](https://www.numerique.gouv.fr/offre-accompagnement/reference-interoperabilite-rgi/)
 * 📄 Overview:
-> France’s interoperability framework requires public IT systems to use open, internationally-recognized standards (e.g., ISO/IEC, W3C) for data, web services, and security. It promotes interoperability through mandatory adoption of open formats.
+  > The RGI, France’s General Interoperability Framework, mandates the use of open and widely recognized technical standards such as ISO, W3C, and OGC for public sector IT systems. Approved by decree, it ensures interoperability, promotes vendor neutrality, and supports the integration of open-source solutions in government services.
 
 
 ### 🇩🇪 Germany

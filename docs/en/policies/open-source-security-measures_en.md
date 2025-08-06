@@ -38,17 +38,18 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Loi de Programmation Militaire – Article L. 2321‑4‑1](https://cert.ssi.gouv.fr/signalement-vulnerabilite-incident-2321-4-1/#:~:text=Vous%20%C3%AAtes%20potentiellement%20concern%C3%A9%20par,du%20code%20de%20la%20d%C3%A9fense)
+* 🔗 [Interministerial Support and Expertise Contracts for Free Software](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/)
 * 📄 Overview:
-> Obligates any software publisher (including OSS projects) to report significant vulnerabilities or security incidents in their products to ANSSI. This broad cybersecurity mandate applies equally to open-source and proprietary software, promoting prompt disclosure and patching.
+  > The interministerial support contracts for open-source software include mandatory upstream contributions of all fixes, including security patches, developed during maintenance. This policy ensures that vulnerabilities addressed within public systems are resolved at the source, enhancing security for both government and broader OSS users.
 
-* 🔗 [Sélection d’un logiciel libre – ANSSI Guidance](https://cyber.gouv.fr/publications/selection-dun-logiciel-libre)
+* 🔗 [Selecting Open Source Software – ANSSI Guide](https://cyber.gouv.fr/publications/selection-dun-logiciel-libre)
 * 📄 Overview:
-> The French Cybersecurity Agency publishes best-practice guides (e.g. “Sélection d’un logiciel libre”) that list security criteria for open-source components. ANSSI also supports certification of critical OSS products (via CSPN) and provides audits and “SecNumCloud” accreditation for open-source cloud platforms.
+  > ANSSI’s guide “Sélection d’un logiciel libre” outlines cybersecurity criteria for evaluating and selecting open-source software used in public systems. While not binding, it promotes secure OSS adoption by recommending assessment of code transparency, maintenance practices, and community responsiveness, reinforcing France’s broader open-source security posture.
 
-* 🔗 [Marchés Interministériels de Support – Code.gouv.fr](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/#:~:text=Ces%20activit%C3%A9s%20sont%20men%C3%A9es%20en,communaut%C3%A9s%20et%20les%20administrations%20b%C3%A9n%C3%A9ficiaires)
+* 🔗 [Reporting Significant Vulnerabilities](https://cert.ssi.gouv.fr/signalement-vulnerabilite-incident-2321-4-1)
 * 📄 Overview:
-> Interministerial OSS support contracts require that any security patches developed during support missions be returned upstream, ensuring vulnerabilities are fixed in the source project. This in turn benefits all users of that OSS.
+  > Under Article L. 2321‑4‑1 of the French Code de la Défense, all software publishers—including open-source developers—are required to report significant vulnerabilities or incidents affecting their products to ANSSI. This regulation ensures security issues in OSS are disclosed and addressed promptly, reinforcing national cybersecurity standards across both proprietary and open systems.
+
 
 ### 🇩🇪 Germany
 

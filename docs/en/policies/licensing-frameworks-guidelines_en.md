@@ -37,14 +37,14 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Décret n°2017-638 – CRPA D.323-2-1](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000034502563)
+* 🔗 [Legal Guide for Open Source Software – Etalab](https://www.etalab.gouv.fr/accompagnement-logiciels-libres/)
 * 📄 Overview:
-> Establishes the official list of reuse licenses French administrations can use for free information. For software, it permits several “permissive” licenses (e.g. Apache 2.0, BSD variants, CeCILL‑B, MIT) and “reciprocal” licenses (MPL 2.0, GPLv3, CeCILL).
-> Data.gouv.fr – Licences de réutilisation: The public data portal maintains the current approved license list mandated by the above decree. It provides links and guidance on choosing the right OSS license for government projects.
+  > Etalab’s legal guide supports public agents in navigating open-source licensing by clarifying which licenses are recommended, how to manage compatibility and patent clauses, and how to draft OSS-friendly contractual clauses. It also offers guidance for including OSS in public procurement and for releasing code under approved licenses from the first commit.
 
-* 🔗 [Guide juridique du logiciel libre (Etalab)](https://www.etalab.gouv.fr/accompagnement-logiciels-libres/#:~:text=,clauses%20juridiques%20de%20votre%20march%C3%A9)
+* 🔗 [Decree No. 2017-638 of April 27, 2017](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000034502563)
 * 📄 Overview:
-> Etalab’s online guide helps public agents understand open-source licensing issues (compatibility, patent clauses, contributor agreements). It outlines which licenses to use and how to include OSS in public contracts.
+  > This decree establishes the list of approved open-source licenses that French public administrations may use for releasing software. It officially authorizes several permissive and reciprocal licenses including Apache 2.0, BSD, MIT, MPL 2.0, GPLv3, and CeCILL and sets a process for requesting approval of alternative licenses through the Interministerial Directorate for State IT Systems.
+
 
 ### 🇩🇪 Germany
 

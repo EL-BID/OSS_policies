@@ -58,13 +58,14 @@
 
 ### 🇫🇷 France
 
-* 🔗 [LOI n° 2016-1321 du 7 octobre 2016 pour une République numérique (1)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
+* 🔗 [Public Policy on Data, Algorithms and Source Code](https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer)
 * 📄 Overview:
-  > France’s Law for a Digital Republic (Loi pour une République Numérique), enacted in 2016, establishes that software developed by public administrations constitutes administrative documents and must be made publicly available upon request. This includes source code, unless its disclosure would harm national security or other protected interests. The law effectively supports the open-sourcing of state-owned software by recognizing code as public information, promoting transparency, reuse, and citizen oversight. It has laid the foundation for several high-profile open-source releases by the French government on platforms like code.gouv.fr.
+  > The April 2021 circulaire n°6264/SG requires French ministries to publish state-owned software under open licenses, unless exceptions apply. Coordinated by DINUM, this policy mandates publication on code.gouv.fr and is backed by ministry roadmaps and actions to promote open source use and contribution.
 
-* 🔗 [Circulaire n°6264/SG du 27 avril 2021 relative à la politique publique de la donnée, des algorithmes et des codes sources](https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer/#:~:text=Le%2027%20avril%202021%2C%20le,algorithmes%20et%20des%20codes%20sources)
+
+* 🔗 [Law for a Digital Republic](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
 * 📄 Overview:
-  > Circulaire du Premier ministre (27 avril 2021, n°6264/SG): Introduced a refreshed public policy on data, algorithms and source code. The circulaire mandates that new software developed by the State be published under an open license (e.g. on code.gouv.fr) and shared broadly.
+> France's 2016 Law for a Digital Republic mandates the public release of state-owned software by classifying source code as an administrative document. Article 2 of the law establishes that government-developed code is therefore subject to public disclosure upon request. However, this same article provides exceptions, allowing for non-disclosure if the release would compromise the security of information systems or other protected interests.
 
 
 ### 🇩🇪 Germany

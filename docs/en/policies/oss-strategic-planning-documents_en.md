@@ -39,9 +39,9 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Circulaire 6264/SG](https://www.legifrance.gouv.fr/circulaire/id/45162#:~:text=Circulaire%20n%C2%B06264%2FSG,algorithmes%20et%20des%20codes%20...)  
+* 🔗 [Circular No. 6264/SG](https://www.legifrance.gouv.fr/circulaire/id/45162)
 * 📄 Overview:
-  > Circulaire Premier ministre 27/04/2021: The above directive (policy publique de la donnée/algorithmes/code) is itself a key strategic document, elevating open source as a cross-cutting principle of state modernization.
+  > This high-level strategic directive, issued by the Prime Minister of France, establishes open source as a key enabler of state modernization. It outlines a national vision for the management and reuse of public data, algorithms, and source code, encouraging their openness to benefit users, researchers, and innovators. Open source is framed as a foundational element of digital transformation across public administration.
 
 ### 🇩🇪 Germany
 

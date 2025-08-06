@@ -44,21 +44,21 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Programme OPEN (CNRS)](https://www.cnrs.fr/fr/actualite/open-le-nouveau-programme-de-financement-et-daccompagnement-du-cnrs-pour-valoriser-les#:~:text=La%20recherche%20acad%C3%A9mique%20produit%20de,%C2%AB%C2%A0OPEN%C2%A0%C2%BB%2C%20op%C3%A9r%C3%A9%20par%20CNRS%20Innovation)
+* 🔗 [Free Software: A Strategic Lever for a Sovereign and Sustainable Digital Administration](https://www.economie.gouv.fr/dae/logiciels-libres-un-levier-strategique-pour-une-administration-numerique-souveraine-et-durable)
 * 📄 Overview:
->The CNRS “OPEN” initiative funds research teams to develop and release scientific software as open source. Provides grants, mentoring, and recognition for OSS contributions.
+  > The 2024 interministerial OSS support contract, led by DGFiP, provides pooled funding and technical assistance across 13 ministries and public bodies to ensure the sustainability of open-source tools. While not a direct training program, it builds institutional capacity for OSS adoption by offering coordinated guidance and expert support.
 
-* 🔗 [Marché interministériel de support OSS](https://www.economie.gouv.fr/dae/logiciels-libres-un-levier-strategique-pour-une-administration-numerique-souveraine-et-durable#:~:text=Mandat%C3%A9e%20par%20la%20direction%20des,de%20support%20des%20logiciels%20libres)
+* 🔗 [Open Source Training Offer – Code.gouv.fr](https://code.gouv.fr/fr/formations/)
 * 📄 Overview:
-  >The inter-ministry OSS support contract (managed by DGFiP) is funded by the State budget. By aggregating demand for OSS maintenance, it provides government funding to external providers to service and update critical open-source tools across ministries.
+  > Code.gouv.fr maintains a curated list of certified training providers offering courses on open-source technologies. This government supported catalog helps public servants and organizations access capacity building programs in areas such as Linux administration, open-source development tools, and ethical digital practices, promoting OSS adoption across the public sector.
 
-* 🔗 [Catalogue de formations OSS](https://code.gouv.fr/fr/formations/#:~:text=Offre%20de%20formations%20logiciels%20libres)
+* 🔗 [BlueHats – Code.gouv.fr](https://code.gouv.fr/en/bluehats/)
 * 📄 Overview:
-  >The government publishes a list of certified training providers specializing in open-source technologies. This “offre de formations logiciels libres” helps public-sector staff find courses (Linux, office suites, web, etc.) that promote OSS skills.
+  > The BlueHats initiative fosters OSS capacity-building across the public sector by organizing online workshops and local events where civil servants share expertise on open-source development, governance, and use. Supported by DINUM, it promotes collaborative learning and peer-driven training on Free Software within government institutions.
 
-* 🔗 [BlueHats](https://code.gouv.fr/en/bluehats/)
+* 🔗 [OPEN Program – CNRS](https://www.cnrs.fr/fr/actualite/open-le-nouveau-programme-de-financement-et-daccompagnement-du-cnrs-pour-valoriser-les)
 * 📄 Overview:
-  >BlueHats Workshops (DINUM): The DINUM-led “BlueHats” program offers regular workshops and meetups on open-source topics (OS governance, license compliance, cloud etc.) for civil servants.
+  > Launched in 2023, the CNRS OPEN program provides funding and tailored support to researchers aiming to develop and valorize open-source research software. Through calls for expressions of interest, it builds OSS capacity by helping academic teams explore sustainable models—such as service-based use, user consortiums, or hybrid licensing—while offering developer support and mentoring to maximize social and scientific impact.
 
 ### 🇩🇪 Germany
 

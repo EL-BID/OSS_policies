@@ -20,13 +20,13 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Marchés interministériels OSS (DGFiP)](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/#:~:text=Ces%20activit%C3%A9s%20sont%20men%C3%A9es%20en,communaut%C3%A9s%20et%20les%20administrations%20b%C3%A9n%C3%A9ficiaires)
+* 🔗 [Interministerial Support and Expertise Contracts for Free Software](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/)
 * 📄 Overview:
-> Marchés interministériels OSS (DGFiP) contracts explicitly require contributors to “reverser” (push) all bug fixes and improvements back to the original OSS projects. This has been government policy since 2022, ensuring enhancements made in government-funded work return to the public commons.
+  > The interministerial OSS support contracts coordinated by DGFiP mandate that all fixes and improvements whether for bugs, security, or compatibility be contributed back to the original open-source projects. This ensures government-funded enhancements strengthen the upstream codebase and reinforces the commons-based model of OSS development.
 
-* 🔗 [Politique de contribution de l’État – Etalab/DINUM](https://www.etalab.gouv.fr/ouverture-des-codes-sources-appel-a-commentaires-sur-la-politique-de-contribution-aux-logiciels-libres-de-letat/#:~:text=Comment%20ouvrir%20ses%20codes%20sources%C2%A0%3F,documents%20administratifs%20communicables%20et%20r%C3%A9utilisables)
+* 🔗 [Call for Comments on the State’s Open Source Contribution Policy](https://www.etalab.gouv.fr/ouverture-des-codes-sources-appel-a-commentaires-sur-la-politique-de-contribution-aux-logiciels-libres-de-letat/)
 * 📄 Overview:
-> Etalab’s 2018 “appel à commentaires” and subsequent policy encourage civil servants to contribute to existing open-source projects when building government software. The goal is to institutionalize upstream contributions with the 2021 circulaire setting the principle, and code.gouv guidelines formalizing it.
+  > Initiated by Etalab in 2017–2018, this public consultation aimed to formalize a national policy encouraging civil servants and contractors to contribute upstream to open-source projects. Building on France’s digital republic law and later reinforced by the 2021 circulaire, the policy promotes institutional alignment with open-source norms by making contribution a standard practice for government-developed software.
 
 
 ### 🇮🇹 Italy

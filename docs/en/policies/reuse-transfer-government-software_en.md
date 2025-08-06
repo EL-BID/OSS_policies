@@ -32,17 +32,17 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Plate-forme Code.gouv.fr](https://code.gouv.fr/presentation/)
+* 🔗 [Code.gouv.fr Platform](https://code.gouv.fr/presentation/)
 * 📄 Overview:
->Plate-forme Code.gouv.fr: A central registry of public-sector code, run by DINUM/Etalab. It lists all shared source projects from state and local administrations, facilitating mutual reuse.
+  > Code.gouv.fr, maintained by DINUM, serves as a centralized platform to catalogue and share source code developed by French public administrations. Through its searchable inventory and API-accessible datasets, it facilitates the reuse and transfer of government-developed open-source software across agencies, promoting interoperability and collaborative development.
 
-* 🔗 [Socle interministériel de logiciels libres](https://www.data.gouv.fr/en/datasets/socle-interministeriel-de-logiciels-libres//)
+* 🔗 [Interministerial Free Software Base (SILL)](https://www.data.gouv.fr/en/datasets/socle-interministeriel-de-logiciels-libres/)
 * 📄 Overview:
->Socle interministériel de logiciels libres (SILL): An official, government-published catalog of approved free software for public administration. Maintained by DINUM on code.gouv.fr/sill, it helps agencies pick and reuse battle-tested OSS instead of reinventing solutions.
+  > The SILL, maintained by DINUM and published on code.gouv.fr, is an official catalog of open-source software recommended for reuse across French public administrations. It promotes software transfer and standardization by guiding agencies toward vetted OSS solutions instead of developing redundant tools.
 
-* 🔗 [Marchés interministériels support et expertise à l'usage des logiciels libres](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/#:~:text=Ces%20activit%C3%A9s%20sont%20men%C3%A9es%20en,communaut%C3%A9s%20et%20les%20administrations%20b%C3%A9n%C3%A9ficiaires)
+* 🔗 [Interministerial Support and Expertise Contracts for Free Software](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/)
 * 📄 Overview:
->Contrat de support interministériel (DGFiP): The support market for open-source (2022–2029) covers full OSS lifecycle (deployment, maintenance, updates) and obliges providers to contribute back any fixes or improvements to the original community. This ensures that enhancements made for one agency can benefit others.
+  > The interministerial OSS support and expertise contracts, coordinated by DGFiP, promote reuse and transfer of government software by requiring that all fixes and enhancements be contributed back to the original open-source projects. This ensures that improvements made within one public agency can be shared across others, supporting collaborative maintenance and lifecycle management across the administration.
 
 ### 🇩🇪 Germany
 

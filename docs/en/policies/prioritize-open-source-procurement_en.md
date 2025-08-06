@@ -52,13 +52,15 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Loi n°2016-1321](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746#:~:text=Les%20administrations%20mentionn%C3%A9es%20au%20premier,compter%20du%201er%20janvier%202018)
+* 🔗 [Law for a Digital Republic](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
 * 📄 Overview:
-  >Article 16: Requires that administrations “encourage” use of free software and open formats when developing, purchasing or using any part of their information systems
+> France's 2016 Law for a Digital Republic establishes a preference for open source software in the public sector. Article 16 encourages government administrations to use free/libre software and open formats when developing, purchasing, or operating their information systems. This policy aims to help preserve the control, long-term viability, and independence of public information systems.
 
-* 🔗 [Plan d’action “Logiciels libres”](https://www.economie.gouv.fr/dae/logiciels-libres-un-levier-strategique-pour-une-administration-numerique-souveraine-et-durable#:~:text=Mandat%C3%A9e%20par%20la%20direction%20des,de%20support%20des%20logiciels%20libres)
+
+* 🔗 [Free Software: A Strategic Lever for a Sovereign and Sustainable Digital Administration](https://www.economie.gouv.fr/dae/logiciels-libres-un-levier-strategique-pour-une-administration-numerique-souveraine-et-durable)
 * 📄 Overview:
-  >The inter-ministerial support contract for open-source (renewed Oct. 2024) is a strategic procurement mechanism: by bundling OSS support across 13 ministries, it effectively prioritizes government-wide investment in open-source products and services (no law imposes a strict OSS-first rule, but ensures open-source solutions are favoured).
+  > The 2024 renewal of the interministerial support contract for free software, led by the DGFiP and coordinated by the State Procurement Directorate, prioritizes open-source solutions in public procurement by pooling resources across 13 ministries and several national agencies. While not a legal mandate, it strategically favors OSS by ensuring centralized support, security, and long-term viability.
+
 
 ### 🇩🇪 Germany
 

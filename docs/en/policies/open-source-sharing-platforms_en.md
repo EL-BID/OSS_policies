@@ -35,13 +35,14 @@
 
 ### 🇫🇷 France
 
-* 🔗 [Code.gouv.fr – Official portal](https://code.gouv.fr/)
+* 🔗 [Interministerial Free Software Base (SILL)](https://www.data.gouv.fr/en/datasets/socle-interministeriel-de-logiciels-libres/)
 * 📄 Overview:
-> Code.gouv.fr is the official portal for government code projects. It hosts the SILL and links to agencies’ public code repositories (Etalab, DINUM, ministries, etc.), promoting open collaboration. Several government organizations also maintain public GitHub and GitLab organizations. For example, Etalab has [github.com/etalab](https://github.com/etalab) and related license pages. Code.gouv.fr links to these as the national sharing platforms.
+  > Hosted on data.gouv.fr, the SILL dataset serves as an open-source sharing platform by making a curated list of government-recommended OSS publicly accessible in multiple formats and via API. Maintained by DINUM, it enables collaboration, reuse, and transparency across the public sector.
 
-* 🔗 [Data.gouv.fr – SILL Dataset](https://www.data.gouv.fr/en/datasets/socle-interministeriel-de-logiciels-libres/)
+* 🔗 [Code.gouv.fr](https://code.gouv.fr)
 * 📄 Overview:
-> France’s open-data portal also documents open-source initiatives (e.g. publishing the SILL catalog in dataset form, or listing approved open licenses).
+  > Code.gouv.fr serves as France’s central platform for sharing government-developed open-source software. Managed by the Interministerial Digital Directorate (DINUM), it aggregates public code repositories, promotes interagency collaboration, and links to national initiatives like the SILL and BlueHats, supporting a unified ecosystem for open-source reuse and contribution.
+
 
 ### 🇩🇪 Germany
 
