@@ -59,13 +59,13 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [Software Promotion Strategy 2023](https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=62622&type=lawname&key=SOFTWARE+PROMOTION+ACT)  
+* 🔗 [Software Promotion Act](https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=62622&type=lawname&key=SOFTWARE+PROMOTION+ACT)
 * 📄 Overview:
-  > A high-level strategy announced in April 2023 (per the Software Promotion Act’s basic-plan process). It sets out a vision of an open, collaborative software industry. Key points include mandatory open-source R&D outputs, expanded license scanning, SBOM adoption, and developing OSS talent.
+> The Software Promotion Act integrates open-source software (OSS) into national strategic planning through its master and implementation plans mandated under Article 5. These plans must promote OSS adoption in R\&D projects, ensure the public release of software developed with government support (Article 25), and encourage a culture of openness, sharing, and collaboration (Article 36). This positioning of OSS within high-level policy instruments demonstrates South Korea’s strategic commitment to using open source as a driver of digital innovation and industrial competitiveness.
 
-* 🔗 [National Digital Strategy (2022+)](https://www.korea.kr/docViewer/skin/doc.html?fn=304371e308b0bde405404acf2749af85&rs=/docViewer/result/2023.04/21/304371e308b0bde405404acf2749af85)  
+* 🔗 [Software Promotion Strategy (2023)](https://www.korea.kr/docViewer/skin/doc.html?fn=304371e308b0bde405404acf2749af85&rs=/docViewer/result/2023.04/21/304371e308b0bde405404acf2749af85)
 * 📄 Overview:
-  >Korea’s overall digital transformation plan (recently updated) emphasizes open data, interoperability, and shared digital infrastructure. While not solely focused on OSS, it embeds OSS-friendly policies (e.g. requiring OSS in new platform projects) as part of its “open innovation” and “digital sovereignty” goals.
+> Korea’s 2023 Software Promotion Strategy, adopted as a national basic plan under the Software Promotion Act, includes the expansion of the open-source ecosystem as a core component of digital transformation. Section 3 outlines concrete measures to foster OSS innovation, including platform improvements for collaboration, increased funding for license compliance, and expert training programs. By embedding OSS within goals for open innovation, industry competitiveness, and public infrastructure, the strategy confirms OSS as a foundational element in Korea’s long-term digital planning.
 
 ### 🇺🇸 United States
 

@@ -86,10 +86,9 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [Software Promotion Act [Enforced April 23, 2025] [Act No. 20476, October 22, 2024, Partially Amended]](https://law.go.kr/LSW/lsInfoP.do?lsId=000751&ancYnChk=0#0000)
+* 🔗 [Software Industry Promotion Act](https://law.go.kr/LSW/lsInfoP.do?lsId=000751&ancYnChk=0#0000)
 * 📄 Overview:
-  >Software Promotion Act (2020) 
- The law amendment requires that all government-funded software R&D projects use open development methods and publish source code. In particular, it mandates the distribution of R&D outcomes as open-source software.
+  > The Software Industry Promotion Act mandates the public release of state-funded software developed through national R\&D projects. As specified in Article 25(2), the government must promote development practices that involve open access to source code and require that outcomes of national R\&D initiatives be distributed as open-source software. These provisions reinforce transparency and reuse, unless exceptions apply for security or legal reasons.
 
 ### 🇪🇸 Spain
 

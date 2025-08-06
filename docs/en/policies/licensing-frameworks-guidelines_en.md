@@ -63,9 +63,9 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [Open Source Software License Guide (NIPA, 2024)](https://www.oss.kr/oss_guide/show/9a73fa3c-c233-4e8b-8527-7d57ed7218f7#:~:text=,%EA%B0%9C%EB%B0%9C%EA%B3%BC%20%EC%B6%9C%EC%8B%9C%EA%B0%80%20%EC%A6%9D%EA%B0%80%ED%95%A8%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4SW)
+* 🔗 [Open Source Software License Guide (2024 Edition)](https://www.oss.kr/oss_guide/show/9a73fa3c-c233-4e8b-8527-7d57ed7218f7)
 * 📄 Overview:
-> NIPA’s official guidebook (updated Jan 2024) detailing how organizations must comply with open-source licenses. It explains license obligations for using and distributing OSS, and includes checklists for major licenses.
+> The 2024 edition of the Open Source Software License Guide, issued by NIPA, provides comprehensive guidance on licensing compliance for organizations using open-source software. It outlines key legal obligations, compatibility and dual licensing, and includes distribution-specific checklists and case studies. This guide, along with its companion documents on corporate and public sector OSS governance, helps institutions understand and apply licensing frameworks in varied environments, ensuring legal clarity and responsible reuse.
 
 ### 🇪🇸 Spain
 

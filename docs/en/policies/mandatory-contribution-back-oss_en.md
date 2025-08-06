@@ -37,9 +37,9 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [Software Promotion Act (2020)](https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=62622&type=lawname&key=SOFTWARE+PROMOTION+ACT)
+* 🔗 [Software Promotion Act](https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=62622&type=lawname&key=SOFTWARE+PROMOTION+ACT)
 * 📄 Overview:
-> Beyond release requirements, the Act explicitly requires open development practices. R\&D teams must use collaborative development and make source code publicly visible.
+> The Software Promotion Act integrates open source into national strategy by requiring the Master Plan (Article 5) and annual Implementation Plans (Article 6) to support OSS adoption and public release. Article 25 mandates that software developed with national R\&D funding be made publicly available, and Article 36 promotes a culture of openness and collaboration. These provisions embed OSS into South Korea’s long-term digital policy.
 
 ### 🇨🇭 Switzerland
 

@@ -87,7 +87,7 @@
 
 * 🔗 [Public Procurement MAS for Open Source (2021)](https://www.pps.go.kr/kor/bbs/view.do?bbsSn=2107130006&key=00318)
 * 📄 Overview:
-  > Korea’s Public Procurement Service (PPS) introduced a “Multiple Award Schedule (MAS)” contracting scheme specifically for OSS. GS-certified open-source products (starting with operating systems and databases) are given special procurement support under this MAS framework.
+ > Korea’s Public Procurement Service introduced a Multiple Award Schedule (MAS) specifically to support open-source software procurement. Under this initiative, GS-certified open-source solutions particularly operating systems and databases—receive prioritized support within public procurement frameworks. The policy, announced in 2021 as part of broader digital innovation efforts, integrates OSS into the national IT services platform, ensuring open-source options are proactively considered in government acquisitions.
 
 ### 🇪🇸 Spain
 

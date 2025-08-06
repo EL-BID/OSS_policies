@@ -60,9 +60,9 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [Software Supply Chain Security Guidelines (2023)](https://www.msit.go.kr/bbs/view.do?sCode=user&mId=113&mPid=238&bbsSeqNo=94&nttSeqNo=3184474)
-* 📄 Overview:
-> A government guideline jointly released by MSIT, the National Intelligence Service, and other agencies to bolster software supply-chain security. It promotes SBOM usage and developer practices to manage OSS-related vulnerabilities.
+* 🔗 [Software Supply Chain Security Guidelines 1.0 (2023)](https://www.msit.go.kr/bbs/view.do?sCode=user&mId=113&mPid=238&bbsSeqNo=94&nttSeqNo=3184474)
+* 📄 Overview:=
+> Issued by the Ministry of Science and ICT along with national security and digital agencies, the Software Supply Chain Security Guidelines 1.0 establish a detailed framework for securing open-source software used in government systems. Central to the policy is the use of Software Bills of Materials (SBOM) to identify, validate, and manage vulnerabilities in open-source components throughout the software lifecycle. The document outlines technical procedures, validation methods, and support structures—including testing labs and automated SBOM tools to build secure supply chains, especially for public institutions and SMEs adopting open-source software.
 
 ### 🇨🇭 Switzerland
 

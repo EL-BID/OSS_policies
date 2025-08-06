@@ -80,17 +80,18 @@
 > The plan integrates open-source software training into its broader national strategy for digital skills, detailed in **Chapter 1**. It fosters OSS capacity by promoting the development of "comunità di competenze" (communities of practice) and by setting concrete targets in **Chapter 3 (RA3.2.1)** for public administrations to release and adopt open-source solutions through the **Developers Italia** platform. This approach builds practical skills through active participation in the reuse, development, and maintenance of shared software, directly supporting the plan's guiding principle of "apertura come prima opzione" (openness by default).
 
 ### 🇰🇷 South Korea
-* 🔗 [OSS Activation Support Program (NIPA)](https://www.nipa.kr/home/bsnsAll/8/detail?bsnsDtlsIemNo=58)
-* 📄 Overview:
->An ongoing national funding initiative that sponsors a variety of OSS projects. Examples include the annual OSS Developer Contest, the Contribution Academy, and R&D grants for strategic open-source projects. NIPA solicits and funds proposals for OSS-based innovation in new industrial areas, thus directly subsidizing OSS development."
 
 * 🔗 [Open Source Contribution Academy](https://www.oss.kr/contribution_academy)
 * 📄 Overview:
->As part of the above program, NIPA runs special calls to help companies turn OSS R&D into marketable products, especially in AI, security, and cloud.
+> The Open Source Contribution Academy is a government-led training initiative managed by NIPA and OpenUP that supports OSS adoption and developer capacity building through a tiered program. It includes beginner lectures, hands-on training with collaboration tools like Git, and project-based mentoring where participants contribute directly to active OSS projects. By targeting university students and early-career developers, the Academy strengthens the OSS ecosystem and fosters sustainable engagement in both public and private sectors.
 
-* 🔗 [New Industry OSS Commercialization Fund (2023–25)](https://doc.msit.go.kr/SynapDocViewServer/viewer/doc.html?key=caff1c3b13664a8fba54b4a4cbf649f5&convType=html&convLocale=ko_KR&contextPath=/SynapDocViewServer/)
+* 🔗 [OSS Activation Support Program](https://www.nipa.kr/home/bsnsAll/8/detail?bsnsDtlsIemNo=58)
 * 📄 Overview:
->A structured training program hosted by OpenUP/NIPA (mentees and mentors) to teach developers how to contribute to major OSS projects. It covers tools like Git/GitHub and real-world collaboration, strengthening the OSS talent pipeline.
+> The OSS Activation Support Program, led by NIPA under the Ministry of Science and ICT, funds and coordinates national initiatives to strengthen OSS training and developer capacity. It includes structured education for emerging developers, public competitions like the OSS Developer Contest, and events such as the OSS Festival. The program also supports mentoring and skills development through targeted initiatives like the Contribution Academy, contributing to long-term sustainability and innovation in the OSS ecosystem.
+
+* 🔗 [2025 Open Source Developer Contest](https://www.nipa.kr/home/bsnsAll/1/nttDetail?tab=2&bbsNo=4&bsnsDtlsIemNo=58&nttNo=16115)
+* 📄 Overview:
+> The 2025 Open Source Developer Contest, part of NIPA’s OSS Activation Support Program, is a national training initiative designed to build OSS capacity through hands-on education, mentorship, and project-based development. The program targets students and the general public, offering online training, mentorship, and competitive challenges in fields like AI, cybersecurity, and cloud computing. By incorporating licensing compliance checks and business-oriented project categories, it fosters both technical and practical skills for sustained OSS adoption.
 
 ### 🇪🇸 Spain
 

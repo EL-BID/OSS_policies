@@ -61,13 +61,13 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [OpenUP (Open Source Support Center)](https://oss.kr/open_up_intro)
+* 🔗 [OpenUP (Open Source Software Support Center)](https://www.oss.kr/open_up_intro)
 * 📄 Overview:
-> A joint MSIT/NIPA initiative that provides a physical and online hub for OSS communities. OpenUP offers co-working space, mentoring, an annual “Contribution Academy” for training OSS developers, and consulting support for public-sector OSS adoption.
+> OpenUP is a national open-source support platform established by the Ministry of Science and ICT and NIPA to promote sharing and collaboration around government and community developed OSS. It serves as both a physical and digital hub offering co-working spaces, technical consulting, training through initiatives like the “Contribution Academy,” and structured support for startups, developers, and public institutions. By centralizing OSS-related resources, OpenUP strengthens the ecosystem and fosters reuse and adoption of open-source software across sectors.
 
-* 🔗 [National OSS Portal (oss.kr)](https://osasf.net/discussion/183/%EA%B3%84%EC%B2%B4...)
+* 🔗 [National OSS Portal (oss.kr)](https://www.oss.kr/)
 * 📄 Overview:
-> An official web portal maintained by NIPA/MSIT with news, guides, and program information on open source software. It aggregates domestic success cases, licensing guides, security advisories, and event listings to help share OSS knowledge nationwide.
+> The National OSS Portal (oss.kr), operated by NIPA under the Ministry of Science and ICT, is Korea’s official platform for promoting open-source software adoption and collaboration. It serves as a central hub for sharing government and community OSS projects, providing access to domestic success stories, licensing and security guidance, training materials, and event listings. By aggregating critical information and resources, the portal enables developers, public institutions, and companies to engage more effectively with open-source initiatives.
 
 
 

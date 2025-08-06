@@ -73,9 +73,10 @@
 
 ### 🇰🇷 South Korea
 
-* 🔗 [eGovFrame – Standard Framework](https://www.egovframe.go.kr/eng/sub.do?menuNo=2#:~:text=The%20eGovernment%20Standard%20Framework%20has,reusability%20of%20National%20Information%20Systems)
+* 🔗 [eGovFrame (Electronic Government Standard Framework)](https://www.egovframe.go.kr/eng/sub.do?menuNo=2)
 * 📄 Overview:
-> eGovFrame is built entirely on open standards and open-source technologies. It replaces proprietary modules with OSS to remove vendor lock-in, ensuring interoperability and reusability in national information systems.
+> eGovFrame is an open-source framework developed by the Korean government to standardize and facilitate software reuse across public sector IT systems. Maintained by the National Information Society Agency, it provides shared infrastructure and components to improve interoperability, avoid redundant development, and reduce vendor lock-in. Its open distribution supports both domestic and global reuse, advancing a national policy of interagency software transfer and reuse.
+
 
 ### 🇪🇸 Spain
 
