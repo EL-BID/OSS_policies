@@ -91,10 +91,9 @@
 
 ### 🇪🇸 Spain
 
-* 🔗 [Royal Decree 4/2010 – Article 16.4](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+* 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
-  > "Article 16.4 of Spain’s Royal Decree 4/2010 
- Reinforces the government’s commitment to software reuse by requiring public administrations to include specific licensing provisions in contracts for the development of new digital applications. It mandates that the contracting administration must obtain full intellectual property rights over any software or information assets developed. Furthermore, if the project reuses pre-existing components, the resulting product must be eligible for reuse by other public entities. When based on open-source components, the final application should be declared open source as well—ensuring continuity of openness, legal clarity, and the potential for broader adoption within the public sector."
+> Royal Decree 4/2010 mandates that software and digital assets developed by or for Spain’s public administrations be released for public reuse by default. Article 16 sets licensing terms that prioritize open-source distribution, requiring that licenses allow execution, access to source code, modification, and redistribution. It also ensures public bodies retain full intellectual property rights in software development contracts. Article 17 reinforces this by requiring the publication of reusable applications and their documentation in public repositories, facilitating access and reuse by other administrations and the general public.
 
 ### 🇨🇭 Switzerland
 

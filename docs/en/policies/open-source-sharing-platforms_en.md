@@ -73,14 +73,13 @@
 
 ### 🇪🇸 Spain
 
-* 🔗 [Royal Decree 4/2010 – Article 17](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+* 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
-> Establishes the framework for maintaining and connecting directories of reusable applications across public administrations. The State Administration is responsible for managing the central Technology Transfer Centre (CTT), which serves as the main directory for openly reusable software. Other administrations must ensure their own directories are interoperable with the CTT and with equivalent EU platforms. Public entities are required to publish reusable applications—either as products (with open-source code, documentation, licenses, and any reuse costs) or as services (with service level information)—in these directories. They are also encouraged to contribute improvements made to reused applications back to the original version, promoting a collaborative ecosystem for public sector digital solutions.
+> Royal Decree 4/2010 positions software reuse and transfer as essential to digital interoperability in Spain. Articles 16 and 17 require that software developed for public administrations be licensed under terms that allow access, modification, and redistribution. The decree also mandates publication in public repositories and ensures public bodies retain intellectual property rights to facilitate future reuse and cross-agency transfer. These measures aim to reduce duplication, promote efficiency, and enable widespread adoption of shared digital solutions.
 
 * 🔗 [Technology Transfer Centre (CTT)](https://administracionelectronica.gob.es/pae_Home/pae_SolucionesCTT/pae_CTT_-__Que_es_.html)
 * 📄 Overview:
-> Spain’s Technology Transfer Centre (CTT), managed by the Ministry for Digital Transformation, is the central platform for sharing and reusing digital solutions across the public sector. It supports the implementation of the National Interoperability Framework by hosting a directory of reusable applications, promoting collaboration, cost savings, and efficiency in digital public services.
-> The CTT enables administrations to publish software, documentation, licensing terms, and service details—either as downloadable products or accessible services.
+> Spain’s Technology Transfer Centre (CTT) serves as a centralized platform for sharing open-source software and digital assets developed by public administrations. Mandated by Article 17 of Royal Decree 4/2010 and reinforced in Article 158 of Law 40/2015, the CTT hosts a public directory of reusable solutions, including source code, documentation, and licensing details. It enables administrations to publish, download, and collaborate on digital tools via the CTT portal and its associated GitHub organization (Forja-CTT). The platform fosters code reuse and community-driven development across government entities, promoting transparency, efficiency, and interoperability in public sector digital services.
 
 ### 🇨🇭 Switzerland
 

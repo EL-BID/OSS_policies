@@ -80,10 +80,9 @@
 
 ### 🇪🇸 Spain
 
-* 🔗 [Royal Decree 4/2010 – Article 11](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+* 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
-> Establishes a clear mandate for the use of open standards in all digital services and communications between public administrations and citizens. It prioritizes technological neutrality and non-discrimination. Non-open standards may only be used temporarily. The decree also creates support instruments like the Semantic Interoperability Centre and the Technology Transfer Centre.
-
+> Royal Decree 4/2010 includes clear provisions for the adoption of open standards within Spain’s public sector. Article 11 establishes the obligation to use standards that ensure interoperability, preferably those that are open and widely adopted. Annexes I and II detail the criteria for considering a standard as open and define the Common Interoperability Framework, which prioritizes the use of open formats, protocols, and interfaces in public sector ICT systems. These requirements are designed to guarantee long-term accessibility, technological neutrality, and vendor independence across public administrations.
 
 ### 🇺🇸 United States
 

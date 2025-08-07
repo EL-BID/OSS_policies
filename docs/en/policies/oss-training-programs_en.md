@@ -95,9 +95,9 @@
 
 ### 🇪🇸 Spain
 
-* 🔗 [REUTILIZACIÓN DE ACTIVOS](https://administracionelectronica.gob.es/pae_Home/dam/jcr:d277818a-3f2d-408f-87e3-85a925863088/2022-ENI_ReutilizacionActivos.pdf)
+* 🔗 [Reuse of assets. Guide for the publication and licensing of assets](https://administracionelectronica.gob.es/pae_Home/dam/jcr:d277818a-3f2d-408f-87e3-85a925863088/2022-ENI_ReutilizacionActivos.pdf)
 * 📄 Overview:
-  > The Guide for the Publication and Licensing of Reusable Assets developed by the Spanish government serves as a practical tool for public administrations to implement national and EU legislation on reuse, openness, and interoperability. While not a formal training curriculum, the guide functions as a capacity-building resource, providing public officials with step-by-step instructions, templates, and legal context to properly evaluate, license, and publish software and other digital assets. It includes detailed chapters on preliminary analysis, license selection, source code publication, and open-source asset management, along with annexes offering model contract clauses and checklists. By doing so, the guide supports institutional learning and promotes consistency in how public sector entities share and reuse digital resources—essentially acting as a foundational document for internal training and awareness on open-source governance.
+> This guide serves as a primary capacity-building and training resource for Spanish public officials on open-source software policy. While not a formal curriculum, its stated objective is to be a support tool for implementing national reuse and interoperability laws. It provides civil servants with practical, step-by-step instructions on the entire OSS release lifecycle, covering preliminary analysis (**Chapter 3**), license selection (**Chapter 4**), and preparation for distribution (**Chapter 5**). The document's role as a training tool is reinforced by its annexes, which contain model procurement clauses (**Annex I**) and a comprehensive release checklist (**Annex III**). Furthermore, **Chapter 7** explicitly recommends that public bodies train developers and managers on the legal aspects of OSS, positioning this guide as a foundational text for such internal training efforts.
 
 ### 🇨🇭 Switzerland
 

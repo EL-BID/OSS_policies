@@ -70,9 +70,10 @@
 > eGovFrame is a government-developed, open-source software framework designed to standardize and support the reuse of software across Korean public sector IT projects. Managed by the National Information Society Agency, it provides a common infrastructure and set of reusable components that enhance interoperability, reduce redundant development, and eliminate vendor lock-in. By openly distributing source code and promoting its global use, eGovFrame operationalizes a national policy of software reuse and transfer within the public administration.
 ### 🇪🇸 Spain
 
-* 🔗 [Royal Decree 4/2010 – Article 16.4](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+* 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
->Reinforces the government’s commitment to software reuse by requiring public administrations to include specific licensing provisions in contracts for the development of new digital applications. It mandates that the contracting administration must obtain full intellectual property rights over any software or information assets developed. Furthermore, if the project reuses pre-existing components, the resulting product must be eligible for reuse by other public entities. When based on open-source components, the final application should be declared open source as well—ensuring continuity of openness, legal clarity, and the potential for broader adoption within the public sector.
+> Royal Decree 4/2010 defines reuse and transfer of software as a key element of digital interoperability in Spain. Articles 16 and 17 establish that software developed by or for public administrations should be licensed under terms that facilitate reuse, including granting rights to access, modify, and redistribute source code. It also mandates that reusable applications and documentation be published in publicly accessible repositories, and that intellectual property rights in contracts ensure future transfer and adaptation of the software across agencies. These provisions aim to reduce duplication, enhance efficiency, and foster interoperability across the public sector.
+
 
 
 ### 🇨🇭 Switzerland

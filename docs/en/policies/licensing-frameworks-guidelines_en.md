@@ -58,9 +58,6 @@
 * 📄 Overview:
 > This policy mandates the use of open standards to ensure interoperability across all software acquired by public administrations. As specified in the assessment criteria outlined in **Section 2.3.2**, all potential software solutions—whether open source or proprietary—must be evaluated on their use of open data formats, open interfaces (including APIs), and established interoperability standards. This requirement is reinforced in **Section 2.6.1**, which stipulates that even proprietary software is only eligible for consideration if it allows for complete data export in a standard, open, and documented format to prevent vendor lock-in.
 
-
-
-
 ### 🇰🇷 South Korea
 
 * 🔗 [Open Source Software License Guide (2024 Edition)](https://www.oss.kr/oss_guide/show/9a73fa3c-c233-4e8b-8527-7d57ed7218f7)
@@ -69,10 +66,9 @@
 
 ### 🇪🇸 Spain
 
-* 🔗 [Royal Decree 4/2010 – Article 16](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+* 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
-> Sets out the licensing framework for public sector software and digital assets, emphasizing reuse, openness, and legal clarity. Public administrations must license their software—by default, free of charge and without requiring formal agreements—to maximize the reuse of public resources while protecting against exclusive appropriation and limiting liability.
-> When software is declared open source, licenses must ensure the four fundamental freedoms: to use, study, modify, and redistribute the software. The EU Public License (EUPL) is recommended, though equivalent licenses may also be used. Additionally, when contracting new software development, public bodies must secure full intellectual property rights and ensure the resulting application can be offered for reuse, especially if based on pre-existing or open-source components. This legal structure enables transparent sharing and sustainable development of public digital solutions.
+> Royal Decree 4/2010 establishes mandatory use of interoperability standards in Spain’s public sector, with a strong preference for open standards. Article 11 outlines this obligation, while Annexes I and II define the criteria for what qualifies as an open standard and describe the Common Interoperability Framework. The decree promotes open formats, protocols, and interfaces to ensure long-term accessibility, technological neutrality, and vendor independence in public ICT systems.
 
 ### 🇨🇭 Switzerland
 
