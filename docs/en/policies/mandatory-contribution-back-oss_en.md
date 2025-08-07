@@ -43,9 +43,13 @@
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Em002-1 Praxis-Leitfaden](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/OSS/praxisleitfaden-oss-bverw.pdf.download.pdf/Em002-1_Praxis_Leitfaden.pdf)
+* 🔗 [OSS Licensing Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-3.md)
 * 📄 Overview:
-> The publication obligation under EMBAG Art. 9 applies and the modifications must be released again, preferably as changes to the existing open-source project.
+> The guidelines encourage a "share-alike" model by recommending specific licenses. Section 6 advises using strong copyleft licenses like AGPL v.3 or GPL v.3 when the strategic goal is to ensure that modifications and improvements made by third parties "flow back" to the federal authorities. This policy ensures that the public continues to benefit from derivative works.
+
+* 🔗 [OSS Community Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-4.md)
+* 📄 Overview:
+> The guidelines encourage active participation in OSS ecosystems. Section 1 explicitly states the document is for those who "contribute to such an application." By providing a formal structure for managing contributions, including review processes and committer rights as outlined in Section 2, the policy aims to professionalize and encourage the practice of contributing back to open source projects.
 
 ### 🇺🇸 United States
 

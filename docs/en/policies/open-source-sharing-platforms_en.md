@@ -83,9 +83,13 @@
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Strategic Guidelines for OSS – Practical Implementation](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
+* 🔗 [Strategic Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002.md)
 * 📄 Overview:
-> Emphasize several key actions: implementing the accompanying Practical Guidelines for Open Source Software in the Federal Administration (Em002-1), promoting the exchange of knowledge and experience, fostering community building, and exploring the possibility of establishing a dedicated publication platform to support open development.
+> As stated in Measure 9, the administration will examine the possibility of establishing its own publication platform. The document notes in the "Governance and tools" section that while no common platform currently exists, authorities are guided on how to select a repository. This signals a strategic move towards a centralized platform to enhance sovereignty and collaboration.
+
+* 🔗 [Practical Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-1.md)
+* 📄 Overview:
+> The guidelines actively direct government bodies to use established public platforms. The "Open source repositories" section identifies GitHub as the world's most popular development platform and notes that numerous Swiss authorities already publish their software there. It also lists other repositories like GitLab and Bitbucket as viable options for publication.
 
 
 

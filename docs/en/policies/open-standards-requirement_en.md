@@ -77,6 +77,12 @@
 * 📄 Overview:
 > eGovFrame is an open-source framework developed by the Korean government to standardize and facilitate software reuse across public sector IT systems. Maintained by the National Information Society Agency, it provides shared infrastructure and components to improve interoperability, avoid redundant development, and reduce vendor lock-in. Its open distribution supports both domestic and global reuse, advancing a national policy of interagency software transfer and reuse.
 
+### 🇨🇭 Switzerland
+
+* 🔗 [Federal Act on the Use of Electronic Means for the Fulfilment of Official Duties (EMBAG)](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)
+* 📄 Overview:
+> According to Article 12, the Federal Chancellery can declare technical, organizational, and procedural standards as binding for federal authorities to support system interoperability. The policy explicitly states a preference for internationally established open standards, which must also be considered during procurement processes to ensure compatibility across government systems.
+
 
 ### 🇪🇸 Spain
 

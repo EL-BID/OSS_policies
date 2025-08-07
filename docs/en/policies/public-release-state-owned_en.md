@@ -102,24 +102,17 @@
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Federal Act on the Use of Electronic Means for the Performance of Official Tasks (EMBAG)](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_17)
+* 🔗 [Federal Act on the Use of Electronic Means for the Fulfilment of Official Duties (EMBAG)](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)
 * 📄 Overview:
-  >Art. 9 Open Source Software The federal authorities subject to this law shall disclose the source code of software they develop or commission to fulfill their duties, unless the rights of third parties or security-related reasons would preclude or restrict this.
+> As mandated by Article 9, federal authorities must publish the source code of software they develop or commission. This release is required unless prevented by third-party rights or significant security reasons. The policy ensures that publicly funded software is open by default, promoting transparency and reuse by allowing anyone to use, modify, and share it without license fees.
 
-* 🔗 [Em002 Strategic Guidelines for Open Source Software in the Federal Administration ](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
+* 🔗 [Strategic Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002.md)
 * 📄 Overview:
-  >Em002 Strategic Guidelines for Open Source Software in the Federal Administration 
- When developing software, open source release is generally mandatory, subject to the exceptions set out in Art. 9 EMOTA (third‑party rights and security‑relevant reasons). These exceptions are addressed in Em002‑2 Instructions for Publishing OSS
+> The guidelines are based on Article 9 of the EMOTA legislation, which legally mandates that federal authorities must publish the source code of software developed or commissioned by them. As detailed in the "Objective and purpose" section, this policy aims to eliminate legal uncertainty and make open publication the default, with exceptions only for third-party rights or security reasons.
 
-* 🔗 [Em002-2 Instructions for Publishing Open Source Software](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
+* 🔗 [Instructions for Publishing Open Source Software](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-2.md)
 * 📄 Overview:
-  >Em002-2 Instructions for Publishing OSS
- Focuses on operationalizing the publication and use of open-source software (OSS) within public administration. It mandates the implementation of the Instructions for Publishing OSS, including practical tools like checklists, licensing guidance, and templates such as the Contributor License Agreement (CLA). These resources are designed to support administrative units throughout the software lifecycle—especially when modifying or releasing OSS—by ensuring legal compliance and transparency. The measure also addresses the reuse of legacy code under Article 9 of EMOTA, promoting pragmatic approaches for integration. To streamline adoption, the Confederation’s project management methodology (HERMES) is being updated to embed these tools, allowing public bodies to apply OSS practices through established workflows.
-
-* 🔗 [The Federal Act on the Use of Electronic Means for the Fulfillment of Administrative Deployments](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html)
-* 📄 Overview:
-  >The Federal Act on the Use of Electronic Means for the Fulfillment of Administrative Deployments (EMBAG) 
- Mandates that the federal administration publish its software as open source, in line with Article 9, which ensures free access and reuse. Each federal authority is responsible for implementing this requirement and may choose its own platform for publication. The strategic guide outlines objectives and distinguishes between using existing OSS (treated equally with proprietary software) and creating new software, where EMBAG Article 9 applies. The practical guide supports implementation by providing definitions, benefits, challenges, licensing information, and procurement guidance, and is designed to be accessible even to those without prior experience. In 2025, open source is also a priority under the Federal Council’s Digital Switzerland Strategy.
+> These instructions operationalize the legal mandate from Article 9 of the EMOTA legislation, which requires the disclosure of source code for software the federal government develops or commissions. As detailed in Section 3, the guidelines establish a formal process, including checklists, to ensure that publicly funded software is published by default, with clearly defined exceptions.
 
 ### 🇺🇸 United States
 

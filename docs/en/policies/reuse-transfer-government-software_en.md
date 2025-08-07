@@ -68,6 +68,7 @@
 * 🔗 [eGovFrame (Electronic Government Standard Framework)](https://www.egovframe.go.kr/eng/sub.do?menuNo=2)
 * 📄 Overview:
 > eGovFrame is a government-developed, open-source software framework designed to standardize and support the reuse of software across Korean public sector IT projects. Managed by the National Information Society Agency, it provides a common infrastructure and set of reusable components that enhance interoperability, reduce redundant development, and eliminate vendor lock-in. By openly distributing source code and promoting its global use, eGovFrame operationalizes a national policy of software reuse and transfer within the public administration.
+
 ### 🇪🇸 Spain
 
 * 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
@@ -78,10 +79,17 @@
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Strategic Guidelines for OSS (2019)](https://www.bk.admin.ch/dam/bk/en/dokumente/dti/themen/OSS/strategischer_leitfaden_oss_bverw.pdf.download.pdf/Em002_Strategic%20_Guidelines.pdf)
+* 🔗 [Federal Act on the Use of Electronic Means for the Fulfilment of Official Duties (EMBAG)](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)
 * 📄 Overview:
->By using open source software, the Federal Administration contributes to priority 4, 'Strengthening digital sovereignty'. An open source solution can be reused any number of times and adapted to the individual needs of the Federal Administration due to its open source code.
+> Article 11 authorizes federal authorities to provide their information and communication technology (ICT) resources to cantons, municipalities, and other public or private organizations fulfilling federal duties. This facilitates the inter-agency sharing and reuse of software and other digital tools to improve efficiency and support the execution of both federal and cantonal law.
 
+* 🔗 [Strategic Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002.md)
+* 📄 Overview:
+> The "Reference to other strategies" section aligns the guidelines with the Digital Public Services Switzerland Strategy, which promotes the principle of "implemented once and used jointly." The document states that choosing open source software is a key method for facilitating the reuse of IT solutions across different government entities, thereby improving efficiency and collaboration.
+
+* 🔗 [OSS Community Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-4.md)
+* 📄 Overview:
+> The guidelines actively promote inter-agency software reuse through community building. Section 3.3 describes a "Joint organisation" model where the federal government and other public bodies, such as cantons, can co-develop a single version of an application. This structure is designed to lower total costs and formalize the sharing and joint maintenance of software solutions.
 
 ### 🇺🇸 United States
 

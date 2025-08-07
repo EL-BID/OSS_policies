@@ -66,9 +66,17 @@
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Nationale Cyberstrategie 2024 – Pilot Project](https://www.ncsc.admin.ch/dam/ncsc/de/dokumente/strategie/cyberstrategie-ncs/Bericht-zur-Umsetzung-der-NCS_2024-DE.pdf.download.pdf/Bericht-zur-Umsetzung-der-NCS_2024-DE.pdf)
+* 🔗 [Report on the Implementation of the National Cyber Strategy (NCS) 2024](https://www.ncsc.admin.ch/dam/ncsc/de/dokumente/strategie/cyberstrategie-ncs/Bericht-zur-Umsetzung-der-NCS_2024-DE.pdf.download.pdf/Bericht-zur-Umsetzung-der-NCS_2024-DE.pdf)
 * 📄 Overview:
-> In 2024, the BACS, in collaboration with the NTC, launched a pilot project to evaluate two widely used OSS products.
+> Section 4.2.1 highlights the increasing importance of securing open-source software (OSS). It outlines a pilot project started in 2024 by the Federal Office for Cybersecurity (BACS) to test frequently used OSS products. This initiative aims to increase the transparency and security of OSS, reduce attack surfaces, and enhance Switzerland's overall cyber resilience.
+
+* 🔗 [Instructions for Publishing Open Source Software](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-2.md)
+* 📄 Overview:
+> Section 4.1, "Source code analysis," defines specific security protocols to be followed before any software is published. These mandatory checks include scanning source code to ensure it contains no secrets or credentials, conducting targeted security tests, and creating lists of all third-party libraries used. It also recommends establishing a public bug bounty program after release.
+
+* 🔗 [OSS Community Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-4.md)
+* 📄 Overview:
+> A specific security protocol for community-managed projects is mandated in Section 5.8. This policy requires the establishment of a confidential channel for reporting security-relevant errors. This ensures that potential vulnerabilities can be disclosed responsibly to the project maintainers without being made public immediately, similar to the process used in formal bug bounty programs.
 
 ### 🇺🇸 United States
 

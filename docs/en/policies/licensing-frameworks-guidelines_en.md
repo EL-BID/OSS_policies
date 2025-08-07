@@ -64,6 +64,16 @@
 * 📄 Overview:
 > The 2024 edition of the Open Source Software License Guide, issued by NIPA, provides comprehensive guidance on licensing compliance for organizations using open-source software. It outlines key legal obligations, compatibility and dual licensing, and includes distribution-specific checklists and case studies. This guide, along with its companion documents on corporate and public sector OSS governance, helps institutions understand and apply licensing frameworks in varied environments, ensuring legal clarity and responsible reuse.
 
+### 🇨🇭 Switzerland
+
+* 🔗 [Federal Act on the Use of Electronic Means for the Fulfilment of Official Duties (EMBAG)](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)
+* 📄 Overview:
+> Article 9 provides clear directives on software licensing. It specifies that rights should be granted via private law licenses and, whenever practical, internationally recognized license texts should be utilized. It also mandates the exclusion of liability claims from licensees to the fullest extent legally possible, establishing a clear and risk-managed framework for government OSS releases.
+
+* 🔗 [OSS Licensing Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-3.md)
+* 📄 Overview:
+> This document provides a comprehensive licensing framework. Section 3 categorizes licenses (permissive, weak, and strong copyleft), while Section 4 lists specific licenses deemed "unproblematic" for government use. Section 5 offers prioritized recommendations for new government projects, advising specific licenses like AGPL v3 and Apache 2.0 based on strategic goals.
+
 ### 🇪🇸 Spain
 
 * 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)

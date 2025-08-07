@@ -93,6 +93,17 @@
 * 📄 Overview:
 > The 2025 Open Source Developer Contest, part of NIPA’s OSS Activation Support Program, is a national training initiative designed to build OSS capacity through hands-on education, mentorship, and project-based development. The program targets students and the general public, offering online training, mentorship, and competitive challenges in fields like AI, cybersecurity, and cloud computing. By incorporating licensing compliance checks and business-oriented project categories, it fosters both technical and practical skills for sustained OSS adoption.
 
+### 🇨🇭 Switzerland
+
+* 🔗 [Strategic Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002.md)
+* 📄 Overview:
+> Measure 4 explicitly calls for the promotion of knowledge and experience exchange regarding open source software. Furthermore, Objective F and Measure 3 emphasize the need for specialists with OSS experience, encouraging efforts to build up internal know-how among employees and procurement authorities to support the use and release of open source solutions effectively.
+
+* 🔗 [Practical Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-1.md)
+* 📄 Overview:
+> The guidelines recognize the need for specialized skills. The "Challenges" section identifies a potential lack of in-house expertise and recommends that it be built up through further training and self-study. The support models described in the document also encourage developing internal know-how as a way to professionally manage OSS within the administration.
+
+
 ### 🇪🇸 Spain
 
 * 🔗 [Reuse of assets. Guide for the publication and licensing of assets](https://administracionelectronica.gob.es/pae_Home/dam/jcr:d277818a-3f2d-408f-87e3-85a925863088/2022-ENI_ReutilizacionActivos.pdf)

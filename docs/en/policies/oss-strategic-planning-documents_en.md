@@ -67,6 +67,17 @@
 * 📄 Overview:
 > Korea’s 2023 Software Promotion Strategy, adopted as a national basic plan under the Software Promotion Act, includes the expansion of the open-source ecosystem as a core component of digital transformation. Section 3 outlines concrete measures to foster OSS innovation, including platform improvements for collaboration, increased funding for license compliance, and expert training programs. By embedding OSS within goals for open innovation, industry competitiveness, and public infrastructure, the strategy confirms OSS as a foundational element in Korea’s long-term digital planning.
 
+### 🇨🇭 Switzerland
+
+* 🔗 [Federal Act on the Use of Electronic Means for the Fulfilment of Official Duties (EMBAG)](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)
+* 📄 Overview:
+> This federal act embeds open source principles directly into Switzerland's national digital governance strategy. By dedicating Article 9 entirely to "Open Source Software," the law elevates OSS from a purely technical consideration to a fundamental component of the federal government's approach to digital transformation, ensuring its role in fulfilling official duties.
+
+* 🔗 [Strategic Guidelines for Open Source Software in the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002.md)
+* 📄 Overview:
+> This document itself is a core strategic guideline that embeds OSS within the Federal Administration's digital policy. The "Reference to other strategies" section explicitly links the use of open source to high-level national goals, including the Digital Federal Administration Strategy, the Digital Switzerland Strategy, and the promotion of digital sovereignty.
+
+
 ### 🇺🇸 United States
 
 * 🔗 [Code.mil](https://code.mil/how-to-open-source.html)  
