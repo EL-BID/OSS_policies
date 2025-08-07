@@ -14,17 +14,6 @@
 * 📄 Overview:  
 > The Open Resource Exchange is the Government of Canada's official platform for sharing and collaborating on open-source software developed by public administrations at all levels: federal, provincial, municipal, and Indigenous. It facilitates the discovery, reuse, and co-development of open-source solutions by offering centralized access to code repositories, standards, and design assets. As part of the Municipal Innovation Pilot Project, the platform aims to enhance transparency, promote interoperability, and support the collective development of digital public goods across Canada.
 
-
-
-### 🇬🇧 England
-
-* 🔗 [Service Manual: Making Source Code Open and Reusable)](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
-* 📄 Overview:
-  > This guidance from the UK Government Digital Service mandates the use of public repositories, such as GitHub, to share government-developed source code. It encourages departments to publish code from the start of a project and maintain it openly, outlining practices for licensing, version control, and secure publishing. The document serves as a foundational framework for enabling reuse and collaboration through open source sharing platforms across government services.
-
-
-
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Koodivaramu Open Source Platform](https://koodivaramu.eesti.ee/explore)
@@ -91,7 +80,11 @@
 * 📄 Overview:
 > The guidelines actively direct government bodies to use established public platforms. The "Open source repositories" section identifies GitHub as the world's most popular development platform and notes that numerous Swiss authorities already publish their software there. It also lists other repositories like GitLab and Bitbucket as viable options for publication.
 
+### 🇬🇧 United kingdom
 
+* 🔗 [Service Manual: Making Source Code Open and Reusable)](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
+* 📄 Overview:
+  > This guidance from the UK Government Digital Service mandates the use of public repositories, such as GitHub, to share government-developed source code. It encourages departments to publish code from the start of a project and maintain it openly, outlining practices for licensing, version control, and secure publishing. The document serves as a foundational framework for enabling reuse and collaboration through open source sharing platforms across government services.
 
 ### 🇺🇸 United States
 

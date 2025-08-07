@@ -14,16 +14,6 @@
 * 📄 Overview:  
 > The Enterprise Architecture Framework promotes software reuse and transfer across government by requiring departments to prioritize reusable open source solutions over custom development. Under “Application Architecture” and “Business Architecture,” it encourages contributions back to OSS communities, modular system design, and the registration of reusable components in the Open Resource Exchange to facilitate adoption across departments.
 
-### 🇬🇧 United Kingdom
-
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
-* 📄 Overview:
-  > The Action Plan mandates that software developed or procured by the UK Government be reusable across the public sector, including cloud environments. As outlined in the policy section and reinforced in Action 9, government purchasers must secure full rights to custom-developed code and customisations, with the option to release them as open source when appropriate. This ensures maximum reuse and transferability of publicly funded software assets.
-
-* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
-* 📄 Overview:
-  > The playbook promotes the reuse and transfer of software among public institutions by mandating open standards and interoperable systems. The policies on "Open and interoperable data and software" and "API technical and data standards" outlined in Chapter 8 are designed to ensure that data and software components can be easily exchanged and shared across different government platforms. This strategy aims to improve efficiency, avoid redundant development efforts, and prevent vendor lock-in, thereby facilitating seamless software transfer between agencies.
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
@@ -108,7 +98,15 @@
 * 📄 Overview:
 > To maximize efficiency and prevent redundant spending, Article 7 mandates a "check before you buy" policy. Before acquiring any new software, all government agencies are required to search the Uruguayan Public Software Portal to verify that a suitable solution does not already exist within the government.
 
+### 🇬🇧 United Kingdom
 
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 📄 Overview:
+  > The Action Plan mandates that software developed or procured by the UK Government be reusable across the public sector, including cloud environments. As outlined in the policy section and reinforced in Action 9, government purchasers must secure full rights to custom-developed code and customisations, with the option to release them as open source when appropriate. This ensures maximum reuse and transferability of publicly funded software assets.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The playbook promotes the reuse and transfer of software among public institutions by mandating open standards and interoperable systems. The policies on "Open and interoperable data and software" and "API technical and data standards" outlined in Chapter 8 are designed to ensure that data and software components can be easily exchanged and shared across different government platforms. This strategy aims to improve efficiency, avoid redundant development efforts, and prevent vendor lock-in, thereby facilitating seamless software transfer between agencies.
 
 ### 🇪🇺 European Commission
 

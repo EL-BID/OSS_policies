@@ -22,15 +22,6 @@
 * 📄 Overview:
   > Executive Decree No. 1425 incorporates open-source software into Ecuador’s strategic digital planning by establishing a structured procurement framework that prioritizes open-source solutions. Article 10 mandates that public institutions prepare and submit migration feasibility plans to free digital technologies when acquiring proprietary software, positioning OSS adoption as a long-term strategic objective. This requirement embeds OSS considerations into institutional planning and aligns public procurement with national digital sovereignty goals.
 
-
-### 🇬🇧 England
-
-
-* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
-* 📄 Overview:
-  > The Digital, Data and Technology Playbook embeds open-source software into the UK government’s strategic digital planning by recommending the use of open and interoperable code across DDaT (Digital, Data and Technology) projects. Chapter 8 explicitly encourages software to be open source and platform-agnostic to enhance interoperability, innovation, and sustainability. As a guiding framework for all central government departments, the Playbook positions OSS as a foundational element in delivering modern, secure, and user-centered public services.
-
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Estonia’s Digital Agenda 2030](https://www.mkm.ee/sites/default/files/documents/2022-04/Digi%C3%BChiskonna%20arengukava_ENG.pdf) 
@@ -77,6 +68,12 @@
 * 📄 Overview:
 > This document itself is a core strategic guideline that embeds OSS within the Federal Administration's digital policy. The "Reference to other strategies" section explicitly links the use of open source to high-level national goals, including the Digital Federal Administration Strategy, the Digital Switzerland Strategy, and the promotion of digital sovereignty.
 
+### 🇬🇧 United kingdom
+
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The Digital, Data and Technology Playbook embeds open-source software into the UK government’s strategic digital planning by recommending the use of open and interoperable code across DDaT (Digital, Data and Technology) projects. Chapter 8 explicitly encourages software to be open source and platform-agnostic to enhance interoperability, innovation, and sustainability. As a guiding framework for all central government departments, the Playbook positions OSS as a foundational element in delivering modern, secure, and user-centered public services.
 
 ### 🇺🇸 United States
 

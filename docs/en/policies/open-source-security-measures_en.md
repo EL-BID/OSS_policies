@@ -26,16 +26,6 @@
 * 📄 Overview:
   > Executive Decree No. 1014 requires Ecuador’s central government entities to ensure technical capacity before deploying open-source software, as stated in Article 3. This provision aims to safeguard the secure and effective implementation of OSS by mandating adequate support infrastructure, indirectly addressing OSS security through operational readiness and oversight by the Subsecretariat of Informatics.
   
-### 🇬🇧 England
-
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
-* 📄 Overview:
-  > The Action Plan addresses open source security through Action 4, which establishes regular assessments by the CIO Council to ensure that open-source products used in government meet defined standards of maturity, codebase security, and project sustainability. This measure aims to mitigate risks associated with deploying open-source solutions in critical public services by verifying the reliability and stability of the tools before widespread adoption.
-
-* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
-* 📄 Overview:
-  > The playbook defines security protocols for all procured technology, which inherently covers open source software. The "Cyber security assessment" key policy requires that all projects apply a robust level of security assessment to safeguard public data. As expanded upon in Chapters 8 and 9, this includes mandating standards such as the Cyber Essentials Scheme for contracts handling personal information or providing certain ICT services, ensuring that any OSS utilized in public systems is subject to the same rigorous security risk evaluation and management.
-
 ### 🇫🇷 France
 
 * 🔗 [Interministerial Support and Expertise Contracts for Free Software](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/)
@@ -77,6 +67,16 @@
 * 🔗 [OSS Community Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-4.md)
 * 📄 Overview:
 > A specific security protocol for community-managed projects is mandated in Section 5.8. This policy requires the establishment of a confidential channel for reporting security-relevant errors. This ensures that potential vulnerabilities can be disclosed responsibly to the project maintainers without being made public immediately, similar to the process used in formal bug bounty programs.
+
+### 🇬🇧 United kingdom
+
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 📄 Overview:
+  > The Action Plan addresses open source security through Action 4, which establishes regular assessments by the CIO Council to ensure that open-source products used in government meet defined standards of maturity, codebase security, and project sustainability. This measure aims to mitigate risks associated with deploying open-source solutions in critical public services by verifying the reliability and stability of the tools before widespread adoption.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The playbook defines security protocols for all procured technology, which inherently covers open source software. The "Cyber security assessment" key policy requires that all projects apply a robust level of security assessment to safeguard public data. As expanded upon in Chapters 8 and 9, this includes mandating standards such as the Cyber Essentials Scheme for contracts handling personal information or providing certain ICT services, ensuring that any OSS utilized in public systems is subject to the same rigorous security risk evaluation and management.
 
 ### 🇺🇸 United States
 

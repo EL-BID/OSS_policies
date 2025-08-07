@@ -19,16 +19,6 @@
 * 📄 Overview:
 > The Open Source Software Form provides guidance for Canadian public administrations to register OSS projects along with their licensing information using standardized SPDX identifiers. By requiring submission of license details including short identifiers, URLs, and license levels, this process promotes consistency and legal clarity in how open-source software is shared and reused across jurisdictions. The use of SPDX ensures alignment with internationally recognized licensing practices for software, data, and related assets.
 
-### 🇬🇧 England
-
-* 🔗 [Service Manual: Making Source Code Open and Reusable)](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusabley)
-* 📄 Overview:
-  > The Service Manual provides clear licensing guidance, advising UK government teams to release code under an Open Source Initiative (OSI)-approved license, such as MIT. The "Licensing your code" section emphasizes legal clarity around reuse, default Crown Copyright, and the need for open licensing when publishing government-developed software, ensuring compliance and encouraging responsible sharing of public code.
-
-* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
-* 📄 Overview:
-  > The playbook provides clear guidance on software licensing by establishing a framework for intellectual property (IP) and the use of open source licenses. The section on "Open software" in Chapter 8 specifies that government-developed code should be published using an Open Source Initiative (OSI) approved license. Furthermore, the chapter's detailed discussion on IP ownership presents various models for consideration, guiding agencies on how to manage IP rights to maximize long-term value and enable the publication of government-funded work as open source material.
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
@@ -82,9 +72,23 @@
 
 ### 🇨🇭 Switzerland
 
-* 🔗 [Em002-3 OSS Licensing Guidelines](https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software/hilfsmittel_oss.html)
+* 🔗 [Federal Act on the Use of Electronic Means for the Fulfilment of Official Duties (EMBAG)](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)
 * 📄 Overview:
-> In the case of open source, licences that comply with OSI are usually used. If software is under a licence with a copyleft provision, any modification or extension of the source code must be released again under the licence of the modified open source software.
+> Article 9 provides clear directives on software licensing. It specifies that rights should be granted via private law licenses and, whenever practical, internationally recognized license texts should be utilized. It also mandates the exclusion of liability claims from licensees to the fullest extent legally possible, establishing a clear and risk-managed framework for government OSS releases.
+
+* 🔗 [OSS Licensing Guidelines for the Federal Administration](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-3.md)
+* 📄 Overview:
+> This document provides a comprehensive licensing framework. Section 3 categorizes licenses (permissive, weak, and strong copyleft), while Section 4 lists specific licenses deemed "unproblematic" for government use. Section 5 offers prioritized recommendations for new government projects, advising specific licenses like AGPL v3 and Apache 2.0 based on strategic goals.
+
+### 🇬🇧 United kingdom
+
+* 🔗 [Service Manual: Making Source Code Open and Reusable)](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusabley)
+* 📄 Overview:
+  > The Service Manual provides clear licensing guidance, advising UK government teams to release code under an Open Source Initiative (OSI)-approved license, such as MIT. The "Licensing your code" section emphasizes legal clarity around reuse, default Crown Copyright, and the need for open licensing when publishing government-developed software, ensuring compliance and encouraging responsible sharing of public code.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The playbook provides clear guidance on software licensing by establishing a framework for intellectual property (IP) and the use of open source licenses. The section on "Open software" in Chapter 8 specifies that government-developed code should be published using an Open Source Initiative (OSI) approved license. Furthermore, the chapter's detailed discussion on IP ownership presents various models for consideration, guiding agencies on how to manage IP rights to maximize long-term value and enable the publication of government-funded work as open source material.
 
 ### 🇺🇸 United States
 

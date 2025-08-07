@@ -30,14 +30,6 @@
 * 📄 Overview:
   > Executive Decree No. 1014 establishes that entities within Ecuador’s Central Public Administration must prioritize free and open-source software in procurement processes. As outlined in Article 1 and Article 5, open-source solutions should be favored over proprietary alternatives, with exceptions only when no suitable OSS exists or when national security is at risk. The decree also sets a preference hierarchy that prioritizes national and regional OSS solutions to ensure technological sovereignty.
 
-
-### 🇬🇧 United Kingdom
-
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
-* 📄 Overview:
-  > The UK Government mandates that procurement processes actively consider open-source solutions on equal footing with proprietary alternatives. As detailed in the policy section and reinforced in Action 5, vendors must demonstrate that open-source options were fairly evaluated; failure to do so renders bids non-compliant. Where costs are similar, open-source is preferred for its added flexibility.
-
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
@@ -101,7 +93,11 @@
 * 📄 Overview:
   >In 2005, the Federal IT Strategy Unit (FITSU) published the first version of an OSS strategy for the Federal Administration. At that time, the most important principle was defined as the equal treatment of OSS with closed source software in procurement. Since publication in 2005, the prevalence of open source software has steadily increased. According to the Open Source Study Switzerland 2024 report, a clear majority of companies and authorities use open source software in many different areas. In the software industry, very few companies do not work with open source tools and components. On 1 February 2019, these Strategic Guidelines for Open Source Software in the Federal Administration and the practical guidelines came into force as Version 1.0. With the enact- ment of EMOTA and the new obligations under Article 9, it became necessary to align both sets of guidelines with the new status and create additional tools for the federal authorities."
 
+### 🇬🇧 United Kingdom
 
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 📄 Overview:
+  > The UK Government mandates that procurement processes actively consider open-source solutions on equal footing with proprietary alternatives. As detailed in the policy section and reinforced in Action 5, vendors must demonstrate that open-source options were fairly evaluated; failure to do so renders bids non-compliant. Where costs are similar, open-source is preferred for its added flexibility.
 
 ### 🇺🇸 United States
 

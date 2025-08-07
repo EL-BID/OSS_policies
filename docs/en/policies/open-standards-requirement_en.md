@@ -26,17 +26,6 @@
 * 📄 Overview:
   > Executive Decree No. 1014 promotes the use of open standards in Ecuador’s Central Public Administration as part of its broader mandate to adopt free and open-source software. The decree references the Ibero-American Charter on Electronic Government, which encourages open standards to ensure interoperability. This framing supports a policy environment where government systems are expected to prioritize openness and compatibility.
 
-
-### 🇬🇧 United Kingdom
-
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
-* 📄 Overview:
-  > The Action Plan mandates the use of open standards in government procurement and system development to ensure interoperability and long-term accessibility. As detailed in Action 8 and Policy Section (7), the government commits to specifying open standards in requirements and promoting formats like HTML, Open Document Format, and open versions of previously proprietary standards. Compliance with these standards is required, particularly for websites and public information systems.
-
-* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
-* 📄 Overview:
-  > A central requirement of the playbook is the adoption of open standards to ensure system interoperability and vendor neutrality. The key policy on "Open and interoperable data and software," detailed in Chapter 8, mandates that software be designed for platform-agnostic access and that data be shared using consistent methods, primarily through APIs that conform to Central Digital and Data Office (CDDO) standards. This commitment is further supported by the Technology Code of Practice (TCoP), referenced in Chapter 3, which guides the creation of interoperable, standards-based services to avoid lock-in.
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Estonia’s Digital Agenda 2030](https://www.mkm.ee/sites/default/files/documents/2022-04/Digi%C3%BChiskonna%20arengukava_ENG.pdf)
@@ -89,6 +78,16 @@
 * 🔗 [Royal Decree 4/2010 on the National Interoperability Framework](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 * 📄 Overview:
 > Royal Decree 4/2010 includes clear provisions for the adoption of open standards within Spain’s public sector. Article 11 establishes the obligation to use standards that ensure interoperability, preferably those that are open and widely adopted. Annexes I and II detail the criteria for considering a standard as open and define the Common Interoperability Framework, which prioritizes the use of open formats, protocols, and interfaces in public sector ICT systems. These requirements are designed to guarantee long-term accessibility, technological neutrality, and vendor independence across public administrations.
+
+### 🇬🇧 United Kingdom
+
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 📄 Overview:
+  > The Action Plan mandates the use of open standards in government procurement and system development to ensure interoperability and long-term accessibility. As detailed in Action 8 and Policy Section (7), the government commits to specifying open standards in requirements and promoting formats like HTML, Open Document Format, and open versions of previously proprietary standards. Compliance with these standards is required, particularly for websites and public information systems.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > A central requirement of the playbook is the adoption of open standards to ensure system interoperability and vendor neutrality. The key policy on "Open and interoperable data and software," detailed in Chapter 8, mandates that software be designed for platform-agnostic access and that data be shared using consistent methods, primarily through APIs that conform to Central Digital and Data Office (CDDO) standards. This commitment is further supported by the Technology Code of Practice (TCoP), referenced in Chapter 3, which guides the creation of interoperable, standards-based services to avoid lock-in.
 
 ### 🇺🇸 United States
 

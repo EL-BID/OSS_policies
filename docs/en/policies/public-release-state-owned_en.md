@@ -35,16 +35,6 @@
 * 📄 Overview:
   > Article 147 of this code mandates that public sector entities must make the source code of software they develop or contract for publicly available through the national Information System for Science, Technology, Innovation, and Ancestral Knowledge. This requirement may be waived, and the source code kept confidential, for reasons of national security, if the software pertains to strategic sectors, or if the relevant e-government regulatory body determines that it contains critical components.
 
-### 🇬🇧 England
-
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
-* 📄 Overview:
-  > The UK Government’s 2010 action plan commits to releasing general-purpose software developed by or for the government under open source licenses when appropriate. As outlined in Action 9, it ensures that publicly funded code is reusable across the public sector and may be published, integrating this into procurement practices and standard contracts unless legal or security constraints apply.
-
-* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
-* 📄 Overview:
-  > The playbook establishes a key policy that software and code developed by the government should be open source by default. This approach is intended to increase transparency, allow for the reuse of software components, and reduce the overall cost of digital services. As detailed in the "Open and interoperable data and software" policy within Chapter 8, new government software is expected to be developed openly and published under a license approved by the Open Source Initiative.
-
 ### 🇪🇪 Estonia
 
 * 🔗 [Estonia’s Digital Agenda 2030](https://www.mkm.ee/sites/default/files/documents/2022-04/Digi%C3%BChiskonna%20arengukava_ENG.pdf)
@@ -113,6 +103,16 @@
 * 🔗 [Instructions for Publishing Open Source Software](https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-2.md)
 * 📄 Overview:
 > These instructions operationalize the legal mandate from Article 9 of the EMOTA legislation, which requires the disclosure of source code for software the federal government develops or commissions. As detailed in Section 3, the guidelines establish a formal process, including checklists, to ensure that publicly funded software is published by default, with clearly defined exceptions.
+
+### 🇬🇧 United Kingdom
+
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 📄 Overview:
+  > The UK Government’s 2010 action plan commits to releasing general-purpose software developed by or for the government under open source licenses when appropriate. As outlined in Action 9, it ensures that publicly funded code is reusable across the public sector and may be published, integrating this into procurement practices and standard contracts unless legal or security constraints apply.
+
+* 🔗 [The Digital, Data and Technology Playbook](https://www.gov.uk/government/publications/the-digital-data-and-technology-playbook/the-digital-data-and-technology-playbook)
+* 📄 Overview:
+  > The playbook establishes a key policy that software and code developed by the government should be open source by default. This approach is intended to increase transparency, allow for the reuse of software components, and reduce the overall cost of digital services. As detailed in the "Open and interoperable data and software" policy within Chapter 8, new government software is expected to be developed openly and published under a license approved by the Open Source Initiative.
 
 ### 🇺🇸 United States
 

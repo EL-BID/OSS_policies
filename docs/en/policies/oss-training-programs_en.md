@@ -36,12 +36,6 @@
 * 📄 Overview:
   > Article 3 of the Decree No. 1014 requires that public entities ensure the existence of sufficient technical capacity before implementing open-source software. This implies a governmental responsibility to support OSS adoption through adequate training, staffing, or service arrangements to maintain system sustainability and performance.
 
-### 🇬🇧 England
-
-* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
-* 📄 Overview:
-  > As outlined in Action 2, the UK government committed to strengthening internal capacity for OSS adoption by launching a training and education program for IT and procurement professionals. Coordinated by the CIO Council and OGC, this initiative aimed to improve understanding of open source licensing, support models, and cost structures, thereby enabling more informed decisions and encouraging the sustainable use of OSS in public services.
-
 ### 🇫🇷 France
 
 * 🔗 [Free Software: A Strategic Lever for a Sovereign and Sustainable Digital Administration](https://www.economie.gouv.fr/dae/logiciels-libres-un-levier-strategique-pour-une-administration-numerique-souveraine-et-durable)
@@ -116,6 +110,11 @@
 * 📄 Overview:
   >The practical guidelines are intended to clarify the legal and strategic requirements. The document serves as instructions for users within the Federal Administration, including those without prior knowledge. It can therefore be read selectively as a reference guide. Depending on your level of knowledge, you can start working with the tools straight away. The guidelines also include definitions, an overview of the potential of OSS, the challenges involved, a practical overview of various constellations in working with OSS, as well as information on the choice of licences and on OSS procurement.
 
+### 🇬🇧 United kingdom
+
+* 🔗 [Open Source, Open Standards and Re‑Use: Government Action Plan)](https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf)
+* 📄 Overview:
+  > As outlined in Action 2, the UK government committed to strengthening internal capacity for OSS adoption by launching a training and education program for IT and procurement professionals. Coordinated by the CIO Council and OGC, this initiative aimed to improve understanding of open source licensing, support models, and cost structures, thereby enabling more informed decisions and encouraging the sustainable use of OSS in public services.
 
 ### 🇺🇸 United States
 
