@@ -16,15 +16,15 @@ body:
       description: Choose where this fits best.
       options:
         - Public Release of State-Owned Software
-        - Reuse and Transfer of Government Software
         - Prioritize Open Source in Procurement
-        - Licensing Frameworks and Guidelines
-        - Open Source Sharing Platforms
+        - Reuse and Transfer of Government Software
         - Open Source Security Measures
+        - Open Source Sharing Platforms
+        - Mandatory Contribution Back to Open-Source Projects
         - Open Standards Requirement
+        - Licensing Frameworks and Guidelines
         - OSS Training Programs
-        - OSS in Strategic Planning Documents
-        - Mandatory Contribution Back to OSS
+        - OSS in strategic planning documents
 
   - type: input
     id: country
