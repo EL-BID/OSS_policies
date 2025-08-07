@@ -125,9 +125,9 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Ley No. 19.179](https://www.impo.com.uy/bases/leyes/19179-2013)
+* 🔗 [AI Strategy for the Digital Government](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/book/5722/download)
 * 📄 Overview:
-  >Art 3: It is considered of general interest that the educational system proceed to promote the use of free software."
+> The "Capacity Development" pillar outlined on page 11 establishes a plan for extensive training in AI. Objective III mandates a program to build skills for responsible AI development and use across the public sector, preparing staff to implement the strategy's transparency and open source principles.
 
 ### 🇪🇺 European Commission
 

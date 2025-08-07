@@ -57,9 +57,15 @@
 * 📄 Overview:
 > While not a strict mandate, Section 5.2 strongly encourages federal agencies and their contractors to participate in the broader OSS community. This includes contributing improvements made to existing open source projects back to the upstream community. The policy frames this as a key practice for fostering collaboration and leveraging the benefits of open development.
 
+### 🇺🇾 Uruguay
+
 * 🔗 [CISA Open Source Software Policy](https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md)
 * 📄 Overview:
 > The policy commits the agency to actively participating in the open source ecosystem. It establishes a default position to contribute improvements back to the FOSS projects it uses. The document states CISA will be an active contributor to the software it or its clients utilize, ensuring a two-way relationship with the open source community.
+
+* 🔗 [Law No. 19179: Regulation on Digital Information Formats and Software](https://www.impo.com.uy/bases/leyes/19179-2013)
+* 📄 Overview:
+> The law strongly implies a contribution-back requirement. Article 5 defines one of the core conditions of the free software that the government must use and produce as the ability for improvements to be made and then released back to the public, ensuring a cycle of community contribution.
 
 ### 🇪🇺 European Commission
 

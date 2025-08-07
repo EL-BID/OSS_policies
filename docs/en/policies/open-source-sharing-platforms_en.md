@@ -106,9 +106,10 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Decreto N° 44/015 – Article 7](https://www.impo.com.uy/bases/decretos/44-2015)
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
 * 📄 Overview:
-> The development or modification of free software must comply with the eligibility requirements established to be integrated into the Public Software Portal of Uruguay.
+> Article 7 officially establishes the "Portal de Software Público Uruguayo" (Uruguayan Public Software Portal). This centralized platform serves as the official repository for sharing and discovering software solutions across the public sector, acting as the key infrastructure for software reuse and public release.
+
 
 ### 🇪🇺 European Commission
 

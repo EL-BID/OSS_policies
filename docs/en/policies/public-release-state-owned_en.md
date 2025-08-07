@@ -131,16 +131,17 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Ley No. 19.179](https://www.impo.com.uy/bases/leyes/19179-2013)
+* 🔗 [Law No. 19179: Regulation on Digital Information Formats and Software](https://www.impo.com.uy/bases/leyes/19179-2013)
 * 📄 Overview:
-  >Ley No. 19.179 
- Art 2: In the event that the State contracts or develops software, upon distribution, it shall be licensed as free software.
+> As mandated by Article 2, any software that the state develops or commissions must be distributed under a free software license. The law, in Article 5, defines free software by its adherence to the four fundamental freedoms, which include the ability for anyone to study, modify, and redistribute the code.
 
-* 🔗 [Artificial Intelligence Strategy for Digital Government](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/book/5722/download)
+* 🔗 [AI Strategy for the Digital Government](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/book/5722/download)
 * 📄 Overview:
-  >Artificial Intelligence Strategy for Digital Government
- Page 11: Be as open as we can by sharing source code, training data, and other relevant data, providing access to our Application Programming Interfaces (APIs) and developing and contributing to open standards, unless there is a specific reason not to do so.
+> As part of the Digital 9 (D9) objectives adopted in this strategy (page 4), Uruguay commits to being as open as possible by sharing source code, algorithms, and training data. This is reinforced by the general principle of Transparency, ensuring public access to the components of AI solutions.
 
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
+* 📄 Overview:
+> This decree operationalizes the public release policy through the "Uruguayan Public Software Portal." As outlined in Article 7, any free software developed or modified by the state must meet the necessary requirements to be integrated into this central portal, making it available to the public.
 ### 🇪🇺 European Commission
 
 * 🔗 [OPEN SOURCE SOFTWARE STRATEGY 2020 – 2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)

@@ -104,9 +104,10 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Decreto N° 44/015 – Article 7](https://www.impo.com.uy/bases/decretos/44-2015)
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
 * 📄 Overview:
->Obligated subjects, prior to the acquisition of software, must verify the non-existence of solutions that meet the requirements of the software to be contracted in the Public Software Portal of Uruguay.
+> To maximize efficiency and prevent redundant spending, Article 7 mandates a "check before you buy" policy. Before acquiring any new software, all government agencies are required to search the Uruguayan Public Software Portal to verify that a suitable solution does not already exist within the government.
+
 
 
 ### 🇪🇺 European Commission

@@ -96,6 +96,17 @@
 * 📄 Overview:
 > The policy provides a clear framework for licensing. It specifies that code created solely by CISA is dedicated to the U.S. public domain and uses a Creative Commons Zero (CC0) waiver for international copyright. It also defines how to handle licensing for "joint works" that incorporate code from other open source projects with different licenses.
 
+### 🇺🇾 Uruguay
+
+* 🔗 [Law No. 19179: Regulation on Digital Information Formats and Software](https://www.impo.com.uy/bases/leyes/19179-2013)
+* 📄 Overview:
+> Article 5 establishes a clear legal framework by defining "free software" based on four essential conditions: freedom to use, study, copy/distribute, and improve/release improvements. This definition serves as the primary guideline for determining which software licenses are compliant with the law's requirements.
+
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
+* 📄 Overview:
+> This regulation provides a governance layer for the law's licensing principles. By granting AGESIC the authority to set technical standards (Article 4) and oversee the software procurement justification process (Article 8), it establishes a clear administrative framework for applying the national free software policy.
+
+
 ### 🇪🇺 European Commission
 
 * 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)

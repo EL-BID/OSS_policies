@@ -115,9 +115,13 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Ley No. 19.179 – Article 2](https://www.impo.com.uy/bases/leyes/19179-2013)
+* 🔗 [Law No. 19179: Regulation on Digital Information Formats and Software](https://www.impo.com.uy/bases/leyes/19179-2013)
 * 📄 Overview:
-  > Art 2: In the institutions and agencies of the State mentioned in Article 1, when contracting software licenses, preference shall be given to free software licensing. In the event that proprietary software is chosen, the reason must be justified.
+> Article 2 establishes a clear preference for free software in all government software license acquisitions. The policy mandates that if a public body chooses a proprietary software solution, it must provide a formal justification for the decision, ensuring that open source is the default consideration.
+
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
+* 📄 Overview:
+> Article 8 strengthens the procurement preference for OSS by detailing the justification process. It requires that for key acquisitions like office software and operating systems, agencies must submit their justification for choosing a proprietary option to the digital government agency (AGESIC) for review. 
 
 ### 🇪🇺 European Commission
 

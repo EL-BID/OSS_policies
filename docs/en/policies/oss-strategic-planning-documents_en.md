@@ -95,9 +95,17 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Decreto N° 44/015](https://www.impo.com.uy/bases/decretos/44-2015)  
+* 🔗 [Law No. 19179: Regulation on Digital Information Formats and Software](https://www.impo.com.uy/bases/leyes/19179-2013)
 * 📄 Overview:
-  > Requires annual IT plans in line with Law 19.179, ensuring strategic planning for software acquisition and reuse.
+> As a national law, this document represents a high-level strategic commitment to open source. Article 4 further embeds this by directing the Executive Branch to regulate a national transition to these standards and to orient all future IT procurements and contracts toward compliance with the law's principles.
+
+* 🔗 [AI Strategy for the Digital Government](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/book/5722/download)
+* 📄 Overview:
+> This document is itself a key national strategic plan. It embeds open source commitments by formally adopting the D9 objectives (page 4), which explicitly include sharing source code. This integrates an OSS ethos directly into Uruguay's high-level roadmap for artificial intelligence in government.
+
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
+* 📄 Overview:
+> Article 6 directly embeds open source principles into recurring government planning. It obligates all public entities to create annual Information Technology plans that explicitly detail their software acquisition and development strategies, ensuring these plans align with the legal preference for free software.
 
 
 ### 🇪🇺 European Union

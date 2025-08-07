@@ -98,10 +98,17 @@
 
 ### 🇺🇾 Uruguay
 
-* 🔗 [Ley No. 19.179 – Article 1](https://www.impo.com.uy/bases/leyes/19179-2013)
+* 🔗 [Law No. 19179: Regulation on Digital Information Formats and Software](https://www.impo.com.uy/bases/leyes/19179-2013)
 * 📄 Overview:
-> All branches and agencies of the Uruguayan State must distribute information in at least one open, standard, and free format. Every request for information must be accepted in at least one open and standard format.
+> Article 1 mandates that all state bodies, including all branches of government and state-owned enterprises, must distribute information in at least one open, standard, and free format. It also requires them to accept information from the public in at least one open and standard format, promoting interoperability.
 
+* 🔗 [AI Strategy for the Digital Government](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/book/5722/download)
+* 📄 Overview:
+> The AI Governance pillar (page 10) requires the creation of a reference framework for implementing AI in public administration. This framework must include a quality data model built upon an open data standard, establishing the necessary foundation for interoperable and transparent AI systems across government.
+
+* 🔗 [Decree No. 44/015: Regulation of Law 19.179 on Digital Information and Software](https://www.impo.com.uy/bases/decretos/44-2015)
+* 📄 Overview:
+> The decree empowers the national digital government agency, AGESIC, to define and enforce technical standards. Article 4 gives AGESIC the competency to establish the specific open formats and programs that government bodies must use for all digital information exchange, ensuring interoperability.
 
 ### 🇪🇺 European Commission
 
