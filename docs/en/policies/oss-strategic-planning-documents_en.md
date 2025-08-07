@@ -110,17 +110,17 @@
 
 ### 🇪🇺 European Union
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)  
+* 🔗 [Regulation (EU) 2024/2847 (Cyber Resilience Act)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847)
 * 📄 Overview:
->The Commission leverages the transformative, innovative, and collaborative power of open source, encouraging the sharing and reuse of software solutions, knowledge and expertise, to deliver better European services that enrich society and focus on lowering costs to that society"
+> The Cyber Resilience Act strategically embeds OSS into the EU's security framework. Recital (17) highlights the goal of fostering OSS development. It establishes a distinct, light-touch regulatory regime for "open-source software stewards" (Recital 19) and provides for voluntary security attestation programs (Article 25), recognizing the unique nature of the open-source ecosystem.
 
-* 🔗 [European Commission Digital Strategy 2022](https://commission.europa.eu/document/download/d699a990-59c2-4ca2-8613-0abbed0962b5_fr?filename=C_2022_4388_1_FR_ACT&prefLang=en)  
+* 🔗 [European Commission digital strategy: Next generation digital Commission](https://commission.europa.eu/document/download/70703206-2592-4175-b10d-12f97382094a_en?filename=C_2022_4388_1_EN_ACT&prefLang=fr)
 * 📄 Overview:
-> Strategic Objective 4 - Ensure a seamless digital landscape ... This objective will be supported by: ... the further development of the Open-Source strategy.
+> This digital strategy document firmly embeds open source software as a core component of the Commission's digital transformation. OSS is cited as a preferred solution for digital sovereignty (page 5), a key method for creating a seamless digital landscape (page 14), and its further development is a listed key action for the future (page 21), demonstrating a deep strategic commitment.
 
-* 🔗 [EU eGovernment Action Plan 2016-2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016DC0179)  
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
->By 2020, public administrations and public institutions in the European Union should be open, efficient and inclusive, providing borderless, personalised, user-friendly, end-to-end digital public services to all citizens and businesses in the EU. Innovative approaches are used to design and deliver better services in line with the needs and demands of citizens and businesses."
+> This document is a dedicated strategic plan for OSS, linking its goals to the highest levels of EU policy. Chapter 3 explicitly aligns the strategy with the President's political guidelines for achieving technological sovereignty, the European Interoperability Framework, the Commission's Digital Strategy, the Digital Europe programme, and the European strategy for data.
 
 ## 🤝 How to contribute
   

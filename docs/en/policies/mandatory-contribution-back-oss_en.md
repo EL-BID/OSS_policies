@@ -69,9 +69,13 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [Regulation (EU) 2024/2847 (Cyber Resilience Act)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847)
 * 📄 Overview:
-> Public administrations should not only use open source software, but whenever possible contribute to the pertinent developer communities.
+> The regulation mandates that manufacturers, upon discovering a vulnerability in an integrated component, including open-source software, must report it to the component's maintainer. Under Article 13(6), they are also obligated to share the software or hardware modification developed to address the vulnerability, effectively contributing security patches back to the original project.
+
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 📄 Overview:
+> The strategy encourages active participation in the open source ecosystem. The "Contribute" principle in Section 5.4 commits the Commission to becoming an active contributing member of key communities. It builds on the European Interoperability Framework's call for public administrations to contribute to developer communities whenever possible, as cited in Section 3.2.
 
 ## 🤝 How to contribute
   

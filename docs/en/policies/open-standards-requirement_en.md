@@ -112,17 +112,17 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [EU eGovernment Action Plan 2016–2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016DC0179)
+* 🔗 [European Commission digital strategy: Next generation digital Commission](https://commission.europa.eu/document/download/70703206-2592-4175-b10d-12f97382094a_en?filename=C_2022_4388_1_EN_ACT&prefLang=fr)
 * 📄 Overview:
-> The Commission will coordinate the development of a prototype for a European Catalogue of ICT standards for public procurement. This will support interoperability by encouraging public procurers to reference common ICT standards in tenders.
+> The strategy emphasizes interoperability through the use of open standards. On page 5, it explicitly states a preference for using open standards for exchanging information as a principle for achieving digital sovereignty. This is reinforced on page 11 with a commitment to focus on common standards to enable data access and exchange between the Commission and Member States.
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [EU eGovernment Action Plan 2016-2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016DC0179)
 * 📄 Overview:
-> We promote open standards and specifications that are implemented and distributed in open source.
+> The plan establishes "Interoperability by default" as a core principle for all public services (Section 2). To achieve this, it outlines key actions in Section 3.1, including revising the European Interoperability Framework (EIF) and developing a European Catalogue of ICT standards for public procurement to ensure digital solutions can work seamlessly across the Single Market.
 
-* 🔗 [Digital Strategy 2022](https://commission.europa.eu/document/download/d699a990-59c2-4ca2-8613-0abbed0962b5_fr?filename=C_2022_4388_1_FR_ACT&prefLang=en)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
-> In specific areas, the Commission has already expressed its preference for using open source solutions and open standards for exchanging information.
+> To ensure digital sovereignty and interoperability, the "Stay in control" principle in Section 5.6 establishes a policy of promoting open standards and specifications for all future IT developments. The strategy emphasizes that these standards should be implemented and distributed through open source software, embedding this approach into the corporate governance framework.
 
 
 ## 🤝 How to contribute

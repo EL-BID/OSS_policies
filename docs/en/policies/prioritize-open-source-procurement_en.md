@@ -125,13 +125,13 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [European Commission digital strategy: Next generation digital Commission](https://commission.europa.eu/document/download/70703206-2592-4175-b10d-12f97382094a_en?filename=C_2022_4388_1_EN_ACT&prefLang=fr)
 * 📄 Overview:
-  > Open-source solutions will be preferred when equivalent in functionalities, total cost and cybersecurity"
+> The strategy establishes a clear preference for open source software as a means of achieving digital sovereignty and autonomy. Page 5 explicitly states that the Commission has expressed its preference for using open source solutions as a technical alternative that allows it to operate in a cost-effective, independent, and secure way, framing OSS as a strategic choice.
 
-* 🔗 [Stratégie numérique de la Commission européenne La Commission numérique de la prochaine génération](https://commission.europa.eu/document/download/d699a990-59c2-4ca2-8613-0abbed0962b5_fr?filename=C_2022_4388_1_FR_ACT&prefLang=en)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
-  >In specific areas, the Commission has already expressed its preference based on such an assessment, e.g. using open source solutions"
+> The "Think Open" principle, detailed in Section 5.1, explicitly states that open source solutions will be given preference when they are equivalent to proprietary alternatives in terms of functionality, total cost, and cybersecurity. This establishes a clear procurement preference that encourages the adoption of OSS across the Commission's IT landscape.
 
 
 ## 🤝 How to contribute

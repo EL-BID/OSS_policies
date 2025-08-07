@@ -131,9 +131,13 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [OPEN SOURCE SOFTWARE STRATEGY 2020 – 2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [Regulation (EU) 2024/2847 (Cyber Resilience Act)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847)
 * 📄 Overview:
-  >DIGIT will make an annual budget request for the Programme Office and the action plan, to be reviewed and approved through the normal budgetary procedures
+> While not exclusively for OSS, Article 10 requires Member States to promote measures to enhance cybersecurity skills needed to implement the regulation. This includes supporting the re-skilling and up-skilling of manufacturers' employees. Recital (23) explicitly links these training initiatives to the skills gap in both the public and private sectors, which is critical for managing software component security.
+
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 📄 Overview:
+> The strategy includes actions to foster an open source culture through skill development. A key action outlined in Section 6.4 is to "Develop skills and recruit expertise." This involves focusing on recruiting staff with proven open source expertise and providing internal support to help interested colleagues learn about and experiment with innovative open source solutions.
 
 ## 🤝 How to contribute
   

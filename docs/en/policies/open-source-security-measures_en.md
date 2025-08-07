@@ -95,19 +95,17 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [Regulation (EU) 2024/2847 (Cyber Resilience Act)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847)
 * 📄 Overview:
-> We make sure the code we use and the code we share is free from vulnerabilities by applying continuous security testing.
+> The act imposes several OSS security measures. Article 13(5) mandates due diligence when integrating any third-party components, including OSS. Annex I, Part II requires manufacturers to produce a Software Bill of Materials (SBOM) for their products. Furthermore, Article 24 creates specific obligations for "open-source software stewards" to establish cybersecurity policies for the projects they support.
 
-
-* 🔗 [European Commission Digital Strategy 2022](https://commission.europa.eu/document/download/d699a990-59c2-4ca2-8613-0abbed0962b5_fr?filename=C_2022_4388_1_FR_ACT&prefLang=en)
+* 🔗 [European Commission digital strategy: Next generation digital Commission](https://commission.europa.eu/document/download/70703206-2592-4175-b10d-12f97382094a_en?filename=C_2022_4388_1_EN_ACT&prefLang=fr)
 * 📄 Overview:
-> Open-source balances immediate technological needs and future flexibility, increases IT security through multiple independent quality controls, and takes into account technological sovereignty, openness and long-term collective digital interests.
+> The strategy enhances security across the digital landscape, which includes open source software. Page 14 outlines plans for systematic vulnerability scanning for all digital solutions and security checks for purchased software. The document also acknowledges that OSS can increase IT security through multiple independent quality controls, integrating it into a secure-by-design approach.
 
-
-* 🔗 [REGULATION (EU) 2024/1173 – Cyber Resilience Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
-> In order to foster the uptake of secure products with digital elements, and to enable manufacturers to provide products that are secure by design and default, it is important to ensure that open-source software components are developed in a secure manner and that vulnerability management is carried out effectively by the developers of those components. The secure development of a product with digital elements and its components, including open-source components, should be subject to due diligence.
+> Security is a core governing principle, as outlined in Section 5.5, titled "Secure." The policy mandates continuous, automated security testing for both the open source components the Commission uses in its applications and the code it intends to share publicly. This ensures that software is free from vulnerabilities, leveraging experience from the EU-FOSSA projects.
 
 
 ## 🤝 How to contribute

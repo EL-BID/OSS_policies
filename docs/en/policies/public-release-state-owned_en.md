@@ -144,15 +144,9 @@
 > This decree operationalizes the public release policy through the "Uruguayan Public Software Portal." As outlined in Article 7, any free software developed or modified by the state must meet the necessary requirements to be integrated into this central portal, making it available to the public.
 ### 🇪🇺 European Commission
 
-* 🔗 [OPEN SOURCE SOFTWARE STRATEGY 2020 – 2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
-  >OPEN SOURCE SOFTWARE STRATEGY 2020 – 2023
- Wherever it makes sense to do so, the Commission will share the source code of its future IT projects.
-
-* 🔗 [EU eGovernment Action Plan 2016-2020y](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016DC0179)
-* 📄 Overview:
-  >EU eGovernment Action Plan 2016-2020
- Digital public services should build on shared and reusable solutions and services based on agreed standards and technical specifications in order to reduce their cost of development, their time to deployment and increase interoperability.
+> The strategy, under its "Share" principle in Section 5.3, commits the Commission to publishing the source code of its future IT projects where it is sensible to do so. It also simplifies internal rules for software distribution and designates the European Union Public Licence (EUPL) as the preferred license for these releases, aiming to lower costs for society and increase knowledge sharing.
 
 
 ## 🤝 How to contribute

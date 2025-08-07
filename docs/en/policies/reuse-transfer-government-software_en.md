@@ -112,17 +112,17 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [EU eGovernment Action Plan 2016–2020](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX:52016DC0179)
+* 🔗 [European Commission digital strategy: Next generation digital Commission](https://commission.europa.eu/document/download/70703206-2592-4175-b10d-12f97382094a_en?filename=C_2022_4388_1_EN_ACT&prefLang=fr)
 * 📄 Overview:
->Digital public services should build on shared and reusable solutions and services based on agreed standards and technical specifications in order to reduce their cost of development, their time to deployment and increase interoperability.
+> The strategy strongly promotes the reuse of digital solutions to eliminate duplication and create synergies. As stated on page 14, increasing the use of open source software is key to simplifying the reuse of solutions, co-creation, and sharing of results across Commission departments and with other European public administrations, aligning with the "reuse, buy, build" approach.
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [EU eGovernment Action Plan 2016-2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016DC0179)
 * 📄 Overview:
->'Inner source' (the creation of working cultures based on open source) will be promoted, in order to bring teams closer to open-source working methods and encourage sharing and reuse within the organisation
+> This action plan promotes the reuse of solutions across public administrations to increase efficiency. Section 3.1 states that digital public services should be built on shared and reusable solutions and services. This approach aims to reduce development costs and deployment times while increasing interoperability across the EU, supporting the modernization of the public sector.
 
-* 🔗 [European Commission Digital Strategy 2022](https://commission.europa.eu/document/download/d699a990-59c2-4ca2-8613-0abbed0962b5_fr?filename=C_2022_4388_1_FR_ACT&prefLang=en)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
->More use of open source software. This will simplify reusing solutions, co-creating and sharing results across departments and with other European public administrations.
+> A central goal is to facilitate the sharing and reuse of software solutions to build better European services. The "Transform" principle in Section 5.2 promotes an "Inner Source" approach, encouraging teams within the Commission to adopt open source working methods to share code and collaborate internally before opening projects to the public, thereby improving efficiency and pooling efforts.
 
 
 ## 🤝 How to contribute

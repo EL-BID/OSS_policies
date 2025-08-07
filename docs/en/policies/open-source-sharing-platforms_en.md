@@ -113,13 +113,9 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
-> The platform will be built around a catalogue containing reusable building blocks and services, open-source solutions, a corporate architecture, standards, best practices, support and consultancy services.
-
-* 🔗 [EU eGovernment Action Plan 2016–2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016DC0179)
-* 📄 Overview:
-> As part of the European Cloud Initiative, the Commission will create a platform for public authorities to open their data and services, creating a "Government as a Service (GaaS)" base for the EU.
+> The strategy outlines plans to enable co-creation and collaboration through a centralized platform. As part of its main actions in Section 6.4, it calls for enhancing the Commission's software repository. This aligns with the "Share" principle in Section 5.3, which focuses efforts on creating an EU-centric digital government code repository for its IT projects.
 
 ## 🤝 How to contribute
   

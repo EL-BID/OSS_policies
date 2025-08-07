@@ -109,9 +109,9 @@
 
 ### 🇪🇺 European Commission
 
-* 🔗 [Open Source Software Strategy 2020–2023](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
+* 🔗 [Open Source Software Strategy 2020-2023: Think Open](https://commission.europa.eu/document/download/97e59978-42c0-4b4a-9406-8f1a86837530_en?filename=en_ec_open_source_strategy_2020-2023.pdf)
 * 📄 Overview:
-> For publication of these projects, the European Union public licence (EUPL) will be preferred.
+> The strategy provides clear guidance on licensing for software published by the Commission. Under the "Share" principle in Section 5.3, it states that the European Union Public Licence (EUPL) will be the preferred license for the publication of its IT projects. This aims to facilitate the sharing and reuse of software developed by public administrations.
 
 
 ## 🤝 How to contribute
