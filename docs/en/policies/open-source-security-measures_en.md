@@ -80,14 +80,17 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [GSA OSS Implementation Guide](https://open.gsa.gov/oss-implementation/#how-to-open-source)
+* 🔗 [GSA Open Source Software Implementation Guide](https://open.gsa.gov/oss-implementation/#how-to-open-source)
 * 📄 Overview:
-> The U.S. General Services Administration (GSA) promotes integrating security and review processes into the software development lifecycle to enable safe open-sourcing of government code. Project teams are encouraged to conduct ongoing code reviews in collaboration with contractors and to coordinate closely with IT security offices for regular application and source code scans. The CTO team provides custom scanning scripts specifically designed to detect sensitive content in code prior to public release—distinct from standard security scans. Rather than postponing these activities until the end of development cycles, GSA recommends incorporating them continuously throughout the project, supporting a gradual, project-by-project transition to open source, aligned with updates or vendor changes.
+> The policy defines security protocols for releasing code publicly. Project teams are required to work with the IT security office to conduct regular code scans for vulnerabilities. Additionally, the guide notes that the CTO's office provides specialized scripts designed to help teams scrub source code for sensitive content before it is published as open source.
 
-* 🔗 [CISA, OpenSSF, OSSF Roadmap & Package Security Principles](https://repos.openssf.org/principles-for-package-repository-security)
+* 🔗 [Securing Open Source Software Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3286/text)
 * 📄 Overview:
-> Open source security is increasingly recognized as critical to digital infrastructure, and recent initiatives provide a structured response to its challenges. The OpenSSF’s Principles of Package Repository Security define a maturity model (Levels 0–3) across four domains—authentication, authorization, general capabilities, and CLI tooling—to guide repositories in strengthening protections. Measures include mandatory MFA, role-based access controls, vulnerability disclosure policies, malware detection, and secure dependency management, with advanced repositories supporting SBOM generation and static analysis.
-> Complementing this, the Securing Open Source Software Act of 2023 expands the role of CISA, mandating it to hire OSS experts, create a Software Security Advisory Subcommittee, and launch pilot OSPOs in federal agencies. CISA’s FY24–26 Open Source Security Roadmap sets four strategic goals: establishing CISA as a leader in OSS security, increasing visibility into OSS risk, securing federal OSS use, and hardening the broader OSS ecosystem through tools like SBOMs, best practices, and coordinated vulnerability response.
+> The Act establishes extensive security duties for CISA under Section 2220F. It mandates the creation of a public framework for assessing the risk of open source components, considering factors like memory safety and maintainer practices. CISA must use this framework to assess OSS on high-value federal assets, leveraging information from Software Bill of Materials (SBOMs).
+
+* 🔗 [CISA Open Source Software Security Roadmap](https://www.cisa.gov/sites/default/files/2024-02/CISA-Open-Source-Software-Security-Roadmap-508c.pdf)
+* 📄 Overview:
+> This roadmap is a comprehensive security policy for OSS. Goal 2 outlines plans to create a public framework for OSS risk prioritization based on usage, maintenance, and code properties. Goal 4 focuses on hardening the ecosystem by advancing the use of Software Bill of Materials (SBOM) in OSS supply chains (Objective 4.1) and fostering better vulnerability disclosure processes (Objective 4.4).
 
 
 ### 🇪🇺 European Commission

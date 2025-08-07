@@ -105,9 +105,13 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
+* 🔗 [U.S. Digital Services Playbook](https://playbook.usds.gov/)
 * 📄 Overview:
-  > The Federal Source Code Policy pilot program states that in case of custom code development, it is important to clearly communicate reuse and open source requirements as part of the solicitation and pre-solicitation processs. Whether during a Request for Information or industry day, one should explain to potential vendors early and often that the agency intends to receive appropriate rights for government re-use or open source, as applicable.
+> The playbook guides agencies to consider OSS solutions across the technology stack. Play 8 advises this to avoid vendor lock-in and align with modern practices. This is integrated into procurement via Play 5, which states that contracts must be structured to ensure open source alternatives are evaluated during technology selection, promoting cost-effectiveness and flexibility in government IT.
+
+* 🔗 [CISA Open Source Software Policy](https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md)
+* 📄 Overview:
+> The policy sets a clear preference for using Free and Open Source Software (FOSS) in all new CISA projects. It states that using FOSS is the agency's default position when starting development. The "Exceptions" section clarifies that alternative, non-open-source options are only to be considered if a suitable open source solution cannot be found.
 
 ### 🇺🇾 Uruguay
 

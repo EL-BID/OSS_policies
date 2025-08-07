@@ -92,9 +92,9 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [Federal Source Code Policy (2016)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
+* 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
 * 📄 Overview:
-> Emphasizes the use of open standards in software development and procurement to enhance interoperability and reduce vendor lock-in. Open standards ensure accessibility, adaptability, and compatibility across government systems.
+> Section 3.D requires that all government software procurements and development projects consider using open standards wherever practical. This policy is intended to increase the interoperability of government systems, reduce vendor lock-in, and spur innovation, regardless of whether the final software solution is proprietary, mixed source, or open source in nature.
 
 ### 🇺🇾 Uruguay
 

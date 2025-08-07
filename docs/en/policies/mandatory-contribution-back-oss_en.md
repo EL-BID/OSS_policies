@@ -53,9 +53,13 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [Federal Source Code Policy (2016)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
+* 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
 * 📄 Overview:
-> The Federal Source Code Policy introduces a key mandate around contributing back to open source by requiring U.S. federal agencies to release at least 20% of their new custom-developed code as Open Source Software (OSS) during a three-year pilot program. This policy aims to foster government-wide reuse, reduce duplication, and lower vendor lock-in—while also encouraging broader public benefit from taxpayer-funded software. Agencies must secure the rights to share code across the federal ecosystem and publish their code inventories on Code.gov. Although the 20% threshold is the minimum, agencies are strongly encouraged to exceed it, selecting code that could be useful to the public and open-source community. This structured approach not only promotes OSS release but also creates a feedback loop of improvement, where external contributors can enhance and reuse federal code—aligning with the government’s goals of transparency, collaboration, and innovation.
+> While not a strict mandate, Section 5.2 strongly encourages federal agencies and their contractors to participate in the broader OSS community. This includes contributing improvements made to existing open source projects back to the upstream community. The policy frames this as a key practice for fostering collaboration and leveraging the benefits of open development.
+
+* 🔗 [CISA Open Source Software Policy](https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md)
+* 📄 Overview:
+> The policy commits the agency to actively participating in the open source ecosystem. It establishes a default position to contribute improvements back to the FOSS projects it uses. The document states CISA will be an active contributor to the software it or its clients utilize, ensuring a two-way relationship with the open source community.
 
 ### 🇪🇺 European Commission
 

@@ -119,18 +119,9 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [CISA OSS Security Bill (H.R. 3286)](https://www.congress.gov/bill/118th-congress/house-bill/3286?)
+* 🔗 [CISA Open Source Software Security Roadmap](https://www.cisa.gov/sites/default/files/2024-02/CISA-Open-Source-Software-Security-Roadmap-508c.pdf)
 * 📄 Overview:
->Expands CISA’s role in OSS security, including funding mandates, risk assessment frameworks, and direct engagement with the OSS community.
-
-* 🔗 [CISA OSS Security Budget FY2025](https://www.dhs.gov/sites/default/files/2024-04/2024_0318_cybersecurity_and_infrastructure_security_agency.pdf)
-* 📄 Overview:
->Allocates $4.3M to enhance OSS security via supply chain tracking, vulnerability disclosure, and secure-by-design tools.
-
-* 🔗 [CISA: An open source agency](https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md)
-* 📄 Overview:
-  >U.S. federal agencies are increasingly embedding open-source software (OSS) training into their development and security practices. CISA promotes a participatory OSS model that encourages contributions and peer review, creating a natural environment for learning-by-doing. Its development of secure-by-design toolkits and memory-safe libraries lays the groundwork for structured educational content. GSA incorporates OSS training through operational practices—requiring teams to perform code scrubbing, licensing checks, and security scans—backed by scripts and documentation that can be adapted into training modules. Meanwhile, 18F offers a robust ecosystem of guides and best practices for onboarding and collaboration, enabling both government teams and external contributors to learn and evolve OSS skills. Together, these efforts form a decentralized but practical approach to OSS capacity building in the U.S. public sector.
-
+> The policy supports security education for the OSS ecosystem. Under Objective 4.2, CISA commits to fostering training for developers and publishing security toolkits with best practices for OSS maintainers. Objective 4.3 adds to this by planning the publication of guidance for federal agencies and critical infrastructure on the secure consumption of open source software.
 
 ### 🇺🇾 Uruguay
 

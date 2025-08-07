@@ -80,9 +80,17 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [Code.mil](https://code.mil/how-to-open-source.html)  
+* 🔗 [U.S. Digital Services Playbook](https://playbook.usds.gov/)
 * 📄 Overview:
-  >The Department of Defense (DoD) integrates open source software (OSS) into its strategic planning through a structured workflow for releasing government-developed code. This workflow includes detailed legal, procedural, and technical guidance, making it a strong foundation for OSS training programs targeting federal developers and contractors. By formalizing how software should be evaluated, approved, and published, the DoD ensures that OSS contributions are secure, compliant, and reusable. These practices not only support internal policy goals like transparency and collaboration but also reinforce cross-agency interoperability and skill-building across the federal OSS ecosystem.
+> This playbook is a high-level strategic document that embeds open source principles into the U.S. government's approach to building digital services. Plays like "Choose a modern technology stack" (Play 8) and "Default to open" (Play 13) make the consideration and publication of OSS a core part of the official strategy for effective and modern government IT development.
+
+* 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
+* 📄 Overview:
+> This memorandum is a foundational strategic document that fulfills a U.S. Open Government National Action Plan commitment. It establishes a government-wide framework for software development that institutionalizes the principles of code reuse and open source. By setting clear objectives and requirements, it embeds OSS as a key component of federal IT strategy and management.
+
+* 🔗 [Securing Open Source Software Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3286/text)
+* 📄 Overview:
+> This Act embeds open source security directly into the Homeland Security Act of 2002, a foundational national security law. By assigning permanent duties to the Director of CISA in Section 2220F, it elevates the security of the OSS ecosystem from a best practice to a core, strategic responsibility of the U.S. government's cybersecurity mission.
 
 
 ### 🇺🇾 Uruguay

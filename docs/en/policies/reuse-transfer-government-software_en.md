@@ -95,7 +95,11 @@
 
 * 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
 * 📄 Overview:
->The U.S. Federal Source Code Policy promotes transparency, collaboration, and cost efficiency by mandating greater reuse and public release of custom-developed software across federal agencies. In line with the Digital Government Strategy’s “Shared Platform” approach, the policy encourages interagency code sharing to avoid duplicative efforts and reduce vendor lock-in. Central to the policy is a pilot program requiring agencies to release at least 20% of new custom-developed code as open source software (OSS) over three years. Agencies must inventory all custom code, ensure it is reusable government-wide, and make it discoverable via Code.gov. Open-sourcing code allows broader peer review, security testing, community-driven improvements, and more equitable vendor competition. Agencies are strongly encouraged to go beyond the 20% threshold and prioritize OSS releases that benefit both government and the public, with exceptions only in cases such as national security.
+> Section 4 mandates that agencies secure sufficient rights to all custom-developed code to enable its reuse across the entire federal government. To facilitate this, agencies must maintain an enterprise code inventory and make their software discoverable to other agencies through the Code.gov portal. This is designed to reduce duplicative spending and improve efficiency.
+
+* 🔗 [GSA Open Source Software Implementation Guide](https://open.gsa.gov/oss-implementation/#how-to-open-source)
+* 📄 Overview:
+> The policy facilitates inter-agency software reuse through a mandatory code inventory. All repositories must be cataloged in a `code.json` file which includes metadata specifying if a project is intended for `governmentWideReuseProject`. This creates a discoverable catalog that helps other federal agencies find and adapt existing GSA solutions, reducing duplicative work.
 
 
 ### 🇺🇾 Uruguay

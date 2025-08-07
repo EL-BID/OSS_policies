@@ -116,14 +116,17 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [Federal Source Code Policy and State Property Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
+* 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
 * 📄 Overview:
-  >Federal Source Code Policy and State Property Act 
- Together they promote a shift toward openness, transparency, and efficiency in U.S. federal software development. The State Property Act establishes that state-owned software must be made public unless there are security concerns, reinforcing the principle that publicly funded digital assets should be accessible to the public. Building on this, the Federal Source Code Policy mandates that federal agencies enhance the reuse of custom-developed code across government to reduce duplication, lower costs, and avoid vendor lock-in. It introduces a pilot program requiring agencies to release at least 20 percent of their newly commissioned custom software as open source for three years, encouraging broader public access and collaboration. This approach aligns with the Digital Government Strategy’s “Shared Platform” model, which promotes inter-agency cooperation and standardization. Agencies are also required to maintain a comprehensive inventory of all custom-developed code and make it discoverable through platforms like Code.gov, ensuring that software assets are reusable across the federal government. The policy emphasizes that releasing code as open source not only improves transparency and public trust but also enhances software quality through peer review, facilitates security testing, and allows vendors to compete more effectively for future work. By encouraging agencies to release as much code as possible (beyond the 20 percent minimum), the policy aims to foster a culture of openness, innovation, and continuous improvement in federal digital services.
+> The policy establishes a three-year pilot program requiring federal agencies to release at least 20% of their new, custom-developed code as Open Source Software. As outlined in Section 5.1, this initiative aims to promote transparency, collaboration, and public access to government-funded software projects, with agencies encouraged to release even more than the minimum requirement.
 
-* 🔗 [Requirements for achieving efficiency, transparency, and innovation through reusable and open source software ](https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software)
+* 🔗 [GSA Open Source Software Implementation Guide](https://open.gsa.gov/oss-implementation/#how-to-open-source)
 * 📄 Overview:
-  >The Federal Source Code Policy pilot program requires agencies to release at least 20% of new custom-developed code each year as open source software. While agencies are encouraged to release a greater percentage of code if doing so is beneficial to the government, agencies are not required to release more than 20% of code.
+> This guide details the General Services Administration's goal to become "100% open." The policy directs the conversion of closed source projects to open source, applying to all new and existing custom code developed by both GSA employees and contracted partners. This makes the public release of government-funded software the default operational standard for the agency.
+
+* 🔗 [Securing Open Source Software Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3286/text)
+* 📄 Overview:
+> This Act mandates the public release of specific, government-developed software. As detailed in Section 2220F(c)(2)(G), the Cybersecurity and Infrastructure Security Agency (CISA) is required to publish and maintain any software tools it develops for its open source risk assessments as open source software, making these government-funded tools available to the public.
 
 
 ### 🇺🇾 Uruguay

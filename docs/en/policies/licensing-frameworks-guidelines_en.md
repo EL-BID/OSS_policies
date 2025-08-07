@@ -88,9 +88,13 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [CISA Open Source Policy (GitHub)](https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md)
+* 🔗 [How to Open Source Code](https://code.mil/how-to-open-source.html)
 * 📄 Overview:
-> CISA’s default approach to open source licensing places its projects in the U.S. public domain, using the Creative Commons Zero (CC0) license to waive copyright internationally. Contributors are informed—via the default CONTRIBUTING file—that their contributions will be licensed under the same terms. However, when projects incorporate third-party open source components, they may be subject to additional licenses with specific terms governing use, modification, and redistribution. As a result, individual CISA projects may need to adjust their LICENSE and CONTRIBUTING files to reflect these external obligations, ensuring compliance and clarity for both contributors and users.
+> The guide provides a clear licensing framework in Step 2. It recommends using permissive open source licenses, specifically suggesting MIT, ISC, or BSD-3. For projects with potential patent involvement, it advises using Apache 2.0. The policy also explicitly counsels against using copyleft licenses for most federal government projects unless an expert is involved.
+
+* 🔗 [CISA Open Source Software Policy](https://github.com/cisagov/development-guide/blob/develop/open-source-policy/policy.md)
+* 📄 Overview:
+> The policy provides a clear framework for licensing. It specifies that code created solely by CISA is dedicated to the U.S. public domain and uses a Creative Commons Zero (CC0) waiver for international copyright. It also defines how to handle licensing for "joint works" that incorporate code from other open source projects with different licenses.
 
 ### 🇪🇺 European Commission
 

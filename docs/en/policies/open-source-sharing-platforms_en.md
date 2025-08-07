@@ -95,11 +95,13 @@
 
 ### 🇺🇸 United States
 
-* 🔗 [Open.GSA.gov & GitHub agency networks](https://open.gsa.gov/)
+* 🔗 [Federal Source Code Policy (M-16-21)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf)
 * 📄 Overview:
-> The U.S. government supports open-source software through a network of agency-specific platforms and GitHub organizations, each tailored to their missions and development communities. The central hub, Code.gov, aggregates public code inventories from across federal agencies and provides guidance on reuse and compliance with the Federal Source Code Policy.
-> Individual agencies maintain active GitHub presences, such as CMSgov (Centers for Medicare & Medicaid Services) [github.com/CMSgov](https://github.com/CMSgov), which publishes healthcare-related digital tools; [github.com/cisagov](https://github.com/cisagov) (CISA), which shares cybersecurity frameworks and automation tools; and GSA’s open-source tools [Open.GSA.gov](https://open.gsa.gov/), which include scaffolding templates and maturity models to help standardize OSS practices. These platforms not only enable transparency and reuse but also foster collaboration within and beyond the federal government.
+> The policy establishes Code.gov as the central discovery portal for all federal custom-developed code, whether for internal reuse or public release as OSS (Section 7.3). It clarifies that Code.gov is for discovery, not hosting, and directs agencies in Section 7.4 to use existing third-party repository platforms to store and manage the actual source code.
 
+* 🔗 [GSA Open Source Software Implementation Guide](https://open.gsa.gov/oss-implementation/#how-to-open-source)
+* 📄 Overview:
+> The guide establishes the GSA organization on GitHub as the primary, centralized platform for agency open source projects. It provides instructions for creating new public repositories under this organization. While other version control systems are acknowledged, the process strongly encourages the use of the GSA GitHub for hosting and managing publicly released code.
 
 
 ### 🇺🇾 Uruguay
