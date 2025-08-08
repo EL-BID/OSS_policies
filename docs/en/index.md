@@ -69,6 +69,28 @@ Programs designed to build open-source competencies across public sector teams a
 [OSS in Strategic Planning Documents](policies/oss-strategic-planning-documents_en.md)
 Mentions and commitments to OSS within high-level digital strategies or sectoral transformation plans. 
 
+## 🌍 Policies by Country
+
+For those interested in exploring open-source policies from a national or regional perspective, this view groups all documented policies by jurisdiction in a single table.  
+The full list is available in the **[Complete Country Overview](policies/complete-country-overview_en.md)** section.  
+
+> **Note:** For the **European Commission**, we have grouped all regional policies under a single entry due to their wide applicability across member states.
+
+### 🇧🇷 [Brazil](policies/complete-country-overview_en.md#brazil)  
+### 🇨🇦 [Canada](policies/complete-country-overview_en.md#canada)  
+### 🇪🇨 [Ecuador](policies/complete-country-overview_en.md#ecuador)  
+### 🇪🇪 [Estonia](policies/complete-country-overview_en.md#estonia)  
+### 🇫🇷 [France](policies/complete-country-overview_en.md#france)  
+### 🇩🇪 [Germany](policies/complete-country-overview_en.md#germany)  
+### 🇮🇹 [Italy](policies/complete-country-overview_en.md#italy)  
+### 🇰🇷 [South Korea](policies/complete-country-overview_en.md#south-korea)  
+### 🇪🇸 [Spain](policies/complete-country-overview_en.md#spain)  
+### 🇨🇭 [Switzerland](policies/complete-country-overview_en.md#switzerland)  
+### 🇬🇧 [United Kingdom](policies/complete-country-overview_en.md#united-kingdom)  
+### 🇺🇸 [United States](policies/complete-country-overview_en.md#united-states)  
+### 🇺🇾 [Uruguay](policies/complete-country-overview_en.md#uruguay)  
+### 🇪🇺 [European Commission](policies/complete-country-overview_en.md#european-commission)  
+
 
 ## 🤝 How to Contribute
 
