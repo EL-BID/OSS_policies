@@ -14,6 +14,12 @@
 * 📄 Overview:  
 > The Open Resource Exchange is the Government of Canada's official platform for sharing and collaborating on open-source software developed by public administrations at all levels: federal, provincial, municipal, and Indigenous. It facilitates the discovery, reuse, and co-development of open-source solutions by offering centralized access to code repositories, standards, and design assets. As part of the Municipal Innovation Pilot Project, the platform aims to enhance transparency, promote interoperability, and support the collective development of digital public goods across Canada.
 
+### 🇨🇴 Colombia
+
+* 🔗 [Digital Government Manual: Implementation of the Digital Government Policy](https://gobiernodigital.mintic.gov.co/692/articles-79394_recurso_1.pdf)
+* 📄 Overview:
+> The policy is supported by a centralized platform, the Public Software Portal, mentioned in sections 3.2 and 3.4. This portal is designed for technology transfer, allowing public bodies to register software for reuse and download existing solutions. It serves as a key tool for reinforcing the state's role in optimizing resources and promoting the application of shared logical platforms.
+
 ### 🇪🇪 Estonia
 
 * 🔗 [Koodivaramu Open Source Platform](https://koodivaramu.eesti.ee/explore)

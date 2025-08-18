@@ -20,6 +20,20 @@
 * 📄 Overview:  
 > The Acquiring Open Source Software guidance establishes a preference for OSS in procurement, as outlined in Appendix C of the Directive on Management of IT. Departments are encouraged to select OSS where feasible, provided business needs justify its use. If OSS is freely available and meets requirements, it may be acquired without a formal tender. However, procurement must remain compliant with existing legal frameworks, and any non-standard contract terms require prior authorization.
 
+### 🇨🇴 Colombia
+
+* 🔗 [Digital Government Manual: Implementation of the Digital Government Policy](https://gobiernodigital.mintic.gov.co/692/articles-79394_recurso_1.pdf)
+* 📄 Overview:
+> In Section 3.2, the manual establishes a preference for open source solutions in government technology decisions. It states that entities should prioritize the use or development of software with open source licenses to enable its publication and reuse. This directive encourages a shift towards OSS in procurement and internal development, fostering an environment of openness and collaboration.
+
+* 🔗 [General Guidelines for the Digital Government Policy (Decree 767 of 2022)](https://gobiernodigital.mintic.gov.co/692/articles-272977_Decreto_767_2022.pdf)
+* 📄 Overview:
+> As part of the Digital Public Innovation component, Article 2.2.9.1.2.1 mandates that all obligated public entities promote the adoption of technologies based on free software or open source. While not excluding proprietary solutions, this establishes a clear preference for considering and implementing OSS to solve public challenges and foster innovation within the state.
+
+* 🔗 [Interoperability Framework for Digital Government](https://lenguaje.mintic.gov.co/sites/default/files/archivos/marco_de_interoperabilidad_para_gobierno_digital.pdf)
+* 📄 Overview:
+> The framework mandates Technology Neutrality as a guiding principle on page 30. It directs that the construction of services be based on functionality, not on a specific technology or vendor. Recommendation 8 forbids imposing specific technological solutions, ensuring a level playing field where open source solutions can be considered and selected on their merits in procurement processes.
+
 ### 🇪🇨 Ecuador
 
 * 🔗 [Organic Code of the Social Economy of Knowledge, Creativity, and Innovation](https://www.gobiernoelectronico.gob.ec/wp-content/uploads/2018/10/Codigo-Organico-de-la-Economia-Social-de-los-Conocimientos-Creatividad-e-Innovacion.pdf)

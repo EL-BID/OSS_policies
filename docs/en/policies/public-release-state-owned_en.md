@@ -25,6 +25,21 @@
 * 📄 Overview:  
 > The Guide for Publishing Open Source Code encourages departments to release source code as open source whenever legally possible, whether developed in-house, acquired as OSS, or through contracts with proper licensing. The process includes securing approvals, ensuring rights to the code, assessing security, choosing a license and repository, adding documentation, and considering legacy systems. The overall goal is to promote transparency by working in the open.
 
+### 🇨🇴 Colombia 
+
+* 🔗 [Enterprise Architecture Reference Framework](https://www.mintic.gov.co/arquitecturaempresarial/630/articles-204807_recurso_2.pdf)
+* 📄 Overview:
+> This framework is built upon existing national laws that mandate the promotion of public software. As cited in the "Normatividad" section, the policy directs the Ministry of ICT to prioritize actions related to the offer and use of public software, establishing a legal foundation for releasing state-developed software to the public and other agencies.
+
+* 🔗 [Digital Government Manual: Implementation of the Digital Government Policy](https://gobiernodigital.mintic.gov.co/692/articles-79394_recurso_1.pdf)
+* 📄 Overview:
+> The manual guides public entities towards the release of state-owned software under open source licenses. Section 3.2, under the principle of "Apertura" (Openness), links the use of open source licenses directly with enabling the publication and cost-free reuse of software, directing entities to the official Public Software Portal for implementation.
+
+* 🔗 [General Guidelines for the Digital Government Policy (Decree 767 of 2022)](https://gobiernodigital.mintic.gov.co/692/articles-272977_Decreto_767_2022.pdf)
+* 📄 Overview:
+> The decree's preamble references Law 1450 of 2011, which establishes that the Ministry of ICT's Digital Government Policy must prioritize actions that advance the offer and use of public software. This strategic directive creates a foundation for making publicly funded software available for broader use, aligning with the goals of transparency and efficiency in the public sector.
+
+
 ### 🇪🇨 Ecuador
 
 * 🔗 [Strategy for the Implementation of Free Software in the Central Public Administration](https://cti.gobiernoelectronico.gob.ec/ayuda/manual/decreto_1014.pdf)

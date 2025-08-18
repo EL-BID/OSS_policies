@@ -29,6 +29,12 @@
 * 📄 Overview:
 > The Policy on Service and Digital outlines the Government of Canada's commitment to building internal capacity for digital transformation, including through the adoption of open-source technologies. While it does not establish a formal OSS training program, it supports empowering staff to deliver better services and encourages the use of open standards and open solutions as part of the Digital Standards.
 
+### 🇨🇴 Colombia
+
+* 🔗 [National Digital Strategy of Colombia 2023 - 2026](https://www.mintic.gov.co/portal/715/articles-334120_recurso_1.pdf)
+* 📄 Overview:
+> A central pillar of the strategy is "Digital Skills and Talent as an Engine of Opportunity," outlined in Section 3.4. It calls for accelerating digital literacy and expanding training in advanced digital skills to improve workforce productivity and employability. This broad mandate includes developing the competencies necessary to use and manage the full range of digital technologies, including open source solutions.
+
 
 ### 🇪🇨 Ecuador
 

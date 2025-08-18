@@ -18,6 +18,12 @@
 * 📄 Overview:
 > The Enterprise Architecture Framework requires departments to contribute improvements back to open-source communities when using OSS, as stated under “Application Architecture.” This obligation supports reuse, encourages collaboration, and ensures that enhancements developed by government are shared upstream. It also applies to customized SaaS extensions, which must be published as open source modules when feasible.
 
+### 🇨🇴 Colombia
+
+* 🔗 [Licensing of State-Owned Software Source Code to Public Entities (Resolution 537 of 2018)](https://normograma.mintic.gov.co/mintic/compilacion/docs/resolucion_mintic_0537_2018.htm)
+* 📄 Overview:
+> A mandatory contribution-back mechanism is established by Article 4. It requires that any public entity creating a "derivative work" by adapting, transforming, or modifying the original source code must publish their new version on the "Software Público Colombia" portal. This ensures that improvements and adaptations benefit the entire public administration.
+
 ### 🇫🇷 France
 
 * 🔗 [Interministerial Support and Expertise Contracts for Free Software](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/)

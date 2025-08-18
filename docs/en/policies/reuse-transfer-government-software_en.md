@@ -14,6 +14,20 @@
 * 📄 Overview:  
 > The Enterprise Architecture Framework promotes software reuse and transfer across government by requiring departments to prioritize reusable open source solutions over custom development. Under “Application Architecture” and “Business Architecture,” it encourages contributions back to OSS communities, modular system design, and the registration of reusable components in the Open Resource Exchange to facilitate adoption across departments.
 
+### 🇨🇴 Colombia
+
+* 🔗 [Enterprise Architecture Reference Framework](https://www.mintic.gov.co/arquitecturaempresarial/630/articles-204807_recurso_2.pdf)
+* 📄 Overview:
+> The framework establishes the rationalization and reuse of technological assets as a core principle (PRI\_05). It mandates that all public administration entities ensure the optimal use of resources for IT-enabled capabilities by applying criteria of relevance and reuse. This policy promotes efficiency and avoids duplicative spending by encouraging the sharing of software and systems.
+
+* 🔗 [Licensing of State-Owned Software Source Code to Public Entities (Resolution 537 of 2018)](https://normograma.mintic.gov.co/mintic/compilacion/docs/resolucion_mintic_0537_2018.htm)
+* 📄 Overview:
+> The resolution's preamble explicitly aims to prevent the duplication of technological tools and double contracting within the state. To achieve this, Article 1 grants all public entities a license to reproduce and distribute specific government-owned software, creating a formal mechanism for sharing and reusing technological solutions to promote efficiency and economy.
+
+* 🔗 [Interoperability Framework for Digital Government](https://lenguaje.mintic.gov.co/sites/default/files/archivos/marco_de_interoperabilidad_para_gobierno_digital.pdf)
+* 📄 Overview:
+> The framework establishes reuse as a core principle for digital government. On page 30, it defines reuse as the capacity for public entities to leverage existing technological solutions and knowledge to avoid duplication. Recommendation 10 explicitly calls for cooperation in the development of joint solutions, directly promoting the sharing and transfer of software and systems to improve efficiency.
+
 ### 🇪🇪 Estonia
 
 * 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)

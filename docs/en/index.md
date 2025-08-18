@@ -78,6 +78,7 @@ The full list is available in the **[Complete Country Overview](policies/complet
 
 ### 🇧🇷 [Brazil](policies/complete-country-overview_en.md#brazil)  
 ### 🇨🇦 [Canada](policies/complete-country-overview_en.md#canada)  
+### 🇨🇴 [Colombia](policies/complete-country-overview_en.md#colombia)
 ### 🇪🇨 [Ecuador](policies/complete-country-overview_en.md#ecuador)  
 ### 🇪🇪 [Estonia](policies/complete-country-overview_en.md#estonia)  
 ### 🇫🇷 [France](policies/complete-country-overview_en.md#france)  

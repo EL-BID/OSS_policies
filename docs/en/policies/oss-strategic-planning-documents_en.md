@@ -15,6 +15,15 @@
 * 📄 Overview:
   > Decree Nº 10.332/2020, which established Brazil's Digital Government Strategy (2020–2022), references open-source software in its strategic planning by promoting the use of systems and applications built on open and interoperable code. This appears in Initiative 12.7, under Objective 12, which aims to enhance the adoption of digital signatures and identity solutions. The inclusion of open-source principles within this strategic initiative signals the government's intent to increase transparency, accessibility, and trust in its digital infrastructure.
 
+### 🇨🇴 Colombia
+
+* 🔗 [General Guidelines for the Digital Government Policy (Decree 767 of 2022)](https://gobiernodigital.mintic.gov.co/692/articles-272977_Decreto_767_2022.pdf)
+* 📄 Overview:
+> This decree, which outlines the national Digital Government Policy, embeds OSS as a strategic element for public sector transformation. Both the preamble, referencing Law 1955 of 2019, and Article 2.2.9.1.2.1 explicitly state that the government will promote technologies based on free and open source software as a component of digital public innovation.
+
+* 🔗 [National Development Plan 2022-2026: "Colombia, a World Power of Life"](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=209510)
+* 📄 Overview:
+> The National Development Plan, a key strategic document, explicitly commits to strengthening the national ICT sector. As stated in Article 144, this strategy includes the promotion of the use of free software and open source alongside emerging digital technologies. This measure aims to boost productivity, generate employment, and foster innovation across the country's regions, embedding OSS as a tool for national development.
 
 ### 🇪🇨 Ecuador
 

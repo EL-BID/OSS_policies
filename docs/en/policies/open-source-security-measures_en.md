@@ -18,6 +18,11 @@
 * 📄 Overview:  
 > The Open First Whitepaper emphasizes security as a key advantage of open-source software, citing its transparency, auditability, and wide peer review. In the "Security" section, the document explains that public access to source code allows for early identification and remediation of vulnerabilities, aligning with NIST recommendations against relying on obscurity. OSS is favored by national security agencies due to its inspectability, and its security model based on hardening through open testing, is presented as more robust when projects are actively maintained and reviewed.
 
+### 🇨🇴 Colombia
+
+* 🔗 [National Digital Strategy of Colombia 2023 - 2026](https://www.mintic.gov.co/portal/715/articles-334120_recurso_1.pdf)
+* 📄 Overview:
+> Colombia's National Digital Strategy dedicates a core axis (3.3) to ensuring digital security and trust. It outlines actions to strengthen the country's cyber-resilience and requires public entities to adopt robust security models. This strategic directive establishes a security framework that any technology, including open source software, must adhere to, ensuring the protection of public data and systems.
 
 
 ### 🇪🇨 Ecuador

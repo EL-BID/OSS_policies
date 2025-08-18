@@ -19,6 +19,16 @@
 * 📄 Overview:
 > The Open Source Software Form provides guidance for Canadian public administrations to register OSS projects along with their licensing information using standardized SPDX identifiers. By requiring submission of license details including short identifiers, URLs, and license levels, this process promotes consistency and legal clarity in how open-source software is shared and reused across jurisdictions. The use of SPDX ensures alignment with internationally recognized licensing practices for software, data, and related assets.
 
+### 🇨🇴 Colombia
+
+* 🔗 [Digital Government Manual: Implementation of the Digital Government Policy](https://gobiernodigital.mintic.gov.co/692/articles-79394_recurso_1.pdf)
+* 📄 Overview:
+> The manual provides clear guidance on software licensing, as outlined in Section 3.2 under the principle of "Apertura" (Openness). It explicitly recommends that public entities prioritize software with open source licenses. This guideline is established to facilitate the subsequent publication and cost-free reuse of government-developed software solutions, aligning with the policy's transparency goals.
+
+* 🔗 [Licensing of State-Owned Software Source Code to Public Entities (Resolution 537 of 2018)](https://normograma.mintic.gov.co/mintic/compilacion/docs/resolucion_mintic_0537_2018.htm)
+* 📄 Overview:
+> This resolution itself acts as a specific licensing guideline for public software. Article 1 grants a bespoke license to public entities, defining the specific rights of reproduction, public communication, transformation, and distribution. Article 4 adds a mandatory share-alike clause for derivative works, creating a clear legal framework for inter-agency software reuse.
+
 ### 🇪🇪 Estonia
 
 * 🔗 [Interoperability Framework of the State Information System](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)

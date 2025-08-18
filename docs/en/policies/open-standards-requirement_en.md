@@ -20,6 +20,20 @@
 * 📄 Overview:
 > The Open Standards section of the Open Resource Exchange supports the Government of Canada’s mandate to use open standards where possible, as outlined in the Directive on Service and Digital. It provides a centralized catalog of open standards including formats, protocols, and APIs that ensure interoperability across government systems. Public administrations are encouraged to adopt, search, and contribute to this shared repository to support digital openness, technical compatibility, and long-term sustainability.
 
+### 🇨🇴 Colombia
+
+* 🔗 [Digital Government Manual: Implementation of the Digital Government Policy](https://gobiernodigital.mintic.gov.co/692/articles-79394_recurso_1.pdf)
+* 📄 Overview:
+> The policy mandates the use of common standards to ensure government-wide interoperability. As detailed in sections 1.5 and 3.2, entities are required to implement the state's Interoperability Framework. The manual defines standards as mandatory requirements to facilitate the secure and efficient exchange of information between public institutions, forming a core part of the digital government architecture.
+
+* 🔗 [National Digital Strategy of Colombia 2023 - 2026](https://www.mintic.gov.co/portal/715/articles-334120_recurso_1.pdf)
+* 📄 Overview:
+> The national strategy identifies interoperability as a "digital public good" and makes its adoption a key line of action in Section 3.2. It mandates the implementation of tools and services that guarantee interoperability by default across all public entities. This establishes a clear, high-level commitment to using the common and open standards required for seamless data exchange.
+
+* 🔗 [Interoperability Framework for Digital Government](https://lenguaje.mintic.gov.co/sites/default/files/archivos/marco_de_interoperabilidad_para_gobierno_digital.pdf)
+* 📄 Overview:
+> This framework is fundamentally a mandate for open standards to achieve government-wide interoperability. It defines standards as the basis for information exchange and, in lineaments like LI.IOP.SM.01, requires the use of the "common language for information exchange" standard. The entire document is structured to guide public entities in adopting standards to ensure systems can communicate effectively.
+
 ### 🇪🇨 Ecuador
 
 * 🔗 [Executive Decree No. 1014](https://web.gestiondocumental.gob.ec/wp-content/uploads/2020/08/Decreto-Ejecutivo-N-1014.pdf)
