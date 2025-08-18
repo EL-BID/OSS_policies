@@ -76,23 +76,6 @@ The full list is available in the **[Complete Country Overview](policies/complet
 
 > **Note:** For the **European Commission**, we have grouped all regional policies under a single entry due to their wide applicability across member states.
 
-### 🇧🇷 [Brazil](policies/complete-country-overview_en.md#brazil)  
-### 🇨🇦 [Canada](policies/complete-country-overview_en.md#canada)  
-### 🇨🇴 [Colombia](policies/complete-country-overview_en.md#colombia)
-### 🇪🇨 [Ecuador](policies/complete-country-overview_en.md#ecuador)  
-### 🇪🇪 [Estonia](policies/complete-country-overview_en.md#estonia)  
-### 🇫🇷 [France](policies/complete-country-overview_en.md#france)  
-### 🇩🇪 [Germany](policies/complete-country-overview_en.md#germany)  
-### 🇮🇹 [Italy](policies/complete-country-overview_en.md#italy)  
-### 🇰🇷 [South Korea](policies/complete-country-overview_en.md#south-korea)  
-### 🇪🇸 [Spain](policies/complete-country-overview_en.md#spain)  
-### 🇨🇭 [Switzerland](policies/complete-country-overview_en.md#switzerland)  
-### 🇬🇧 [United Kingdom](policies/complete-country-overview_en.md#united-kingdom)  
-### 🇺🇸 [United States](policies/complete-country-overview_en.md#united-states)  
-### 🇺🇾 [Uruguay](policies/complete-country-overview_en.md#uruguay)  
-### 🇪🇺 [European Commission](policies/complete-country-overview_en.md#european-commission)  
-
-
 ## 🤝 How to Contribute
 
 This list is not exhaustive, and it serves as a living resource that is open to continuous updates as new policies emerge, and additional countries are included. Contributions and suggestions for improvement are welcome to ensure the repository remains relevant and useful for the broader community.  
