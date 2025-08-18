@@ -106,7 +106,7 @@ If you're comfortable editing Markdown and GitHub:
 
 We review all suggestions and aim to include relevant contributions quickly.
 
-**📢 Share Your Experience**
+## 📢 Share Your Experience
 
 In addition to contributing policy documents, we invite governments and organizations to take part in the **[Global Open-Source Policies & Practices Survey](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, launched by the Digital Public Goods Alliance Secretariat together with twenty-four partner institutions. By completing the survey, you will help map the global landscape of open-source policies and practices, surface challenges, and highlight promising approaches. Your participation will enrich this repository and support the collective effort to advance open-source-first adoption worldwide
 
