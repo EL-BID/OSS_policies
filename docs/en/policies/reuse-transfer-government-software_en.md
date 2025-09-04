@@ -105,6 +105,10 @@
 * 📄 Overview:
 > The policy facilitates inter-agency software reuse through a mandatory code inventory. All repositories must be cataloged in a `code.json` file which includes metadata specifying if a project is intended for `governmentWideReuseProject`. This creates a discoverable catalog that helps other federal agencies find and adapt existing GSA solutions, reducing duplicative work.
 
+* 🔗 [Source code Harmonization And Reuse in Information Technology Act (SHARE IT Act)](https://dsacms.github.io/share-it-act-lp/)
+* 📄 Overview:
+> The central purpose of the Act is to mandate and streamline the sharing of custom-developed code across all federal agencies. Section 4, "Software Reuse," requires agencies to make their code accessible to all federal employees. This policy aims to reduce duplicative development efforts, minimize costs, promote technological consistency, and foster a culture of collaboration and innovation across the government.
+
 
 ### 🇺🇾 Uruguay
 

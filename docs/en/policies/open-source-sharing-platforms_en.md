@@ -102,6 +102,10 @@
 * 📄 Overview:
 > The guide establishes the GSA organization on GitHub as the primary, centralized platform for agency open source projects. It provides instructions for creating new public repositories under this organization. While other version control systems are acknowledged, the process strongly encourages the use of the GSA GitHub for hosting and managing publicly released code.
 
+* 🔗 [Source code Harmonization And Reuse in Information Technology Act (SHARE IT Act)](https://dsacms.github.io/share-it-act-lp/)
+* 📄 Overview:
+> The Act requires that all custom-developed government code be stored in at least one public or private repository, as stated in Section 4(a). It builds on the success of existing platforms like "Code.gov," mentioned in Section 2(a)(1)(G), by standardizing the public metadata for all government software projects to create a discoverable government-wide inventory of reusable code.
+
 
 ### 🇺🇾 Uruguay
 

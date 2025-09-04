@@ -143,6 +143,10 @@
 * 📄 Overview:
 > This Act mandates the public release of specific, government-developed software. As detailed in Section 2220F(c)(2)(G), the Cybersecurity and Infrastructure Security Agency (CISA) is required to publish and maintain any software tools it develops for its open source risk assessments as open source software, making these government-funded tools available to the public.
 
+* 🔗 [Source code Harmonization And Reuse in Information Technology Act (SHARE IT Act)](https://dsacms.github.io/share-it-act-lp/)
+* 📄 Overview:
+> The Act aims to enhance transparency by making federally funded custom-developed code available for public scrutiny. As outlined in Section 2(b)(4) and Section 4(c), it requires agencies to make metadata for their software publicly accessible for discovery and to house the code in public repositories where appropriate, ensuring public accountability and access to taxpayer-funded projects.
+
 
 ### 🇺🇾 Uruguay
 

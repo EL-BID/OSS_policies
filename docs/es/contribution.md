@@ -1,67 +1,32 @@
-# 🤝 Cómo Contribuir
+# 🤝 How to Contribute
 
-Damos la bienvenida a aportes de investigadores, responsables políticos y defensores del código abierto. Puedes contribuir de dos maneras:
+This list is not exhaustive, and it serves as a living resource that is open to continuous updates as new policies emerge, and additional countries are included. Contributions and suggestions for improvement are welcome to ensure the repository remains relevant and useful for the broader community.  
 
-## 📥 Opción 1 – Enviar un Pull Request
+We welcome input from researchers, policymakers, and open-source advocates. You can contribute in two ways: 
 
-Si te sientes cómodo editando Markdown y GitHub:
+**📝 Option 1– Open a Policy Suggestion**
 
-1. Revisa nuestras [directrices de contribución](CONTRIBUTING.md)
-2. Haz fork del repositorio
-3. Agrega o edita una política en la categoría correcta
-4. Envía un pull request
+If you know of a policy we should include or you'd like us to review something:
 
-## 📝 Opción 2 – Abrir una Sugerencia de Política
+- Use our [Policy Suggestion Issue Template](https://github.com/EL-BID/OSS_policies/issues/new?assignees=&labels=contribution&template=policy-suggestion.yml&title=Suggestion%3A+%5BPolicy+Name%5D)
 
-Si conoces una política que deberíamos incluir o te gustaría que revisemos algo:
+You can let us know:
 
-- Usa nuestro [Template de Sugerencia de Política](https://github.com/EL-BID/OSS_policies/issues/new?assignees=&labels=contribution&template=policy-suggestion.yml&title=Suggestion%3A+%5BPolicy+Name%5D)
+- The name and purpose of the policy
+- Which category it belongs to
+- Whether it's new or related to an existing entry
+- Any official documentation or source links
 
-Puedes hacernos saber:
-- El nombre y propósito de la política
-- A qué categoría pertenece
-- Si es nueva o está relacionada con una entrada existente
-- Cualquier documentación oficial o enlaces de fuente
+**📥 Option 2 – Submit a Pull Request**
 
-Revisamos todas las sugerencias y buscamos incluir contribuciones relevantes rápidamente.
+If you're comfortable editing Markdown and GitHub:
 
-## 📋 Directrices de Contribución
+1. Fork the repository
+2. Add or edit a policy in the correct category
+3. Submit a pull request
 
-### Lo Que Estamos Buscando
+We review all suggestions and aim to include relevant contributions quickly.
 
-- **Políticas gubernamentales oficiales** relacionadas con software de código abierto
-- **Información precisa** con fuentes verificables
-- **Documentación clara** del alcance e impacto de la política
-- **Enlaces oficiales** a fuentes gubernamentales
+**📢 Share Your Experience**
 
-### Estándares de Calidad
-
-- Solo incluir políticas oficialmente documentadas
-- Toda información debe ser verificable a través de fuentes oficiales
-- Presentar políticas objetivamente sin advocacy u opinión
-- Incluir detalles relevantes pero evitar longitud excesiva
-
-### Requisitos de Formato
-
-- Usar las plantillas de markdown proporcionadas
-- Incluir emojis de banderas de países usando códigos ISO
-- Formatear enlaces apropiadamente con texto descriptivo
-- Usar blockquotes (>) para extractos de políticas
-- Mantener estructura de encabezados consistente
-
-## 🌍 Soporte de Idiomas
-
-Este sitio soporta múltiples idiomas:
-- **English** (principal)
-- **Español** (español)
-- **Português** (portugués)
-
-Damos la bienvenida a contribuciones en cualquiera de estos idiomas y podemos ayudar con traducciones si es necesario.
-
-## 📞 Obtener Ayuda
-
-- **Issues**: Usa GitHub Issues para preguntas o sugerencias
-- **Discusiones**: Únete a discusiones del proyecto para temas más amplios
-- **Pull Requests**: Envía cambios directamente via GitHub
-
-¡Gracias por ayudar a construir este valioso recurso para la comunidad global de código abierto!
+In addition to contributing policy documents, we invite governments and organizations to take part in the **[Global Open-Source Policies & Practices Survey](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, launched by the Digital Public Goods Alliance Secretariat together with twenty-four partner institutions. By completing the survey, you will help map the global landscape of open-source policies and practices, surface challenges, and highlight promising approaches. Your participation will enrich this repository and support the collective effort to advance open-source-first adoption worldwide

@@ -98,6 +98,10 @@
 * 📄 Overview:
 > This Act embeds open source security directly into the Homeland Security Act of 2002, a foundational national security law. By assigning permanent duties to the Director of CISA in Section 2220F, it elevates the security of the OSS ecosystem from a best practice to a core, strategic responsibility of the U.S. government's cybersecurity mission.
 
+* 🔗 [Source code Harmonization And Reuse in Information Technology Act (SHARE IT Act)](https://dsacms.github.io/share-it-act-lp/)
+* 📄 Overview:
+> This Act serves as a high-level strategic policy instrument for the entire federal government. As detailed in the findings and purpose in Section 2, it elevates software sharing and reuse to a national strategic priority. The goal is to improve government-wide efficiency, enhance cybersecurity, reduce technological fragmentation, and accelerate the modernization of federal IT systems through mandated collaboration.
+
 
 ### 🇺🇾 Uruguay
 
