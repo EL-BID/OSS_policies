@@ -1,135 +1,131 @@
-# 🌐 Open-Source Policy Collection
+# 🌐 Coleção de Políticas de Código Aberto
 
-To support Latin American and Caribbean countries in shaping their strategies for open-source software adoption, **[Code for Development](https://knowledge.iadb.org/en/code-development)**, the Inter-American Development Bank’s open-source initiative, has created this repository of public policies from governments around the world. 
+Para apoiar os países da América Latina e do Caribe na formulação de suas estratégias para a adoção de software de código aberto, o **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/pt/code-development)**, a iniciativa de código aberto do Banco Interamericano de Desenvolvimento, criou este repositório de políticas públicas de governos de todo o mundo.
 
-The collection brings together regulations, policy documents, and strategic frameworks from various jurisdictions, serving as a reference for policymakers, technologists, and public officials exploring open-source-first approaches in government. 
+A coleção reúne leis, documentos de políticas e marcos estratégicos de diversas jurisdições, servindo como referência para formuladores de políticas, tecnólogos e funcionários públicos que exploram abordagens de "código aberto primeiro" (open-source-first) no governo.
 
-By organizing these policies according to   their purpose and focus, this resource aims to facilitate: 
+Ao organizar estas políticas de acordo com seu propósito e foco, este recurso visa facilitar:
 
-- **🧠 Policy Learning:** Understanding different approaches to open-source governance  
-- **🌟 Best Practice Sharing:** Highlighting successful implementations that can inspire others 
-- **🌐 Global Collaboration:** Connecting policymakers working toward similar goals  
+- **🧠 Aprendizado sobre Políticas:** Compreender diferentes abordagens sobre a governança de código aberto.
+- **🌟 Compartilhamento de Boas Práticas:** Destacar implementações bem-sucedidas que possam inspirar outras.
+- **🌐 Colaboração Global:** Conectar formuladores de políticas que trabalham em objetivos semelhantes.
 
-> ⚠️ **Disclaimer**  
-> This repository is provided for informational and reference purposes only.  
-> It does not represent an official position of the Inter-American Development Bank or the Code for Development program.
+> ⚠️ **Aviso Legal**
+> Este repositório é fornecido apenas para fins informativos e de referência.
+> Não representa uma posição oficial do Banco Interamericano de Desenvolvimento ou do programa Código para o Desenvolvimento.
 
+## 🧭 Estrutura
 
-## 🧭 Structure
+As políticas de código aberto apresentadas neste site estão organizadas de duas maneiras complementares:
 
-The open-source policies featured in this site are organized in two complementary ways:
+**Por Categoria de Política:**
+As políticas são agrupadas por tipo (por exemplo, liberação pública de software, reutilização, licenciamento, capacitação) para apresentar abordagens temáticas e padrões de implementação. Cada página de categoria inclui:
 
-**By Policy Category:**  
-  Policies are grouped by type (e.g., public release of software, reuse, licensing, training) to showcase thematic approaches and implementation patterns. Each category page includes:
-  
-  - A short explanation of the policy type  
-  - A list of official documents or strategies  
-  - Links to the original sources  
-  - Policy overviews  
+  - Um resumo de cada política.
+  - Uma lista de documentos ou estratégias oficiais.
+  - Links para as fontes originais.
+  - Visões gerais das políticas.
 
-**By Country:**  
-  For users interested in national approaches, the [country view](policies/complete-country-overview.md) presents all documented policies grouped by jurisdiction. This view helps highlight how different countries address multiple aspects of open-source governance in a single place.
+**Por País:**
+Para usuários interessados em abordagens nacionais, a [visão por país](policies/complete-country-overview.md) apresenta todas as políticas documentadas agrupadas por jurisdição. Esta visão ajuda a destacar como diferentes países abordam múltiplos aspectos da governança de código aberto em um só lugar.
 
+## 📂 Categorias de Políticas
 
-## 📂 Policy Categories
+### 🏛️ Gestão de Software Governamental
 
-### 🏛️ Government Software Management
+[Liberação Pública de Software de Propriedade do Estado](policies/public-release-state-owned.md)
+Governos exigem ou incentivam que o software desenvolvido com fundos públicos seja liberado ao público, a menos que restringido por motivos legais ou de segurança.
 
-[Public Release of State-Owned Software](policies/public-release-state-owned.md)
-Governments require or incentivize that software developed with public funds be released to the public, unless restricted by legal or security concerns. 
+[Reutilização e Transferência de Software Governamental](policies/reuse-transfer-government-software.md)
+Incentiva a reutilização e a transferência de software entre instituições públicas para evitar a duplicação e promover a eficiência.
 
-[Reuse and Transfer of Government Software](policies/reuse-transfer-government-software.md)
-Encourages the reuse and transfer of software among public institutions to avoid duplication and promote efficiency. 
+[Plataformas para Compartilhamento de Código Aberto](policies/open-source-sharing-platforms.md)
+Criação de plataformas centralizadas para hospedar e gerenciar projetos de código aberto desenvolvidos por ou para entidades governamentais.
 
-[Open Source Sharing Platforms](policies/open-source-sharing-platforms.md)
-Creation of centralized platforms to host and manage OSS projects developed by or for government entities.
+[Priorização de Código Aberto em Aquisições](policies/prioritize-open-source-procurement.md)
+Exige ou incentiva que os processos de aquisição priorizem ou deem preferência a soluções de código aberto quando tecnicamente viáveis.
 
-[Prioritize Open Source in Procurement](policies/prioritize-open-source-procurement.md)
-Mandates or incentivize that procurement processes prioritize or give preference to open source solutions when technically viable. 
+[Contribuição Obrigatória de Volta para Projetos de Código Aberto](policies/mandatory-contribution-back-oss.md)
+Políticas que exigem ou incentivam as agências a contribuir com melhorias (upstream) para os projetos de código aberto que utilizam ou modificam.
 
-[Mandatory Contribution Back to Open Source](policies/mandatory-contribution-back-oss.md)
-Policies requiring or incentivizing agencies to contribute improvements (upstream) to the open source projects they use or modify. 
+### 🛡️ Padrões Legais, de Segurança e Arquitetura
 
-### 🛡️ Legal, Security and Architecture Standards
+[Medidas de Segurança para Código Aberto](policies/open-source-security-measures.md)
+Define protocolos para proteger o código aberto utilizado em sistemas públicos, incluindo auditorias de dependências e varreduras de vulnerabilidades.
 
-[Open Source Security Measures](policies/open-source-security-measures.md)
-Defines protocols for securing OSS used in public systems, including dependency audits and vulnerability scans.
+[Requisito de Padrões Abertos](policies/open-standards-requirement.md)
+Requer que todos os novos sistemas digitais do governo adotem padrões abertos para garantir a interoperabilidade e a neutralidade de fornecedores.
 
-[Open Standards Requirement](policies/open-standards-requirement.md)
-Requires that all new government digital systems adopt open standards to ensure interoperability and vendor neutrality.
+[Estruturas e Diretrizes de Licenciamento](policies/licensing-frameworks-guidelines.md)
+Fornece orientação clara sobre as práticas de licenciamento e as licenças de código aberto aceitáveis para uso governamental.
 
-[Licensing Frameworks and Guidelines](policies/licensing-frameworks-guidelines.md)
-Provides clear guidance on licensing practices and acceptable OSS licenses for government use.
+### 📚 Fortalecimento de Capacidades e Estratégia
 
-### 📚 Capacity Building and Strategy
+[Programas de Capacitação em Código Aberto](policies/oss-training-programs.md)
+Programas projetados para desenvolver competências em código aberto em equipes do setor público e funcionários.
 
-[OSS Training Programs](policies/oss-training-programs.md)
-Programs designed to build open-source competencies across public sector teams and civil servants. 
+[Código Aberto em Documentos de Planejamento Estratégico](policies/oss-strategic-planning-documents.md)
+Menções e compromissos com o código aberto dentro de estratégias digitais de alto nível ou planos de transformação setorial.
 
-[OSS in Strategic Planning Documents](policies/oss-strategic-planning-documents.md)
-Mentions and commitments to OSS within high-level digital strategies or sectoral transformation plans. 
+## 🌍 Políticas por País
 
-## 🌍 Policies by Country
+Para aqueles interessados em explorar políticas de código aberto de uma perspectiva nacional ou regional, esta visão agrupa todas as políticas documentadas por jurisdição em uma única tabela.
+A lista completa está disponível na seção **[Visão Geral Completa por País](policies/complete-country-overview.md)**.
 
-For those interested in exploring open-source policies from a national or regional perspective, this view groups all documented policies by jurisdiction in a single table.  
-The full list is available in the **[Complete Country Overview](policies/complete-country-overview.md)** section.  
+> **Nota:** Para a **Comissão Europeia**, agrupamos todas as políticas regionais em uma única entrada devido à sua ampla aplicabilidade nos estados-membros.
 
-> **Note:** For the **European Commission**, we have grouped all regional policies under a single entry due to their wide applicability across member states.
+## 🤝 Como Contribuir
 
-## 🤝 How to Contribute
+Esta lista não é exaustiva e serve como um recurso vivo, aberto a atualizações contínuas à medida que novas políticas surgem e países adicionais são incluídos. Contribuições e sugestões de melhoria são bem-vindas para garantir que o repositório permaneça relevante e útil para a comunidade em geral.
 
-This list is not exhaustive, and it serves as a living resource that is open to continuous updates as new policies emerge, and additional countries are included. Contributions and suggestions for improvement are welcome to ensure the repository remains relevant and useful for the broader community.  
+Aceitamos contribuições de pesquisadores, formuladores de políticas e defensores do código aberto. Você pode contribuir de duas maneiras:
 
-We welcome input from researchers, policymakers, and open-source advocates. You can contribute in two ways: 
+**📝 Opção 1 – Abrir uma Sugestão de Política**
 
-**📝 Option 1– Open a Policy Suggestion**
+Se você conhece alguma política que deveríamos incluir ou gostaria que revisássemos algo:
+- Use nosso [Modelo de Sugestão de Política](https://github.com/EL-BID/OSS_policies/issues/new?assignees=&labels=contribution&template=policy-suggestion.yml&title=Sugestão%3A+%5BNome+da+Política%5D)
 
-If you know of a policy we should include or you'd like us to review something:
+Você pode nos informar sobre:
 
-- Use our [Policy Suggestion Issue Template](https://github.com/EL-BID/OSS_policies/issues/new?assignees=&labels=contribution&template=policy-suggestion.yml&title=Suggestion%3A+%5BPolicy+Name%5D)
+- O nome e o propósito da política.
+- A qual categoria pertence.
+- Se é nova ou está relacionada a uma entrada existente.
+- Qualquer documentação oficial ou links para fontes.
 
-You can let us know:
+**📥 Opção 2 – Enviar um Pull Request**
 
-- The name and purpose of the policy
-- Which category it belongs to
-- Whether it's new or related to an existing entry
-- Any official documentation or source links
+Se você se sente confortável editando Markdown e usando o GitHub:
 
-**📥 Option 2 – Submit a Pull Request**
+1. Revise nossas [diretrizes de contribuição](contribution.md).
+2. Faça um "fork" do repositório.
+3. Adicione ou edite uma política na categoria correta.
+4. Envie um "pull request".
 
-If you're comfortable editing Markdown and GitHub:
+Revisamos todas as sugestões e nosso objetivo é incluir as contribuições relevantes rapidamente.
 
-1. Review our [contribution guidelines](contribution.md)
-2. Fork the repository
-3. Add or edit a policy in the correct category
-4. Submit a pull request
+## 📢 Compartilhe sua Experiência
 
-We review all suggestions and aim to include relevant contributions quickly.
+Além de contribuir com documentos de política, convidamos governos e organizações a participar da **[Pesquisa Global sobre Políticas e Práticas de Código Aberto](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, lançada pela Secretaria da Aliança de Bens Públicos Digitais em conjunto com vinte e quatro instituições parceiras. Ao preencher a pesquisa, você ajudará a mapear o cenário global de políticas e práticas de código aberto, identificar desafios e destacar abordagens promissoras. Sua participação enriquecerá este repositório и apoiará o esforço coletivo para avançar na adoção de "código aberto primeiro" em todo o mundo.
 
-## 📢 Share Your Experience
+## ⚖️ Licença
 
-In addition to contributing policy documents, we invite governments and organizations to take part in the **[Global Open-Source Policies & Practices Survey](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, launched by the Digital Public Goods Alliance Secretariat together with twenty-four partner institutions. By completing the survey, you will help map the global landscape of open-source policies and practices, surface challenges, and highlight promising approaches. Your participation will enrich this repository and support the collective effort to advance open-source-first adoption worldwide
+Todo o conteúdo deste repositório está licenciado sob:
+**[Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt)**
 
-## ⚖️ License
+Os documentos de políticas governamentais individuais mantêm suas licenças originais.
 
-All content in this repository is licensed under:  
-**[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)**
+## 📄 Citação
 
-Individual government policy documents retain their original licenses.
+Este trabalho pode ser citado usando:
 
-## 📄 Citation
+>Dias Emendabili, J. V. A., Sánchez Romero, L.A., & Kang, D. (2025). Comparative Overview of Open-Source Policies in Government. Inter-American Development Bank, Code for Development Initiative. Disponível em: <https://el-bid.github.io/OSS_policies/>
 
-This work can be cited using: 
+## 👥 Colaboradores
 
->Dias Emendabili, J. V. A., Sánchez Romero, L.A., & Kang, D. (2025). Comparative Overview of Open-Source Policies in Government. Inter-American Development Bank, Code for Development Initiative. Available at: <https://el-bid.github.io/OSS_policies/> 
+Esta coleção foi possível graças à colaboração de:
 
+- [Julia Dias](https://github.com/Juliavieiradeandradedias)
+- [Luis Sanchez](https://github.com/lasr21)
+- [Daeun Kang](https://github.com/daeunkangg)
 
-## 👥 Contributors
-
-This collection was made possible thanks to the collaboration of:
-
-- [Julia Dias ](https://github.com/Juliavieiradeandradedias)  
-- [Luis Sanchez](https://github.com/lasr21)  
-- [Daeun Kang](https://github.com/daeunkangg) 
-
-Special thanks to everyone who helped research, organize, and validate the content.
+Um agradecimento especial a todos que ajudaram a pesquisar, organizar e contenido.
