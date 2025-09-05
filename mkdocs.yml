@@ -49,21 +49,17 @@ plugins:
             Home: Inicio
             Policies: Políticas
             Contribution: Contribución
-          nav:
-            - Inicio: index.md
-            - Políticas:
-              - Liberación Pública de Software Propiedad del Estado: policies/public-release-state-owned.md
-              - Priorización de Código Abierto en Adquisiciones: policies/prioritize-open-source-procurement.md
-              - Reutilización y Transferencia de Software Gubernamental: policies/reuse-transfer-government-software.md
-              - Medidas de Seguridad para el Código Abierto: policies/open-source-security-measures.md
-              - Plataformas para Compartir Código Abierto: policies/open-source-sharing-platforms.md
-              - Contribución Obligatoria a Proyectos de Código Abierto: policies/mandatory-contribution-back-oss.md
-              - Requisito de Estándares Abiertos: policies/open-standards-requirement.md
-              - Marcos y Directrices de Licenciamiento: policies/licensing-frameworks-guidelines.md
-              - Programas de Capacitación en Código Abierto: policies/oss-training-programs.md
-              - Código Abierto en Documentos de Planificación Estratégica: policies/oss-strategic-planning-documents.md
-              - Resumen Completo por País: policies/complete-country-overview.md
-            - Contribución: contribution.md
+            Public Release of State-Owned Software: Liberación Pública de Software Propiedad del Estado
+            Prioritize Open Source in Procurement: Priorización de Código Abierto en Adquisiciones
+            Reuse and Transfer of Government Software: Reutilización y Transferencia de Software Gubernamental
+            Open Source Security Measures: Medidas de Seguridad para el Código Abierto
+            Open Source Sharing Platforms: Plataformas para Compartir Código Abierto
+            Mandatory Contribution Back to OSS: Contribución Obligatoria a Proyectos de Código Abierto
+            Open Standards Requirement: Requisito de Estándares Abiertos
+            Licensing Frameworks and Guidelines: Marcos y Directrices de Licenciamiento
+            OSS Training Programs: Programas de Capacitación en Código Abierto
+            OSS in Strategic Planning Documents: Código Abierto en Documentos de Planificación Estratégica
+            Complete Country Overview: Resumen Completo por País
         - locale: pt
           name: Português
           build: true
@@ -71,21 +67,17 @@ plugins:
             Home: Início
             Policies: Políticas
             Contribution: Contribuição
-          nav:
-            - Início: index.md
-            - Políticas:
-              - Liberação Pública de Software de Propriedade do Estado: policies/public-release-state-owned.md
-              - Priorização de Código Aberto em Aquisições: policies/prioritize-open-source-procurement.md
-              - Reutilização e Transferência de Software Governamental: policies/reuse-transfer-government-software.md
-              - Medidas de Segurança para Código Aberto: policies/open-source-security-measures.md
-              - Plataformas para Compartilhamento de Código Aberto: policies/open-source-sharing-platforms.md
-              - Contribuição Obrigatória de Volta para Projetos de Código Aberto: policies/mandatory-contribution-back-oss.md
-              - Requisito de Padrões Abertos: policies/open-standards-requirement.md
-              - Estruturas e Diretrizes de Licenciamento: policies/licensing-frameworks-guidelines.md
-              - Programas de Capacitação em Código Aberto: policies/oss-training-programs.md
-              - Código Aberto em Documentos de Planejamento Estratégico: policies/oss-strategic-planning-documents.md
-              - Visão Geral Completa por País: policies/complete-country-overview.md
-            - Contribuição: contribution.md
+            Public Release of State-Owned Software: Liberação Pública de Software de Propriedade do Estado
+            Prioritize Open Source in Procurement: Priorização de Código Aberto em Aquisições
+            Reuse and Transfer of Government Software: Reutilização e Transferência de Software Governamental
+            Open Source Security Measures: Medidas de Segurança para Código Aberto
+            Open Source Sharing Platforms: Plataformas para Compartilhamento de Código Aberto
+            Mandatory Contribution Back to OSS: Contribuição Obrigatória de Volta para Projetos de Código Aberto
+            Open Standards Requirement: Requisito de Padrões Abertos
+            Licensing Frameworks and Guidelines: Estruturas e Diretrizes de Licenciamento
+            OSS Training Programs: Programas de Capacitação em Código Aberto
+            OSS in Strategic Planning Documents: Código Aberto em Documentos de Planejamento Estratégico
+            Complete Country Overview: Visão Geral Completa por País
 
 nav:
   - Home: index.md
