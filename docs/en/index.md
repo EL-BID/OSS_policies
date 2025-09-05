@@ -28,51 +28,51 @@ The open-source policies featured in this site are organized in two complementar
   - Policy overviews  
 
 **By Country:**  
-  For users interested in national approaches, the [country view](policies/complete-country-overview_en.md) presents all documented policies grouped by jurisdiction. This view helps highlight how different countries address multiple aspects of open-source governance in a single place.
+  For users interested in national approaches, the [country view](policies/complete-country-overview.md) presents all documented policies grouped by jurisdiction. This view helps highlight how different countries address multiple aspects of open-source governance in a single place.
 
 
 ## 📂 Policy Categories
 
 ### 🏛️ Government Software Management
 
-[Public Release of State-Owned Software](policies/public-release-state-owned_en.md)
+[Public Release of State-Owned Software](policies/public-release-state-owned.md)
 Governments require or incentivize that software developed with public funds be released to the public, unless restricted by legal or security concerns. 
 
-[Reuse and Transfer of Government Software](policies/reuse-transfer-government-software_en.md)
+[Reuse and Transfer of Government Software](policies/reuse-transfer-government-software.md)
 Encourages the reuse and transfer of software among public institutions to avoid duplication and promote efficiency. 
 
-[Open Source Sharing Platforms](policies/open-source-sharing-platforms_en.md)
+[Open Source Sharing Platforms](policies/open-source-sharing-platforms.md)
 Creation of centralized platforms to host and manage OSS projects developed by or for government entities.
 
-[Prioritize Open Source in Procurement](policies/prioritize-open-source-procurement_en.md)
+[Prioritize Open Source in Procurement](policies/prioritize-open-source-procurement.md)
 Mandates or incentivize that procurement processes prioritize or give preference to open source solutions when technically viable. 
 
-[Mandatory Contribution Back to Open Source](policies/mandatory-contribution-back-oss_en.md)
+[Mandatory Contribution Back to Open Source](policies/mandatory-contribution-back-oss.md)
 Policies requiring or incentivizing agencies to contribute improvements (upstream) to the open source projects they use or modify. 
 
 ### 🛡️ Legal, Security and Architecture Standards
 
-[Open Source Security Measures](policies/open-source-security-measures_en.md)
+[Open Source Security Measures](policies/open-source-security-measures.md)
 Defines protocols for securing OSS used in public systems, including dependency audits and vulnerability scans.
 
-[Open Standards Requirement](policies/open-standards-requirement_en.md)
+[Open Standards Requirement](policies/open-standards-requirement.md)
 Requires that all new government digital systems adopt open standards to ensure interoperability and vendor neutrality.
 
-[Licensing Frameworks and Guidelines](policies/licensing-frameworks-guidelines_en.md)
+[Licensing Frameworks and Guidelines](policies/licensing-frameworks-guidelines.md)
 Provides clear guidance on licensing practices and acceptable OSS licenses for government use.
 
 ### 📚 Capacity Building and Strategy
 
-[OSS Training Programs](policies/oss-training-programs_en.md)
+[OSS Training Programs](policies/oss-training-programs.md)
 Programs designed to build open-source competencies across public sector teams and civil servants. 
 
-[OSS in Strategic Planning Documents](policies/oss-strategic-planning-documents_en.md)
+[OSS in Strategic Planning Documents](policies/oss-strategic-planning-documents.md)
 Mentions and commitments to OSS within high-level digital strategies or sectoral transformation plans. 
 
 ## 🌍 Policies by Country
 
 For those interested in exploring open-source policies from a national or regional perspective, this view groups all documented policies by jurisdiction in a single table.  
-The full list is available in the **[Complete Country Overview](policies/complete-country-overview_en.md)** section.  
+The full list is available in the **[Complete Country Overview](policies/complete-country-overview.md)** section.  
 
 > **Note:** For the **European Commission**, we have grouped all regional policies under a single entry due to their wide applicability across member states.
 

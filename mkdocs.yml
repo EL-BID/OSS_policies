@@ -1,9 +1,8 @@
 site_name: Open Source Policy Documentation
 site_description: A comprehensive documentation site for public policies on open source software, organized by policy type.
 site_url: https://EL-BID.github.io/OSS_policies
-
 repo_url: https://github.com/EL-BID/OSS_policies
-repo_name: EL-BID/OSS_policies
+repo_name: EL-BID/OSS_policies 
 
 theme:
   name: material
@@ -61,17 +60,17 @@ plugins:
 nav:
   - Home: index.md
   - Policies:
-    - Public Release of State-Owned Software: policies/public-release-state-owned_en.md
-    - Prioritize Open Source in Procurement: policies/prioritize-open-source-procurement_en.md
-    - Reuse and Transfer of Government Software: policies/reuse-transfer-government-software_en.md
-    - Open Source Security Measures: policies/open-source-security-measures_en.md
-    - Open Source Sharing Platforms: policies/open-source-sharing-platforms_en.md
-    - Mandatory Contribution Back to OSS: policies/mandatory-contribution-back-oss_en.md
-    - Open Standards Requirement: policies/open-standards-requirement_en.md
-    - Licensing Frameworks and Guidelines: policies/licensing-frameworks-guidelines_en.md
-    - OSS Training Programs: policies/oss-training-programs_en.md
-    - OSS in Strategic Planning Documents: policies/oss-strategic-planning-documents_en.md
-    - Complete Country Overview: policies/complete-country-overview_en.md
+    - Public Release of State-Owned Software: policies/public-release-state-owned.md
+    - Prioritize Open Source in Procurement: policies/prioritize-open-source-procurement.md
+    - Reuse and Transfer of Government Software: policies/reuse-transfer-government-software.md
+    - Open Source Security Measures: policies/open-source-security-measures.md
+    - Open Source Sharing Platforms: policies/open-source-sharing-platforms.md
+    - Mandatory Contribution Back to OSS: policies/mandatory-contribution-back-oss.md
+    - Open Standards Requirement: policies/open-standards-requirement.md
+    - Licensing Frameworks and Guidelines: policies/licensing-frameworks-guidelines.md
+    - OSS Training Programs: policies/oss-training-programs.md
+    - OSS in Strategic Planning Documents: policies/oss-strategic-planning-documents.md
+    - Complete Country Overview: policies/complete-country-overview.md
   - Contribution: contribution.md
 
 markdown_extensions:
