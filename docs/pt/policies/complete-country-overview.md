@@ -1,6 +1,17 @@
-TBD
+# Panorama Completo por País
 
-## 🤝 How to contribute
-  
-!!! tip "Want to add a policy?"
-      See something missing? [Open a policy suggestion](https://github.com/EL-BID/OSS_policies/issues/new?template=policy-suggestion.yml)
+!!! abstract "Sobre esta página"
+      Esta página apresenta um panorama, país por país, dos documentos oficiais relacionados às políticas de software de código aberto (SCA). Para cada país, incluímos uma tabela que lista os tipos de políticas relevantes, os documentos legais ou estratégicos correspondentes e um breve resumo de como cada documento aborda o SCA.
+
+
+### 🌍 Políticas
+
+### 🇧🇷 Brasil
+
+| Tipo de Política de SCA | 📄 Documento | 📄 Visão Geral |
+|---|---|---|
+| Disponibilização Pública de Software Desenvolvido pelo Estado | [Lei Nº 14.063/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm) | O Artigo 16 da Lei Nº 14.063/2020 exige que entidades públicas disponibilizem o software que desenvolvem sob licenças de código aberto, permitindo seu reuso e modificação. Isso se aplica retroativamente, com exceções para restrições legais, de segurança ou contratuais. |
+| Priorização de Código Aberto em Aquisições | [Lei Nº 14.063/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm) | O Artigo 16 da Lei Nº 14.063/2020 exige que entidades públicas disponibilizem o software que desenvolvem sob licenças de código aberto, permitindo seu reuso e modificação. Isso se aplica retroativamente, com exceções para restrições legais, de segurança ou contratuais. |
+| Requisito de Padrões Abertos | [Lei Nº 14.129/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm) | A Lei Nº 14.129/2021 determina o uso de formatos abertos e não proprietários nos serviços digitais do governo, reforçando os padrões abertos como requisito legal. O Artigo 3, inciso XXV, e as definições no Artigo 4 enfatizam que os sistemas governamentais devem adotar tecnologias abertas, documentadas e livres de patentes para garantir a interoperabilidade e a acessibilidade. Essas disposições apoiam o objetivo mais amplo de uma governança digital eficiente e transparente. |
+| Programas de Capacitação em SCA | [Lei Nº 14.129/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm) | A Lei Nº 14.129/2021 incentiva a criação de laboratórios de inovação como espaços colaborativos entre governo e sociedade para desenvolver e testar novas soluções de serviços públicos. Definidos no Artigo 4, inciso VIII, esses laboratórios promovem o uso de tecnologias abertas e livres, mas não estabelecem explicitamente programas de treinamento ou capacitação para a adoção ou sustentabilidade de SCA. Embora apoie os princípios do SCA, a lei não chega a determinar ou financiar esforços específicos de treinamento em SCA. |
+| SCA em Documentos de Planejamento Estratégico | [Decreto Nº 10.332/2020](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10332.htm) | O Decreto Nº 10.332/2020, que instituiu a Estratégia de Governo Digital do Brasil (2020–2022), faz referência ao software de código aberto em seu planejamento estratégico ao promover o uso de sistemas e aplicações construídos em código aberto e interoperável. Isso aparece na Iniciativa 12.7, sob o Objetivo 12, que visa a aprimorar a adoção de assinaturas digitais e soluções de identidade. A inclusão de princípios de código aberto nesta iniciativa estratégica sinaliza a intenção do governo de aumentar a transparência, a acessibilidade e a confiança em sua infraestrutura digital. |
