@@ -1,52 +1,52 @@
 # 🌐 Coleção de Políticas de Código Aberto
 
-Para apoiar os países da América Latina e do Caribe na formulação de suas estratégias para a adoção de software de código aberto, o **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/pt/code-development)**, a iniciativa de código aberto do Banco Interamericano de Desenvolvimento, criou este repositório de políticas públicas de governos de todo o mundo.
+Para apoiar os países da América Latina e do Caribe na formulação de suas estratégias de código aberto, o **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/pt/code-development)**, a iniciativa de código aberto do Banco Interamericano de Desenvolvimento, criou este repositório de políticas públicas de diferentes países ao redor do mundo.
 
-A coleção reúne leis, documentos de políticas e marcos estratégicos de diversas jurisdições, servindo como referência para formuladores de políticas, tecnólogos e funcionários públicos que exploram abordagens de "código aberto primeiro" (open-source-first) no governo.
+A coleção reúne regulamentações, documentos normativos e referenciais estratégicos de diversas jurisdições, servindo como referência para formuladores de políticas, tecnólogos e funcionários públicos que exploram abordagens que priorizam o código aberto (open-source-first) no governo.
 
-Ao organizar estas políticas de acordo com seu propósito e foco, este recurso visa facilitar:
+Ao organizar estas políticas de acordo com seu propósito, este recurso visa facilitar:
 
 - **🧠 Aprendizado sobre Políticas:** Compreender diferentes abordagens sobre a governança de código aberto.
 - **🌟 Compartilhamento de Boas Práticas:** Destacar implementações bem-sucedidas que possam inspirar outras.
 - **🌐 Colaboração Global:** Conectar formuladores de políticas que trabalham em objetivos semelhantes.
 
-> ⚠️ **Aviso Legal**
-> Este repositório é fornecido apenas para fins informativos e de referência.
+> ⚠️ **Nota Explicativa**
+> Este repositório possui fins informativos e de referência.
 > Não representa uma posição oficial do Banco Interamericano de Desenvolvimento ou do programa Código para o Desenvolvimento.
 
 ## 🧭 Estrutura
 
 As políticas de código aberto apresentadas neste site estão organizadas de duas maneiras complementares:
 
-**Por Categoria de Política:**
-As políticas são agrupadas por tipo (por exemplo, liberação pública de software, reutilização, licenciamento, capacitação) para apresentar abordagens temáticas e padrões de implementação. Cada página de categoria inclui:
+**Por Categoria:**
+As políticas são agrupadas por tipo (por exemplo, publicação de software, reutilização, licenciamento, capacitação) para apresentar abordagens temáticas e padrões de implementação. Cada página inclui:
 
-  - Um resumo de cada política.
+  - Um resumo do tipo de política pública.
   - Uma lista de documentos ou estratégias oficiais.
   - Links para as fontes originais.
   - Visões gerais das políticas.
 
 **Por País:**
-Para usuários interessados em abordagens nacionais, a [visão por país](policies/complete-country-overview.md) apresenta todas as políticas documentadas agrupadas por jurisdição. Esta visão ajuda a destacar como diferentes países abordam múltiplos aspectos da governança de código aberto em um só lugar.
+Para usuários interessados em abordagens nacionais, a [visão por país](policies/complete-country-overview.md) apresenta todas as políticas documentadas agrupadas por país. Esta visão ajuda a destacar como diferentes países abordam múltiplos aspectos da governança de código aberto em um só lugar.
 
 ## 📂 Categorias de Políticas
 
 ### 🏛️ Gestão de Software Governamental
 
-[Liberação Pública de Software de Propriedade do Estado](policies/public-release-state-owned.md)
+[Publicação em Código Aberto de Software de Propriedade do Estado](policies/public-release-state-owned.md)
 Governos exigem ou incentivam que o software desenvolvido com fundos públicos seja liberado ao público, a menos que restringido por motivos legais ou de segurança.
 
-[Reutilização e Transferência de Software Governamental](policies/reuse-transfer-government-software.md)
-Incentiva a reutilização e a transferência de software entre instituições públicas para evitar a duplicação e promover a eficiência.
+[Reutilização e Transferência de Software de Código Aberto](policies/reuse-transfer-government-software.md)
+Incentiva a reutilização e a transferência de software de código aberto entre instituições públicas para evitar a duplicação e promover a eficiência.
 
-[Plataformas para Compartilhamento de Código Aberto](policies/open-source-sharing-platforms.md)
+[Plataformas para Compartilhamento de Software de Código Aberto](policies/open-source-sharing-platforms.md)
 Criação de plataformas centralizadas para hospedar e gerenciar projetos de código aberto desenvolvidos por ou para entidades governamentais.
 
 [Priorização de Código Aberto em Aquisições](policies/prioritize-open-source-procurement.md)
 Exige ou incentiva que os processos de aquisição priorizem ou deem preferência a soluções de código aberto quando tecnicamente viáveis.
 
-[Contribuição Obrigatória de Volta para Projetos de Código Aberto](policies/mandatory-contribution-back-oss.md)
-Políticas que exigem ou incentivam as agências a contribuir com melhorias (upstream) para os projetos de código aberto que utilizam ou modificam.
+[Contribuição a Projetos de Código Aberto](policies/mandatory-contribution-back-oss.md)
+Políticas que exigem ou incentivam os servidores públicos e agências a contribuir com melhorias (upstream) de projetos de código aberto que utilizam ou modificam.
 
 ### 🛡️ Padrões Legais, de Segurança e Arquitetura
 
@@ -69,7 +69,7 @@ Menções e compromissos com o código aberto dentro de estratégias digitais de
 
 ## 🌍 Políticas por País
 
-Para aqueles interessados em explorar políticas de código aberto de uma perspectiva nacional ou regional, esta visão agrupa todas as políticas documentadas por jurisdição em uma única tabela.
+Para aqueles interessados em explorar políticas de código aberto de uma perspectiva nacional ou regional, esta visão agrupa todas as políticas documentadas pelos países em uma única tabela.
 A lista completa está disponível na seção **[Visão Geral Completa por País](policies/complete-country-overview.md)**.
 
 > **Nota:** Para a **Comissão Europeia**, agrupamos todas as políticas regionais em uma única entrada devido à sua ampla aplicabilidade nos estados-membros.
@@ -78,14 +78,14 @@ A lista completa está disponível na seção **[Visão Geral Completa por País
 
 Esta lista não é exaustiva e serve como um recurso vivo, aberto a atualizações contínuas à medida que novas políticas surgem e países adicionais são incluídos. Contribuições e sugestões de melhoria são bem-vindas para garantir que o repositório permaneça relevante e útil para a comunidade em geral.
 
-Aceitamos contribuições de pesquisadores, formuladores de políticas e defensores do código aberto. Você pode contribuir de duas maneiras:
+Aceitamos contribuições de pesquisadores, formuladores de políticas públicas e defensores do código aberto. Você pode contribuir de duas maneiras:
 
-**📝 Opção 1 – Abrir uma Sugestão de Política**
+**📝 Opção 1 – Enviar uma Sugestão de Política**
 
-Se você conhece alguma política que deveríamos incluir ou gostaria que revisássemos algo:
+Se você conhece alguma política que deveríamos incluir ou gostaria que revisássemos:
 - Use nosso [Modelo de Sugestão de Política](https://github.com/EL-BID/OSS_policies/issues/new?assignees=&labels=contribution&template=policy-suggestion.yml&title=Sugestão%3A+%5BNome+da+Política%5D)
 
-Você pode nos informar sobre:
+Você pode compartilhar:
 
 - O nome e o propósito da política.
 - A qual categoria pertence.
@@ -105,7 +105,7 @@ Revisamos todas as sugestões e nosso objetivo é incluir as contribuições rel
 
 ## 📢 Compartilhe sua Experiência
 
-Além de contribuir com documentos de política, convidamos governos e organizações a participar da **[Pesquisa Global sobre Políticas e Práticas de Código Aberto](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, lançada pela Secretaria da Aliança de Bens Públicos Digitais em conjunto com vinte e quatro instituições parceiras. Ao preencher a pesquisa, você ajudará a mapear o cenário global de políticas e práticas de código aberto, identificar desafios e destacar abordagens promissoras. Sua participação enriquecerá este repositório и apoiará o esforço coletivo para avançar na adoção de "código aberto primeiro" em todo o mundo.
+Além de contribuir com esse repositório, os convidamos a participar da **[Pesquisa Global sobre Políticas e Práticas de Código Aberto](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, lançada pela Secretaria da Aliança de Bens Públicos Digitais em conjunto com vinte e quatro instituições parceiras. Ao preencher a pesquisa, você ajudará a mapear o cenário global de políticas e práticas de código aberto, identificar desafios e destacar abordagens promissoras. Sua participação enriquecerá este repositório e apoiará o avanço da adoção de "código aberto" em todo o mundo.
 
 ## ⚖️ Licença
 
@@ -128,4 +128,4 @@ Esta coleção foi possível graças à colaboração de:
 - [Luis Sanchez](https://github.com/lasr21)
 - [Daeun Kang](https://github.com/daeunkangg)
 
-Um agradecimento especial a todos que ajudaram a pesquisar, organizar e contenido.
+Um agradecimento especial a todos que ajudaram a pesquisar, organizar e conteúdo.
