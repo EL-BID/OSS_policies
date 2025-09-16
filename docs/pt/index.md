@@ -1,6 +1,6 @@
 # 🌐 Coleção de Políticas de Código Aberto
 
-Para apoiar os países da América Latina e do Caribe na formulação de suas estratégias de código aberto, o **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/pt/code-development)**, a iniciativa de código aberto do Banco Interamericano de Desenvolvimento, criou este repositório de políticas públicas de diferentes países ao redor do mundo.
+Para apoiar os países da América Latina e do Caribe na formulação de suas estratégias de código aberto, o **[Código para o Desenvolvimento](https://knowledge.iadb.org/pt-br/pt/code-development)**, iniciativa de código aberto do Banco Interamericano de Desenvolvimento, criou este repositório de políticas públicas de diferentes países ao redor do mundo.
 
 A coleção reúne regulamentações, documentos normativos e referenciais estratégicos de diversas jurisdições, servindo como referência para formuladores de políticas, tecnólogos e funcionários públicos que exploram abordagens que priorizam o código aberto (open-source-first) no governo.
 
