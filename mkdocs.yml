@@ -6,6 +6,7 @@ repo_name: EL-BID/OSS_policies
 
 theme:
   name: material
+  custom_dir: docs/overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
