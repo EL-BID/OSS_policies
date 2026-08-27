@@ -103,9 +103,13 @@ Si te sientes cómodo editando Markdown y usando GitHub:
 
 Revisamos todas las sugerencias y nuestro objetivo es incluir las contribuciones relevantes rápidamente.
 
-## 📢 Comparte tu Experiencia
+## 📢 Evalúa tu nivel de madurez en código abierto
 
-Además de contribuir con documentos de política, invitamos a gobiernos y organizaciones a participar en la **[Encuesta Global sobre Políticas y Prácticas de Código Abierto](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, lanzada por la Secretaría de la Alianza de Bienes Públicos Digitales junto con veinticuatro instituciones asociadas. Al completar la encuesta, ayudarás a mapear el panorama global de políticas y prácticas de código abierto, identificar desafíos y destacar enfoques prometedores. Tu participación enriquecerá este repositorio y apoyará el esfuerzo colectivo para avanzar en la adopción de "código abierto primero" en todo el mundo.
+¿Está tu gobierno u organización preparado para ampliar el uso de software de código abierto? La Secretaría de la Alianza de Bienes Públicos Digitales creó una autoevaluación gratuita de 12 minutos que mide el nivel de madurez de tu institución en código abierto en seis dimensiones: políticas, gobernanza, capacidad técnica, adquisiciones, financiación y colaboración en el ecosistema.
+
+Al completar la evaluación, recibirás una puntuación de madurez personalizada (Principiante, Desarrollador o Pionero), un desglose de tu desempeño en cada dimensión y un informe descargable que puedes compartir con tu equipo o usar para guiar tu estrategia de código abierto.
+
+👉 Realiza la evaluación: [https://oss-assessment.digitalpublicgoods.net/](https://oss-assessment.digitalpublicgoods.net/)
 
 ## ⚖️ Licencia
 
