@@ -106,9 +106,13 @@ If you're comfortable editing Markdown and GitHub:
 
 We review all suggestions and aim to include relevant contributions quickly.
 
-## 📢 Share Your Experience
+## 📢 Assess your open source maturity
 
-In addition to contributing policy documents, we invite governments and organizations to take part in the **[Global Open-Source Policies & Practices Survey](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, launched by the Digital Public Goods Alliance Secretariat together with twenty-four partner institutions. By completing the survey, you will help map the global landscape of open-source policies and practices, surface challenges, and highlight promising approaches. Your participation will enrich this repository and support the collective effort to advance open-source-first adoption worldwide
+Is your government or organization ready to scale its use of open-source software? The Digital Public Goods Alliance Secretariat created a free, 12-minute self-assessment that measures your institution's open source maturity across six dimensions: policy, governance, technical capacity, procurement, financing, and ecosystem collaboration.
+
+By completing the assessment, you will receive a personalized maturity score (Starter, Builder, or Pioneer), a breakdown of your performance across each dimension, and a downloadable report you can share with your team or use to guide your open-source strategy.
+
+👉 Take the assessment: [https://oss-assessment.digitalpublicgoods.net/](https://oss-assessment.digitalpublicgoods.net/)  
 
 ## ⚖️ License
 
