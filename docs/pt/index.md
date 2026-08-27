@@ -100,9 +100,13 @@ Se você se sente confortável editando Markdown e usando o GitHub:
 
 Revisamos todas as sugestões e nosso objetivo é incluir as contribuições relevantes rapidamente.
 
-## 📢 Compartilhe sua Experiência
+## 📢 Avalie a maturidade da sua organização em código aberto
 
-Além de contribuir com esse repositório, os convidamos a participar da **[Pesquisa Global sobre Políticas e Práticas de Código Aberto](https://www.digitalpublicgoods.net/blog/opensourcesurvey)**, lançada pela Secretaria da Aliança de Bens Públicos Digitais em conjunto com vinte e quatro instituições parceiras. Ao preencher a pesquisa, você nos ajudará a mapear o cenário global de políticas e práticas de código aberto, identificar desafios e destacar abordagens promissoras. Sua participação enriquecerá este repositório e apoiará o avanço da adoção de "código aberto" em todo o mundo.
+Seu governo ou organização está pronto para ampliar o uso de software de código aberto? O Secretariado da Digital Public Goods Alliance criou uma autoavaliação gratuita de 12 minutos que mede a maturidade da sua instituição em código aberto em seis dimensões: política, governança, capacidade técnica, aquisição, financiamento e colaboração com o ecossistema.
+
+Ao concluir a avaliação, você receberá uma pontuação de maturidade personalizada (Iniciante, Construtor ou Pioneiro), uma análise do seu desempenho em cada dimensão e um relatório para download que você pode compartilhar com sua equipe ou usar para orientar sua estratégia de código aberto.
+
+👉 Faça a avaliação: [https://oss-assessment.digitalpublicgoods.net/](https://oss-assessment.digitalpublicgoods.net/)
 
 ## ⚖️ Licença
 
